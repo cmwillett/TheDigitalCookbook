@@ -1,0 +1,58 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+        <script src="{{site.github.url}}/javascripts/respond.js"></script>
+        <script src="{{site.github.url}}/javascripts/global.js"></script>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="chrome=1">
+        <title>Apt Knowledge Base by cwillet</title>
+        <link rel="stylesheet" href="{{site.github.url}}/stylesheets/github-dark.css">
+        <link rel="stylesheet" href="{{site.github.url}}/stylesheets/styles.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    </head>
+    <body>
+        <div id="header">
+          <nav>
+            <li class="fork"><a href="../">Home</a></li>
+            <li class="fork"><a href="{{site.github.url}}/Automation/index.html">Automation</a></li>
+            <li class="fork"><a href="{{site.github.url}}/PerformanceTesting/index.html">Performance Testing</a></li>
+            <li class="fork"><a href="{{site.github.url}}/IdeasIssues/index.html">Submit an Idea/Issue</a></li>
+            <li class="fork"><a href="{{site.github.url}}/Documents/index.html">Documents</a></li>
+            <li class="fork"><a href="{{site.github.url}}/Feedback/index.html">Feedback</a></li>
+            <li class="fork"><a href="{{site.github.url}}/ProductionSupport.html">Production Support</a></li>
+          </nav>
+        </div>
+        <div class="wrapper">
+            <section>
+                <div id="title">
+                    <h1>APT Knowledge Base</h1>
+                    <p>Everything Automation</p>
+                    <hr>
+                    <span class="credits left">Project maintained by <a href="https://github.gaig.com/cwillet">cwillet</a></span>
+                    <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+                </div>
+            </section>
+            <!-- Page.content -->
+            <article class="post-content">
+                {{ content }}
+            </article>
+        </div>
+        <!-- Google Analytics -->
+<!--        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            /* do not send analytics info from any other site */
+            if(window.location.href.indexOf("pages/BUE/APTKnowledgeBase/") > -1) {
+                ga('create', 'UA-76225164-1', 'auto');
+                ga('send', 'pageview');
+            }
+        </script>-->
+    </body>
+</html>

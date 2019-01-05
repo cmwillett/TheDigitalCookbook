@@ -1,0 +1,92 @@
+---
+layout: compress
+tipue_search_active: true
+---
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+        <script src="{{site.github.url}}/javascripts/respond.js"></script>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="chrome=1">
+        <title>The Craig's Recipes</title>
+        <link rel="shortcut icon" type="image/png" href="{{site.github.url}}/favicon1.png">
+        <link rel="stylesheet" href="{{site.github.url}}/stylesheets/github-dark.css">
+        <link rel="stylesheet" href="{{site.github.url}}/stylesheets/styles.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <!--{% if page.tipue_search_active or layout.tipue_search_active %}-->
+        <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
+        <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
+        <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
+        <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
+        <!--{% endif %}-->
+    </head>
+    <body>
+        <div id="header">
+          <nav>
+            <li class="fork"><a href="{{site.github.url}}">Home</a></li>
+            <li class="fork"><a href="{{site.github.url}}/AppetizerFingerFoods/index.html">Appetizer/Finger Foods</a></li>
+            <li class="fork"><a href="{{site.github.url}}/Campfire/index.html">Campfire Foods</a></li>
+            <li class="fork"><a href="{{site.github.url}}/CasserolesAndHeartyPies/index.html">Casseroles/Hearty Pies</a></li>
+            <li class="fork"><a href="{{site.github.url}}/Chilis/index.html">Chilis</a></li>
+            <li class="fork"><a href="{{site.github.url}}/Desserts/index.html">Desserts</a></li>
+            <li class="fork"><a href="{{site.github.url}}/Dips/index.html">Dips</a></li>
+            <li class="fork"><a href="{{site.github.url}}/InstantPot/index.html">Instant Pot</a></li>
+            <li class="fork"><a href="{{site.github.url}}/Meatloaf/index.html">Meatloaf</a></li>
+            <li class="fork"><a href="{{site.github.url}}/SideItems/index.html">Side Items</a></li>
+            <li class="fork"><a href="{{site.github.url}}/SlowCooker/index.html">Slow Cooker</a></li>
+            <li class="fork"><a href="{{site.github.url}}/Snacks/index.html">Snacks</a></li>
+            <li class="fork"><a href="{{site.github.url}}/SoupsAndStews/index.html">Soups/Stews</a></li>
+            <li class="fork"><a href="{{site.github.url}}/ContactMe/index.html">Contact The Craig</a></li>
+            <li class="fork">
+              <form action="{{ page.url | relative_url }}">
+                <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
+                <div class="tipue_search_right"><input type="text" placeholder="Search Recipes..." name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
+                <div style="clear: both;"></div>
+              </form>
+            </li>
+          </nav>
+          <!--<div id="tipue_search_content"></div>-->
+          <script>
+            $(document).ready(function() {
+              $('#tipue_search_input').tipuesearch();
+            });
+          </script>
+        </div>
+        <div class="wrapper">
+            <section>
+              <div id="tipue_search_content"></div>
+                <div id="title">
+                    <center><h1><b>The Craig</b></h1></center>
+                    <center><h3>And his Favorite Recipes</h3></center>
+                    <center>
+                    <form>
+                        <input type="button" value="Most Recently Added" onclick="window.location.href='{{site.github.url}}/MostRecentlyAdded/index.html'" />
+                        <input type="button" value="The Craig's Top 5" onclick="window.location.href='{{site.github.url}}/TheCraigsTop5/index.html'" />
+                    </form>
+                    </center>
+                    <hr>
+                </div>
+            </section>
+            <!-- Page.content -->
+            <article class="post-content">
+                {{ content }}
+            </article>
+        </div>
+        <!-- Google Analytics -->
+<!--        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            /* do not send analytics info from any other site */
+            if(window.location.href.indexOf("pages/BUE/APTKnowledgeBase/") > -1) {
+                ga('create', 'UA-76225164-1', 'auto');
+                ga('send', 'pageview');
+            }
+        </script>-->
+    </body>
+</html>
