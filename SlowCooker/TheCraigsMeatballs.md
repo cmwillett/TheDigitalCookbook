@@ -5,7 +5,7 @@ tags: meatballs,slow,cooker,crockpot,appetizer
 ---
 # Meatballs!
 
-### The Craig's Meatballs
+### Craig's Meatballs
 So easy and tasty!
 
 #### Ingredients:
