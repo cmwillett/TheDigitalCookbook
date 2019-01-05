@@ -5,7 +5,7 @@ tags: side,item,sides,items,baked,asparagus
 ---
 # Baked Asparagus
 
-### The Craig has made this many times.  Love it!  Although my pee stinks afterwards...
+### Craig has made this many times.  Love it!  Although our pee stinks afterwards...
 
 #### Ingredients
 - 1 bunch of asparagus spears, trimmed
