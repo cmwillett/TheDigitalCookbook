@@ -5,7 +5,7 @@ tags: snacks,chex,party,mix
 ---
 # Chex Party Mix
 
-### Someone gave me this recipe and I was hooked!
+### Someone gave us this recipe and we've been hooked!
 So easy and tasty!
 
 #### Ingredients
