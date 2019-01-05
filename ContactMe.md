@@ -8,5 +8,5 @@ tags: contact
 ### Got a recipe you'd like us to try/add?
 ### Or did you find a misspelled word, broken link or any other error/issue with the site?
 
-* [Email Admin with New Recipe](mailto:craig.willett@gmail.com?Subject=New Recipe)
-* [Email Admin about an Issue](mailto:craig.willett@gmail.com?Subject=New Issue)
+* [Submit New Recipe(s)](mailto:craig.willett@gmail.com?Subject=New Recipe)
+* [Submit an Issue](mailto:craig.willett@gmail.com?Subject=New Issue)
