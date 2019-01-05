@@ -9,7 +9,7 @@ tags: instant,pot,pressure,cooker,stew,wings,chicken,popcorn,applesauce,salsa,ri
 
 #### Ribs
 * [Instant Pot Apple BBQ Ribs]({{site.github.url}}/InstantPot/AppleBBQRibs/index.html)
-  * Easily one of my favorite instant pot recipes.  Perfect, fall off the bone, ribs every single time!
+  * Easily one of our favorite instant pot recipes.  Perfect, fall off the bone, ribs every single time!
 
 #### Applesauces
 * [Instant Pot Applesauce]({{site.github.url}}/InstantPot/Applesauce/index.html)

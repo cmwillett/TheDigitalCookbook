@@ -5,7 +5,7 @@ tags: recent,current
 ---
 # Most Recently Added
 
-### The most recently added recipes that I've added to the site...
+### The most recently added recipes that we've added to the site...
 
 #### Added on January 3rd, 2019
 * [Instant Pot Mac N Cheese]({{site.github.url}}/InstantPot/MacNCheese/index.html)

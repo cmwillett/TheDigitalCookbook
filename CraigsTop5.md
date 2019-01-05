@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "The Craig's Top 5's"
+title: "Craig's Top 5's"
 tags: top,most,popular
 ---
-# The Craig's Top 5's
+# Craig's Top 5's
 
 ### My Most Favoritest Recipes on the Site!
 
