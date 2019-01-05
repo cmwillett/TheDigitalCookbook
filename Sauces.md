@@ -9,6 +9,3 @@ tags: sauce,sauces,caramelized,onion,honey,bbq,barbecue
 
 #### BBQ
 * [Caramelized Onion and Honey Barbecue Sauce]({{site.github.url}}/Sauces/CaramelizedOnionHoneyBarbecueSauce/index.html)
-
-#### Cakes
-* [Chocolate Eclair Cake]({{site.github.url}}/Desserts/ChocolateEclairCake/index.html)
