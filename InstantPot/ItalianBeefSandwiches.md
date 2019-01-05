@@ -5,7 +5,7 @@ tags: instant,pot,italian,beef,sandwich
 ---
 # Instant Pot Italian Beef Sandwiches
 
-### I fell in love with Italian beef sandwiches from a place called Portillos in Chicago.  Had to find a way to make them in the instant pot at home!
+### We fell in love with Italian beef sandwiches from a place called Portillos in Chicago.  Had to find a way to make them in the instant pot at home!
 
 #### Ingredients
 - 1 3 pound chuck roast

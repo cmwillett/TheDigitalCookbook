@@ -5,7 +5,7 @@ tags: instant,pot,pot,roast
 ---
 # Instant Pot Sunday Pot Roast
 
-### You can make this ANY day of the week!
+### You can make this ANY day of the week (not just Sunday)!
 
 #### INGREDIENTS (with Amazon Links)
 - 3 pounds **[beef chuck roast](https://amzn.to/2tdXslc)**

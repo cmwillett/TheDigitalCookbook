@@ -5,7 +5,7 @@ tags: ribs,recipe,bbq,apple,instant pot,pressure
 ---
 # Apple BBQ Ribs!
 
-### This is one of my favorite instant pot recipes!
+### This is one of our favorite instant pot recipes!
 So easy and tasty!
 
 #### Ingredients

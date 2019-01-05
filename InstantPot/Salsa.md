@@ -5,7 +5,7 @@ tags: instant,pot,salsa
 ---
 # Instant Pot Salsa
 
-### The Craig loves salsa!
+### Craig loves salsa!
 
 #### Ingredients
 - 1 large onion approx 2 cups
