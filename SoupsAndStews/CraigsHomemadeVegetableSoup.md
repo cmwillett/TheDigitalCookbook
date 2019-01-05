@@ -5,7 +5,7 @@ tags: soup,homemade,vegetable
 ---
 # Craig's Homemade Vegetable Soup
 
-### The Craig makes this a lot.  The whole family loves it!
+### Craig makes this a lot.  The whole family loves it!
 
 #### Ingredients:
 - Note:  Adjust ingredients to whatever you prefer
