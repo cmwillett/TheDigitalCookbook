@@ -22,5 +22,5 @@ Here I will store all recipes I come across - well, not all, but the ones that a
 * [Snacks]({{site.github.url}}/Snacks/index.html)
 * [Soups/Stews]({{site.github.url}}/SoupsAndStews/index.html)
 * [Contact Admin]({{site.github.url}}/ContactMe/index.html)
-  * If you want have a recipe for me to try and/or want one added to the site!
+  * If you have a recipe for me to try and/or want one added to the site!
   * Or you found a broken link, misspelled word, etc., don't hesitate to let us know!
