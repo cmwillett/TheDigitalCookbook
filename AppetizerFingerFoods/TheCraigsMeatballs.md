@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "The Craig's Meatballs"
+title: "Craig's Meatballs"
 tags: meatballs,slow,cooker,crockpot
 ---
 # Meatballs!
 
-### The Craig's Meatballs
+### Craig's Meatballs
 So easy and tasty!
 
 #### Ingredients:
