@@ -258,3 +258,9 @@ tipue_search:
   include:
     pages: true
     collections: [apples, oranges]
+
+title: Apt Knowledge Base
+description: Everything Automation
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
