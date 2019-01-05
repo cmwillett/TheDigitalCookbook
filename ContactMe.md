@@ -3,7 +3,7 @@ layout: default
 title: "Contact Me"
 tags: contact
 ---
-# Contact The Craig
+# Contact Us
 
 ### Got a recipe you'd like us to try/add?
 ### Or did you find a misspelled word, broken link or any other error/issue with the site?
