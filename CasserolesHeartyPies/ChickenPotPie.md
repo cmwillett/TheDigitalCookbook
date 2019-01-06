@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Chicken Pot Pie"
-tags: chicken,pot,pie,easy,craig,willett
+tags: chicken,pot,pie,easy,craig,willett,kristen
 ---
 # Chicken Pot Pie
 
