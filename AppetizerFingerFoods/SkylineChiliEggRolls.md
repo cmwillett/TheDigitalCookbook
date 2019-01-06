@@ -20,3 +20,4 @@ tags: skyline,chili,egg,rolls,appetizer,finger,food
 1. Heat chili up per instructions...
 2. Use cheese cloth to squeeze liquid out of chili
 3. Egg roll construction - one table spoon +/- of chili, one piece of hot dog, line of mustard, sprinkle with onion & cheese, roll egg roll per instructions, wet end of eggroll to seal
+4. Bake until golden brown
