@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot Popcorn"
-tags: instant,pot,popcorn
+tags: instant,pot,popcorn,craig,kristen,willett
 ---
 # Instant Pot Popcorn
 
