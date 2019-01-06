@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot Mac N Cheese"
-tags: instant,pot,mac,cheese,macaroni
+tags: instant,pot,mac,cheese,macaroni,craig,kristen,willett
 ---
 # Instant Pot Mac N Cheese
 
