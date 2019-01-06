@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot 5 Spice Beef Stew"
-tags: instant,pot,beef,stew,spice
+tags: instant,pot,beef,stew,spice,craig,willett
 ---
 # Instant Pot 5 Spice Beef Stew
 
