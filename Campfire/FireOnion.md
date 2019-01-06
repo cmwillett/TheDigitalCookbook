@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Fire Onion"
-tags: recipe,fire,onion,camping
+tags: recipe,fire,onion,camping,craig,willett
 ---
 # Fire Onion!
 
