@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Apple BBQ Ribs"
-tags: ribs,recipe,bbq,apple,instant pot,pressure
+tags: ribs,recipe,bbq,apple,instant pot,pressure,craig,willett
 ---
 # Apple BBQ Ribs!
 
