@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Chicken Devan"
-tags: chicken,devan,casserole
+tags: chicken,devan,casserole,craig,willett
 ---
 # Chicken Devan
 
