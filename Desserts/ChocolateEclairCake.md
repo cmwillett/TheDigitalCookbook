@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Chocolate Eclair Cake"
-tags: dessert,chocolate,eclair,cake,whipped,cream,pudding,graham,crackers
+tags: dessert,chocolate,eclair,cake,whipped,cream,pudding,graham,crackers,craig,kristen,willett
 ---
 # Chocolate Eclair Cake
 
