@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Easy Crock Pot Potato Soup"
-tags: slow,cooker,crockpot,potato,soup
+tags: slow,cooker,crockpot,potato,soup,craig,kristen,willett,bill,sharon,iles
 ---
 # Easy Crock Pot Potato Soup
 
