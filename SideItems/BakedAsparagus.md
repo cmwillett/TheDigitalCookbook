@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Baked Asparagus"
-tags: side,item,sides,items,baked,asparagus
+tags: side,item,sides,items,baked,asparagus,craig,kristen,willett
 ---
 # Baked Asparagus
 
