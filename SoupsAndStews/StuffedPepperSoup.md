@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Stuffed Pepper Soup"
-tags: stuffed,pepper,soup
+tags: stuffed,pepper,soup,craig,willett
 ---
 # Stuffed Pepper Soup
 
