@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot Vegetable Beef Stew"
-tags: instant,pot,vegetable,beef,stew
+tags: instant,pot,vegetable,beef,stew,craig,kristen,willett
 ---
 # Instant Pot Vegetable Beef Stew
 
