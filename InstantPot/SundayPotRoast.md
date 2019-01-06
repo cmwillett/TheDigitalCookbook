@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot Sunday Pot Roast"
-tags: instant,pot,pot,roast
+tags: instant,pot,pot,roast,craig,kristen,willett
 ---
 # Instant Pot Sunday Pot Roast
 
