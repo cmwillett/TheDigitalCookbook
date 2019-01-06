@@ -25,6 +25,9 @@ tags: instant,pot,pressure,cooker,stew,wings,chicken,popcorn,applesauce,salsa,ri
 * [Instant Pot Just Basic Chicken Wings]({{site.github.url}}/InstantPot/JustBasicChickenWings/index.html)
 * [Instant Pot Taco Seasoning Ranch Chicken Wings]({{site.github.url}}/InstantPot/TacoSeasoningRanchChickenWings/index.html)
 
+#### Chicken Drumsticks
+* [Instant Pot Just Plain Drumsticks]({{site.github.url}}/InstantPot/JustPlainDrumsticks/index.html)
+
 #### Popcorns
 * [Instant Pot Popcorn]({{site.github.url}}/InstantPot/Popcorn/index.html)
 
