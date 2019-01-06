@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Craig's Homemade Vegetable Soup"
-tags: soup,homemade,vegetable
+tags: soup,homemade,vegetable,craig,willett
 ---
 # Craig's Homemade Vegetable Soup
 
