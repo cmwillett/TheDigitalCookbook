@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot Applesauce"
-tags: instant,pot,applesauce
+tags: instant,pot,applesauce,craig,kristen,willett
 ---
 # Instant Pot Applesauce
 
