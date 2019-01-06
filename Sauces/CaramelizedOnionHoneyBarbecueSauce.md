@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Caramelized Onion and Honey Barbecue Sauce"
-tags: sauce,caramelized,onion,honey,barbecue,bbq
+tags: sauce,caramelized,onion,honey,barbecue,bbq,craig,willett
 ---
 # Caramelized Onion and Honey Barbecue Sauce
 
