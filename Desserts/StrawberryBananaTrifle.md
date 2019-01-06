@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Strawberry/Banana Trifle"
-tags: dessert,strawberry,banana,trifle,whipped,cream,pudding
+tags: dessert,strawberry,banana,trifle,whipped,cream,pudding,cindy,willett
 ---
 # Strawberry/Banana Trifle
 
