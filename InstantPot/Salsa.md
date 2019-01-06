@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot Salsa"
-tags: instant,pot,salsa
+tags: instant,pot,salsa,craig,kristen,willett
 ---
 # Instant Pot Salsa
 
