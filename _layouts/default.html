@@ -68,10 +68,11 @@ tipue_search_active: true
                         <input type="button" value="Most Recently Added" onclick="window.location.href='{{site.github.url}}/MostRecentlyAdded/index.html'" />
                         <input type="button" value="Craig's Top 5" onclick="window.location.href='{{site.github.url}}/CraigsTop5/index.html'" />
                     </form>
-                    <button onclick="location.href='craig.willett@gmail.com?Subject=TDC New Recipe';">Submit a Recipe</button>
-                    <!--<form action="mailto:craig.willett@gmail.com?Subject=TDC-New Recipe" method="GET">
+                    <!--<button onclick="location.href='craig.willett@gmail.com?Subject=TDC New Recipe';">Submit a Recipe</button>-->
+                    <form action="mailto:craig.willett@gmail.com" method="GET">
+                        <input name="subject" type="text" value="TDC-New Recipe"/>
                         <input type="submit" value="Submit a Recipe"/>
-                    </form>-->
+                    </form>
                     </center>
                     <hr>
                 </div>
