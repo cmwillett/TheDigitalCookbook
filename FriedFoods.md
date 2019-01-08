@@ -7,4 +7,4 @@ tags: air,fryer,fried,fry,deep
 
 ### I need some recipes people!
 * If the link below doesn't work for you, just email me at:  craig.willett@gmail.com
-* [Submit an Air Fryer Recipe](mailto:craig.willett@gmail.com?Subject=TDC-New Air Fryer Recipe)
+* [Submit a Fried Food Recipe](mailto:craig.willett@gmail.com?Subject=TDC-New Fried Foods Recipe)
