@@ -28,7 +28,7 @@ tags: slow,cooker,crockpot,crock,pot,roast,rick,webb,spider
 7. Place a full layer of onion slices over the top of the roast. 
 8. Add water, leaving about 1 inch of roast exposed above water line. 
 9. Sprinkle top with pepper. 
-10. Cook on low for 8-10 hours.
+10. Cook on low for 8-10 hours.  
 **Note:**  You can always add some other spices and mix some things up.
 Top or round roast works too.  I add another potato sometimes. 
 Yukon potatoes are excellent as well.
