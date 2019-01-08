@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Air Fryer"
-tags: air,fryer,fried
+tags: air,fryer,fried,fry
 ---
 # Air Fryer
 
