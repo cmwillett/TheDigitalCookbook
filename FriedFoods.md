@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Air Fryer"
-tags: air,fryer,fried,fry
+title: "Fried Foods"
+tags: air,fryer,fried,fry,deep
 ---
-# Air Fryer
+# Fried Foods
 
 ### I need some recipes people!
 * If the link below doesn't work for you, just email me at:  craig.willett@gmail.com
