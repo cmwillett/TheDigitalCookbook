@@ -4,6 +4,7 @@ title: "Air Fryer"
 tags: air,fryer,fried
 ---
 # Air Fryer
+testing
 
 ### I need some recipes people!
 <form action="mailto:craig.willett@gmail.com" method="GET">
