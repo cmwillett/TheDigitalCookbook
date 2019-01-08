@@ -7,6 +7,7 @@ tags: home
 
 Here I will store all recipes I come across - well, not all, but the ones that are worthy!
 
+* [Air Fryer]({{site.github.url}}/AirFryer/index.html)
 * [Appetizer / Finger Foods]({{site.github.url}}/AppetizerFingerFoods/index.html)
 * [Breakfast]({{site.github.url}}/Breakfast/index.html)
 * [Campfire]({{site.github.url}}/Campfire/index.html)
