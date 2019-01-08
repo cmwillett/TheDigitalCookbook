@@ -12,7 +12,7 @@ So easy and tasty!
 - 1 rack pork spare ribs
 - salt and pepper
 - 2 cups apple juice
-- 1/2 cup sweet barbecue sauce
+- 1/2 cup sweet barbecue sauce (by far my favorite is:  [Rib Rack](http://www.theribrack.com/))
 
 #### Instructions
 1. Cut the rack of ribs in half and season liberally with salt and pepper.
