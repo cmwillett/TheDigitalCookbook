@@ -24,6 +24,6 @@ tags: instant,pot,salsa,craig,kristen,willett
 #### Instructions
 1. Chop the onion, bell pepper, jalapeños and tomatoes one at a time in the blender or food processor. Alternatively, dice them by hand.
 2. Add the veggies, garlic, vinegar, sugar and salt to the Instant Pot.
-3. Pressure cook on Manual HIGH for 20 minutes. QR. *See note above in post about safely quick releasing the pressure.*
+3. Pressure cook on Manual HIGH for 20 minutes.
 4. Stir in the lime juice, tomato paste and cilantro.
 5. Ladle into jars and let the salsa cool to room temperature then store in the fridge.
