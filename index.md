@@ -7,7 +7,6 @@ tags: home
 
 Here I will store all recipes I come across - well, not all, but the ones that are worthy!
 
-* [Air Fryer]({{site.github.url}}/AirFryer/index.html)
 * [Appetizer / Finger Foods]({{site.github.url}}/AppetizerFingerFoods/index.html)
 * [Breakfast]({{site.github.url}}/Breakfast/index.html)
 * [Campfire]({{site.github.url}}/Campfire/index.html)
@@ -15,6 +14,7 @@ Here I will store all recipes I come across - well, not all, but the ones that a
 * [Chilis]({{site.github.url}}/Chilis/index.html)
 * [Desserts]({{site.github.url}}/Desserts/index.html)
 * [Dips]({{site.github.url}}/Dips/index.html)
+* [FriedFoods]({{site.github.url}}/FriedFoods/index.html)
 * [Instant Pot Recipes]({{site.github.url}}/InstantPot/index.html)
 * [Meatloaf]({{site.github.url}}/Meatloaf/index.html)
 * [Sauces]({{site.github.url}}/Sauces/index.html)
