@@ -3,6 +3,6 @@ layout: default
 title: "The Greatest"
 tags: greatest
 ---
-# Craig Willet
+# Craig Willett
 
 ### He is the greatest!
