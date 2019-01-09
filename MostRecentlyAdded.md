@@ -7,6 +7,9 @@ tags: recent,current
 
 ### The most recently added recipes that we've added to the site...
 
+#### Added on January 8th, 2019
+* [Rick's Crockpot Pot Roast]({{site.github.url}}/SlowCooker/RicksCrockpotPotRoast/index.html)
+
 #### Added on January 4th, 2019
 * [Caramelized Onion and Honey Barbecue Sauce]({{site.github.url}}/Sauces/CaramelizedOnionHoneyBarbecueSauce/index.html)
 
