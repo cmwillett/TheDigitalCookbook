@@ -719,8 +719,7 @@ dt {
   z-index: 100;
   left: 0;
   top: 0px;
-  /*height: 160px;*/
-  height: 220px;
+  height: 220px;/*change this to lower the header bar and give more room*/
   width: 100%;
   position: relative;/*was fixed*/
   background: url(../images/nav-bg.gif) #353535;
