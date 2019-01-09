@@ -7,4 +7,4 @@ tags: sous,vide
 
 ### I need recipes people!
 * If the link below doesn't work for you, just email me at:  craig.willett@gmail.com
-* [Submit a Sous Vide](mailto:craig.willett@gmail.com?Subject=TDC-New Sous Vide Recipe)
+* [Submit a Sous Vide Recipe](mailto:craig.willett@gmail.com?Subject=TDC-New Sous Vide Recipe)
