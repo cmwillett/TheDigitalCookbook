@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Meatloaf"
+title: "Mom's Meatloaf"
 tags: meat,loaf,meatloaf,craig,kristen,willett
 ---
-# Meatloaf
+# Mom's Meatloaf
 
 ### Give me meat!
 In the form of bread...
