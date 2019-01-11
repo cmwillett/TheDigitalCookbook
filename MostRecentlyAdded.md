@@ -7,6 +7,9 @@ tags: recent,current
 
 ### The most recently added recipes that we've added to the site...
 
+#### January 10th, 2019
+* [Taco Bake]({{site.github.url}}/CasserolesHeartyPiesAndBakes/TacoBake/index.html)
+
 #### January 8th, 2019
 * [Rick's Crockpot Pot Roast]({{site.github.url}}/SlowCooker/RicksCrockpotPotRoast/index.html)
 
