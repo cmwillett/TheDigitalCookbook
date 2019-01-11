@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Taco Bake"
-tags: taco,bake,craig,willett
+tags: taco,bake,craig,willett,mexican
 ---
 # Taco Bake
 
