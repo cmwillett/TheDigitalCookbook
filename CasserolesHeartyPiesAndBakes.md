@@ -13,7 +13,7 @@ tags: casserole,pies,tuna,chicken,devan,pasta,beef,bake,taco
 
 #### Beef
 * [Shepherd's Pie]({{site.github.url}}/CasserolesHeartyPiesAndBakes/ShepherdsPie/index.html)
-* [TacoBake]({{site.github.url}}/CasserolesHeartyPiesAndBakes/TacoBake/index.html)
+* [Taco Bake]({{site.github.url}}/CasserolesHeartyPiesAndBakes/TacoBake/index.html)
 
 #### Pasta
 * [Spaghetti Pie]({{site.github.url}}/CasserolesHeartyPiesAndBakes/SpaghettiPie/index.html)
