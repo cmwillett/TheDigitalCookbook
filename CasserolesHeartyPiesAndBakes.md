@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Casseroles and Hearty Pies"
+title: "Casseroles, Hearty Pies, and Bakes"
 tags: casserole,pies,tuna,chicken,devan,pasta,beef,bake,taco
 ---
-# Casseroles and Hearty Pies
+# Casseroles, Hearty Pies, and Bakes
 
 ### Yummy!
 
