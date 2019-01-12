@@ -7,6 +7,9 @@ tags: recent,current
 
 ### The most recently added recipes that we've added to the site...
 
+#### January 12th, 2019
+* [Grandma's Chicken Vegetable Soup]({{site.github.url}}/SoupsAndStews/GrandmasChickenVegetableSoup/index.html)
+
 #### January 11th, 2019
 * [Uncle Jim's Goetta]({{site.github.url}}/Breakfast/UncleJimsGoetta/index.html)
 * [Meat and Cheese Casserole]({{site.github.url}}/CasserolesHeartyPiesAndBakes/MeatAndCheeseCasserole/index.html)
