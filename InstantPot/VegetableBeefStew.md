@@ -29,6 +29,7 @@ tags: instant,pot,vegetable,beef,stew,craig,kristen,willett
 1. Set your electric pressure cooker (I used an Instant Pot) to saute.
 2. Heat olive oil and add stew beef.
 3. Brown beef on each side.
+- Note: If you used a skillet to brown the meat, dump everything, juices included, in the Instant Pot
 4. Mix in beef broth, water, tomatoes, garbanzo beans, and seasonings.
 5. Cover and lock lid.
 6. Set pressure cooker to manual or soup function for 30 minutes.
