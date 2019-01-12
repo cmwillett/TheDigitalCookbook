@@ -14,3 +14,4 @@ tags: soup,soups,stew,stews,stuffed,pepper,vegetable,beef,potato
 
 #### Stews
 * [No Peek Beef Stew]({{site.github.url}}/SoupsAndStews/NoPeekBeefStew/index.html)
+* [Instant Pot Vegetable Beef Stew]({{site.github.url}}/InstantPot/VegetableBeefStew/index.html)
