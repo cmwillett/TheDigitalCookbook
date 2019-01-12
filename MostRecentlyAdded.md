@@ -7,6 +7,10 @@ tags: recent,current
 
 ### The most recently added recipes that we've added to the site...
 
+#### January 11th, 2019
+* [Uncle Jim's Goetta]({{site.github.url}}/Breakfast/UncleJimsGoetta/index.html)
+* [Meat and Cheese Casserole]({{site.github.url}}/CasserolesHeartyPiesAndBakes/MeatAndCheeseCasserole/index.html)
+
 #### January 10th, 2019
 * [Taco Bake]({{site.github.url}}/CasserolesHeartyPiesAndBakes/TacoBake/index.html)
 
