@@ -17,6 +17,7 @@ Here I will store all recipes I come across - well, not all, but the ones that a
 * [Fried Foods]({{site.github.url}}/FriedFoods/index.html)
 * [Instant Pot Recipes]({{site.github.url}}/InstantPot/index.html)
 * [Meatloaf]({{site.github.url}}/Meatloaf/index.html)
+* [Salads]({{site.github.url}}/Salads/index.html)
 * [Sauces]({{site.github.url}}/Sauces/index.html)
 * [Side Items]({{site.github.url}}/SideItems/index.html)
 * [Slow Cooker]({{site.github.url}}/SlowCooker/index.html)
