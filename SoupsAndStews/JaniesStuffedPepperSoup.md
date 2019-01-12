@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Stuffed Pepper Soup"
-tags: stuffed,pepper,soup,craig,willett
+title: "Janie's Stuffed Pepper Soup"
+tags: stuffed,pepper,soup,janie,wilkey
 ---
-# Stuffed Pepper Soup
+# Janie's Stuffed Pepper Soup
 
 ### I'll be honest, I haven't made this one yet, but it sounds delicious!
 
