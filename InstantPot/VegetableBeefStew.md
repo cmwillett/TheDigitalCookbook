@@ -12,7 +12,7 @@ tags: instant,pot,vegetable,beef,stew,craig,kristen,willett
 - 2 pounds stew beef
 - 32 ounce container beef broth
 - 1 cup water
-- 14.5 ounce can diced tomatoes
+- 14.5 ounce can diced tomatoes (I used tomatoes with sweet onion)
 - 15.5 ounce can garbanzo beans drained and rinsed
 - 1/2 teaspoon salt
 - 1/2 teaspoon garlic powder
