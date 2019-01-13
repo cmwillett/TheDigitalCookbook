@@ -3,7 +3,7 @@ layout: default
 title: "Linguini With White Clam Sauce"
 tags: main,course,dinner,pasta,linguini,white,clam,willis,hatton
 ---
-# Linguini with White Clam Sauce
+# Linguini With White Clam Sauce
 
 ### Servings: 4
 
