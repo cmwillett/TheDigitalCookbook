@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Dinners"
-tags: dinner,main
+tags: dinner,main,chicken,parmesan
 ---
 # Dinners
 
