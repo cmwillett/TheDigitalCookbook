@@ -10,6 +10,8 @@ tags: recent,current
 #### January 12th, 2019
 * [Everyday Chicken Caesar Salad]({{site.github.url}}/Salads/EverydayChickenCaesarSalad/index.html)
 * [Grandma's Chicken Vegetable Soup]({{site.github.url}}/SoupsAndStews/GrandmasChickenVegetableSoup/index.html)
+* [Instant Pot Corn on the Cob]({{site.github.url}}/InstantPot/CornOnTheCob/index.html)
+* [Instant Pot Chili]({{site.github.url}}/InstantPot/InstantPotChili/index.html)
 * [Skillet Chicken Parmesan]({{site.github.url}}/Dinners/SkilletChickenParmesan/index.html)
 
 #### January 11th, 2019

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot"
-tags: instant,pot,pressure,cooker,stew,wings,chicken,popcorn,applesauce,salsa,ribs,mac,cheese,macaroni,meatloaf,mashed,potatoes
+tags: instant,pot,pressure,cooker,stew,wings,chicken,popcorn,applesauce,salsa,ribs,mac,cheese,macaroni,meatloaf,mashed,potatoes,chili,corn,cob
 ---
 # Instant Pot Recipes
 
