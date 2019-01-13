@@ -17,8 +17,7 @@ tags: main,course,dinner,pasta,linguini,white,clam,willis,hatton
 - 1.5 cups milk
 - 2 tablespoons white wine
 - 1/2 teaspoon chopped fresh parsley
-- 1/5
-- 4 teaspoon pepper
+- 1/4 teaspoon pepper
 - 1/4 teaspoon salt
 
 #### Instructions:
