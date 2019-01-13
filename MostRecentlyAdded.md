@@ -12,7 +12,9 @@ tags: recent,current
 * [Grandma's Chicken Vegetable Soup]({{site.github.url}}/SoupsAndStews/GrandmasChickenVegetableSoup/index.html)
 * [Instant Pot Corn on the Cob]({{site.github.url}}/InstantPot/CornOnTheCob/index.html)
 * [Instant Pot Chili]({{site.github.url}}/InstantPot/InstantPotChili/index.html)
+* [Linguini with White Clam Sauce]({{[site.github.url]}}/Dinners/LinguiniWithWhiteClamSauce/index.html)
 * [Skillet Chicken Parmesan]({{site.github.url}}/Dinners/SkilletChickenParmesan/index.html)
+* [Willis's Taco Bake]({{site.github.url}}/Dinners/WillisTacoBake/index.html)
 
 #### January 11th, 2019
 * [Uncle Jim's Goetta]({{site.github.url}}/Breakfast/UncleJimsGoetta/index.html)
