@@ -15,6 +15,9 @@ tags: instant,pot,pressure,cooker,stew,wings,chicken,popcorn,applesauce,salsa,ri
 * [Instant Pot Taco Seasoning Ranch Chicken Wings]({{site.github.url}}/InstantPot/TacoSeasoningRanchChickenWings/index.html)
 * [Instant Pot Just Plain Drumsticks]({{site.github.url}}/InstantPot/JustPlainDrumsticks/index.html)
 
+#### Chilis
+* [Instant Pot Chili]({{site.github.url}}/InstantPot/InstantPotChili/index.html)
+
 #### I don't have a clue what to really put this under...
 * [Instant Pot Meatloaf Mashed Potatoes]({{site.github.url}}/InstantPot/MeatloafMashedPotatoes/index.html)
 
@@ -27,7 +30,7 @@ tags: instant,pot,pressure,cooker,stew,wings,chicken,popcorn,applesauce,salsa,ri
 #### Ribs
 * [Instant Pot Apple BBQ Ribs]({{site.github.url}}/InstantPot/AppleBBQRibs/index.html)
   * Easily one of our favorite instant pot recipes.  Perfect, fall off the bone, ribs every single time!
-  
+
 #### Roasts
 * [Instant Pot Sunday Pot Roast]({{site.github.url}}/InstantPot/SundayPotRoast/index.html)
 
