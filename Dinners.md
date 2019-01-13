@@ -11,7 +11,7 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake
 * [Skillet Chicken Parmesan]({{site.github.url}}/Dinners/SkilletChickenParmesan/index.html)
 
 #### Pastas
-* [Linguini with White Clam Sauce]({{[site.github.url]}}/Dinners/LinguiniWhiteClamSauce/index.html)
+* [Linguini with White Clam Sauce]({{site.github.url}}/Dinners/LinguiniWhiteClamSauce/index.html)
 
 #### Mexican
 * [Willis's Taco Bake]({{site.github.url}}/Dinners/WillisTacoBake/index.html)
