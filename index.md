@@ -13,6 +13,7 @@ Here I will store all recipes I come across - well, not all, but the ones that a
 * [Casseroles/Hearty Pies/Bakes]({{site.github.url}}/CasserolesHeartyPiesAndBakes/index.html)
 * [Chilis]({{site.github.url}}/Chilis/index.html)
 * [Desserts]({{site.github.url}}/Desserts/index.html)
+* [Dinners]({{site.github.url}}/Dinners/index.html)
 * [Dips]({{site.github.url}}/Dips/index.html)
 * [Fried Foods]({{site.github.url}}/FriedFoods/index.html)
 * [Instant Pot Recipes]({{site.github.url}}/InstantPot/index.html)
