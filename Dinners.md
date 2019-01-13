@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Dinners"
-tags: dinner,main,chicken,parmesan
+tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake
 ---
 # Dinners
 
