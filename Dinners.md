@@ -1,11 +1,14 @@
 ---
 layout: default
 title: "Dinners"
-tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake
+tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak
 ---
 # Dinners
 
 ### Some main course dishes...
+
+#### Beef
+* [Pepper Steak]({{site.github.url}}/Dinners/PepperSteak/index.html)
 
 #### Chicken
 * [Skillet Chicken Parmesan]({{site.github.url}}/Dinners/SkilletChickenParmesan/index.html)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Slow Cooker"
-tags: slow,cooker,crockpot,crock,pot,meatballs,potato,soup
+tags: slow,cooker,crockpot,crock,pot,meatballs,potato,soup,goulash
 ---
 # Slow Cooker Recipes
 

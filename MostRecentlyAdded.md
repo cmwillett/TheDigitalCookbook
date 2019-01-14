@@ -9,6 +9,7 @@ tags: recent,current
 
 #### January 13th, 2019
 * [Crockpot Goulash]({{site.github.url}}/SlowCooker/CrockpotGoulash/index.html)
+* [Pepper Steak]({{site.github.url}}/Dinners/PepperSteak/index.html)
 
 #### January 12th, 2019
 * [Everyday Chicken Caesar Salad]({{site.github.url}}/Salads/EverydayChickenCaesarSalad/index.html)
