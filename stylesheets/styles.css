@@ -868,7 +868,7 @@ section #title .credits.right {
 }
 @media print, screen and (max-width: 480px) {
   #header {
-    margin-top: -40px;
+    margin-top: -20px;
   }
 
   section {
