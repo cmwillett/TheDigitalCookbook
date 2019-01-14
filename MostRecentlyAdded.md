@@ -7,6 +7,9 @@ tags: recent,current
 
 ### The most recently added recipes that we've added to the site...
 
+#### January 13th, 2019
+* [Crockpot Goulash]({{site.github.url}}/SlowCooker/CrockpotGoulash/index.html)
+
 #### January 12th, 2019
 * [Everyday Chicken Caesar Salad]({{site.github.url}}/Salads/EverydayChickenCaesarSalad/index.html)
 * [Grandma's Chicken Vegetable Soup]({{site.github.url}}/SoupsAndStews/GrandmasChickenVegetableSoup/index.html)
