@@ -626,7 +626,7 @@ strong {
   max-width: 650px;
   margin: 0 auto;
   /*position: relative;*/
-  position: fixed;
+  position: static;
   padding: 0 20px;
 }
 
