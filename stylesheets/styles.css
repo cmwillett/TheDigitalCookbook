@@ -804,8 +804,8 @@ dt {
 section {
   display: inline;
   max-width: 650px;
-  /*padding: 30px 0px 10px 0px;*/
-  padding: 5px 0px 10px 0px;
+  padding: 30px 0px 10px 0px;
+  /*padding: 5px 0px 10px 0px;*/
   margin: 20px 0;
   /*margin-top: 130px;*/
   margin-top: 1px;
