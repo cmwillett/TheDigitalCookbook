@@ -10,6 +10,9 @@ tags: slow,cooker,crockpot,crock,pot,meatballs,potato,soup,goulash
 #### Goulash
 * [Crockpot Goulash]({{site.github.url}}/SlowCooker/CrockpotGoulash/index.html)
 
+#### Hamburger Dish
+* [Crockpot Hamburger Dish]({{site.github.url}}/SlowCooker/CrockpotHamburgerDish/index.html)
+
 #### Meatballs
 * [Craig's Meatballs]({{site.github.url}}/SlowCooker/TheCraigsMeatballs/index.html)
 
