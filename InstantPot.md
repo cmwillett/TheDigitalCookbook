@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot"
-tags: instant,pot,pressure,cooker,stew,wings,chicken,popcorn,applesauce,salsa,ribs,mac,cheese,macaroni,meatloaf,mashed,potatoes,chili,corn,cob
+tags: instant,pot,pressure,cooker,stew,wings,chicken,popcorn,applesauce,salsa,ribs,mac,cheese,macaroni,meatloaf,mashed,potatoes,chili,corn,cob,dumplings
 ---
 # Instant Pot Recipes
 
@@ -14,6 +14,7 @@ tags: instant,pot,pressure,cooker,stew,wings,chicken,popcorn,applesauce,salsa,ri
 * [Instant Pot Just Basic Chicken Wings]({{site.github.url}}/InstantPot/JustBasicChickenWings/index.html)
 * [Instant Pot Taco Seasoning Ranch Chicken Wings]({{site.github.url}}/InstantPot/TacoSeasoningRanchChickenWings/index.html)
 * [Instant Pot Just Plain Drumsticks]({{site.github.url}}/InstantPot/JustPlainDrumsticks/index.html)
+* [Instant Pot Chicken and Dumplings]({{site.github.url}}/InstantPot/ChickenAndDumplings/index.html)
 
 #### Corn
 * [Instant Pot Corn on the Cob]({{site.github.url}}/InstantPot/CornOnTheCob/index.html)

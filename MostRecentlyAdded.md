@@ -11,6 +11,7 @@ tags: recent,current
 * [Crockpot Goulash]({{site.github.url}}/SlowCooker/CrockpotGoulash/index.html)
 * [Pepper Steak]({{site.github.url}}/Dinners/PepperSteak/index.html)
 * [Crockpot Hamburger Dish]({{site.github.url}}/SlowCooker/CrockpotHamburgerDish/index.html)
+* [Instant Pot Chicken and Dumplings]({{site.github.url}}/InstantPot/ChickenAndDumplings/index.html)
 
 #### January 12th, 2019
 * [Everyday Chicken Caesar Salad]({{site.github.url}}/Salads/EverydayChickenCaesarSalad/index.html)
