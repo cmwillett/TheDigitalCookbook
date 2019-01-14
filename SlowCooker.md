@@ -7,6 +7,9 @@ tags: slow,cooker,crockpot,crock,pot,meatballs,potato,soup
 
 ### Ahhh.  Sunday Slow Cooker Days!
 
+#### Goulash
+* [Crockpot Goulash]({{site.github.url}}/SlowCooker/CrockpotGoulash/index.html)
+
 #### Meatballs
 * [Craig's Meatballs]({{site.github.url}}/SlowCooker/TheCraigsMeatballs/index.html)
 
