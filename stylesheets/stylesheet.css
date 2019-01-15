@@ -57,13 +57,12 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957);
-  box-sizing: border-box; }
+  background-image: linear-gradient(120deg, #155799, #159957); }
 
 @media screen and (min-width: 64em) {
   .page-header {
     /*change this padding to lower the header bar for mobile*/
-    padding: 20rem 22rem; } }
+    padding: 40rem 44rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
