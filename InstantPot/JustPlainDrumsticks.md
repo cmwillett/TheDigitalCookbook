@@ -8,7 +8,7 @@ tags: instant,pot,chicken,drumsticks,drum,sticks,plain,craig,willett
 ### Just plain old chicken drumsticks, done super quick!
 
 #### Ingredients
-- 2 cups water
+- 1 cup water
 - Fresh (or thawed) Drumsticks
 
 #### Directions
