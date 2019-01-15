@@ -3,7 +3,7 @@ layout: default
 title: "Crockpot Hamburger Dish"
 tags: slow,cooker,crockpot,hamburger,willis,hatton
 ---
-# Crockpot Hambruger Dish
+# Crockpot Hamburger Dish
 
 ### Serves 4 to 5
 #### Ingredients:
