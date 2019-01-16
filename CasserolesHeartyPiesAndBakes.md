@@ -19,5 +19,8 @@ tags: casserole,pies,tuna,chicken,devan,pasta,beef,bake,taco
 #### Pasta
 * [Spaghetti Pie]({{site.github.url}}/CasserolesHeartyPiesAndBakes/SpaghettiPie/index.html)
 
+#### Reuben
+* [Crockpot Reuben Casserole]({{site.github.url}}/SlowCooker/CrockpotReubenCasserole/index.html)
+
 #### Tuna
 * [Tuna Casserole]({{site.github.url}}/CasserolesHeartyPiesAndBakes/TunaCasserole/index.html)
