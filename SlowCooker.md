@@ -16,6 +16,9 @@ tags: slow,cooker,crockpot,crock,pot,meatballs,potato,soup,goulash
 #### Meatballs
 * [Craig's Meatballs]({{site.github.url}}/SlowCooker/TheCraigsMeatballs/index.html)
 
+#### Pork Chops
+* [Pork Chops Supreme]({{site.github.url}}SlowCooker/PorkChopsSupreme/index.html)
+
 #### Potato Soups
 * [Easy Crock Pot Potato Soup]({{site.github.url}}/SlowCooker/EasyCrockPotPotatoSoup/index.html)
 

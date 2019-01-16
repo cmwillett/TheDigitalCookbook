@@ -7,6 +7,9 @@ tags: recent,current
 
 ### The most recently added recipes that we've added to the site...
 
+#### January 15th, 2019
+* [Pork Chops Supreme]({{site.github.url}}SlowCooker/PorkChopsSupreme/index.html)
+
 #### January 13th, 2019
 * [Crockpot Goulash]({{site.github.url}}/SlowCooker/CrockpotGoulash/index.html)
 * [Pepper Steak]({{site.github.url}}/Dinners/PepperSteak/index.html)
