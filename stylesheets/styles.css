@@ -718,7 +718,8 @@ dt {
   display: inline-block;/*NEW*/
   z-index: 100;
   left: 0;
-  top: 30px;
+  top: 0px;
+  bottom: 100px;
   height: 220px;/*change this to lower the header bar and give more room*/
   width: 100%;
   position: relative;/*was fixed*/
