@@ -56,6 +56,7 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
+  position: absolute;
   background-color: #159957;
   background-image: linear-gradient(120deg, #155799, #159957); }
 
@@ -78,7 +79,7 @@ a {
     padding: 5rem 6rem; } }
 
 .project-name {
-  margin-top: 100;
+  margin-top: 0;
   margin-bottom: 0.1rem; }
 
 @media screen and (min-width: 64em) {
