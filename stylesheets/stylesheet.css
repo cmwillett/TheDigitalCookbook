@@ -68,7 +68,8 @@ a {
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
     /*change this padding to lower the header bar for mobile*/
-    padding: 16rem 18rem; } }
+    /*padding: 16rem 18rem;*/
+    padding: 8rem 9rem; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
