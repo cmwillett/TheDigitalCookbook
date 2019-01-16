@@ -7,6 +7,9 @@ tags: recent,current
 
 ### The most recently added recipes that we've added to the site...
 
+#### January 16th, 2019
+* [Creamy Chicken Apple Salad]({{site.github.url}}/Salads/CreamyChickenAppleSalad/index.html)
+
 #### January 15th, 2019
 * [Pork Chops Supreme]({{site.github.url}}/SlowCooker/PorkChopsSupreme/index.html)
 * [Crockpot Reuben Casserole]({{site.github.url}}/SlowCooker/CrockpotReubenCasserole/index.html)
