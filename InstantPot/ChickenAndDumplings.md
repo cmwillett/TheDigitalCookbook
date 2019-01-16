@@ -51,3 +51,6 @@ tags: instant,pot,chicken,dumplings,craig,kristen,willett
   1. In a medium bowl mix together all ingredients, except the butter and milk.
   2. Cut in the butter and using a pastry cutter or fork mix together until you have coarse crumbs. Pour in milk and stir until everything is just moistened.
   3. Drop teaspoonfuls of dumpling batter into the Instant Pot after you added the chicken and chicken broth.
+
+#### Pictures
+![]({{site.github.url}}/InstantPot/Images/ChickenAndDumplings.jpg){:height="600px" width="600px"}
