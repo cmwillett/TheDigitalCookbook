@@ -22,7 +22,8 @@ tags: slow,cooker,crockpot,crock,pot,meatballs,potato,soup,goulash
 #### Potato Soups
 * [Easy Crock Pot Potato Soup]({{site.github.url}}/SlowCooker/EasyCrockPotPotatoSoup/index.html)
 
-#### Pot Roasts
+#### Roasts
+* [Crockpot Orange/Cranberry Pork Roast]({{site.github.url}}/SlowCooker/OrangeCranberryPorkRoast/index.html
 * [Rick's Crockpot Pot Roast]({{site.github.url}}/SlowCooker/RicksCrockpotPotRoast/index.html)
 
 #### Reubens
