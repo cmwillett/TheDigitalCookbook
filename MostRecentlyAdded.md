@@ -10,6 +10,7 @@ tags: recent,current
 #### January 16th, 2019
 * [Creamy Chicken Apple Salad]({{site.github.url}}/Salads/CreamyChickenAppleSalad/index.html)
 * [Chicken Tortilla Soup]({{site.github.url}}/SoupsAndStews/ChickenTortillaSoup/index.html)
+* [Crockpot Orange/Cranberry Pork Roast]({{site.github.url}}/SlowCooker/OrangeCranberryPorkRoast/index.html)
 
 #### January 15th, 2019
 * [Pork Chops Supreme]({{site.github.url}}/SlowCooker/PorkChopsSupreme/index.html)
