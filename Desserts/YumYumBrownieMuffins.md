@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Yum Yum Brownie Muffins"
-tags: dessert,yum,brownie,muffins,muffin,janie,wilkey
+tags: dessert,yum,brownie,muffins,muffin,brownies,janie,wilkey
 ---
 # Yum Yum Brownie Muffins
 
