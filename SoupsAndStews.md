@@ -8,6 +8,7 @@ tags: soup,soups,stew,stews,stuffed,pepper,vegetable,beef,potato
 ### Get in my mouth!
 
 #### Soups
+* [Chicken Tortilla Soup]({{site.github.url}}/SoupsAndStews/ChickenTortillaSoup/index.html)
 * [Craig's Homemade Vegetable Soup]({{site.github.url}}/SoupsAndStews/CraigsHomemadeVegetableSoup/index.html)
 * [Easy Crockpot Potato Soup]({{site.github.url}}/SlowCooker/EasyCrockPotPotatoSoup/index.html)
 * [Grandma's Chicken Vegetable Soup]({{site.github.url}}/SoupsAndStews/GrandmasChickenVegetableSoup/index.html)
