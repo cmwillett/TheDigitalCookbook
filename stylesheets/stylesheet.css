@@ -63,19 +63,19 @@ a {
   .page-header {
     /*change this padding to lower the header bar for mobile*/
     /*padding: 20rem 22rem;*/
-    padding: 5rem 6rem; } }
+    padding: 20rem 22rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
     /*change this padding to lower the header bar for mobile*/
     /*padding: 16rem 18rem;*/
-    padding: 8rem 9rem; } }
+    padding: 16rem 18rem; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
     /*change this padding to lower the header bar for mobile*/
     /*padding: 10rem 12rem;*/
-    padding: 5rem 6rem; } }
+    padding: 10rem 12rem; } }
 
 .project-name {
   margin-top: 0;
