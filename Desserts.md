@@ -15,3 +15,6 @@ tags: dessert,banana,strawberry,trifle,eclair,cake,chocolate
 
 #### Trifles
 * [Strawberry/Banana Trifle]({{site.github.url}}/Desserts/StrawberryBananaTrifle/index.html)
+
+#### No Category
+* [A Healthy Treat]({{site.github.url}}/Desserts/AHealthyTreat/index.html)
