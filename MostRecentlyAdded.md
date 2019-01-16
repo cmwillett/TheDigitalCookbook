@@ -9,6 +9,7 @@ tags: recent,current
 
 #### January 15th, 2019
 * [Pork Chops Supreme]({{site.github.url}}SlowCooker/PorkChopsSupreme/index.html)
+* [Crockpot Reuben Casserole]({{site.github.url}}/SlowCooker/CrockpotReubenCasserole/index.html)
 
 #### January 13th, 2019
 * [Crockpot Goulash]({{site.github.url}}/SlowCooker/CrockpotGoulash/index.html)
