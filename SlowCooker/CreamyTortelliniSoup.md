@@ -24,8 +24,8 @@ tags: slow,cooker,crockpot,tortellini,soup,sausage
 - 1 cup milk
 
 #### Instructions
-1. Place the browned sausage, onion, carrots, celery, garlic, Italian seasoning, beef bouillon powder, salt, and broth in a 6-quart / litre slow cooker bowl. Cover and cook on high for 4 hours or low for 7 hours.
-2. Uncover and skim any fat that is sitting on the top of the soup with a spoon; discard. Stir in the cornstarch mixture with the evaporated milk (or half and half or cream). Add the tortellini and mix well. Cover again and cook on HIGH heat setting for a further 45 minutes until the soup has thickened, and the tortellini is soft and cooked through.
-3. Add in the spinach, pressing the leaves down to completely submerse into the liquid. Cover again for a further 5-10 minutes until the leaves have wilted.
-4. Pour in milk in 1/3 cup increments, as needed, to reach your desired thickness and consistency (I needed 1 cup); taste test and season with extra salt ONLY if needed, and pepper to suit your tastes.
-5. Serve with crusty warmed bread
+1. Place the browned sausage, onion, carrots, celery, garlic, Italian seasoning, beef bouillon powder, salt, and broth in a 6-quart / litre slow cooker bowl. Cover and cook on high for 4 hours or low for 7 hours.
+2. Uncover and skim any fat that is sitting on the top of the soup with a spoon; discard. Stir in the cornstarch mixture with the evaporated milk (or half and half or cream). Add the tortellini and mix well. Cover again and cook on HIGH heat setting for a further 45 minutes until the soup has thickened, and the tortellini is soft and cooked through.
+3. Add in the spinach, pressing the leaves down to completely submerse into the liquid. Cover again for a further 5-10 minutes until the leaves have wilted.
+4. Pour in milk in 1/3 cup increments, as needed, to reach your desired thickness and consistency (I needed 1 cup); taste test and season with extra salt ONLY if needed, and pepper to suit your tastes.
+5. Serve with crusty warmed bread
