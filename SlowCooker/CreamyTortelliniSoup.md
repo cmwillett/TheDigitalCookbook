@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Slow Cooker Creamy Tortellini Soup"
+title: "Creamy Tortellini Soup"
 tags: slow,cooker,crockpot,tortellini,soup,sausage
 ---
 # Slow Cooker Creamy Tortellini Soup
