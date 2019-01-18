@@ -8,7 +8,7 @@ tags: slow,cooker,crockpot,potato,soup,craig,kristen,willett,bill,sharon,iles
 ### This is an extremely easy potato soup and it's so damn good!
 
 #### Ingredients:
-- 1 30 oz. bag of frozen, shredded has browns (Ore Ida)
+- 1 30 oz. bag of frozen, shredded hash browns (Ore Ida)
 - 3 14 oz. cans of chicken broth
 - 1 can of cream of chicken soup (or cream of mushroom)
 - ½ cup onion, chopped
