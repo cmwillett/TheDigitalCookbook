@@ -11,6 +11,7 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak
 * [Pepper Steak]({{site.github.url}}/Dinners/PepperSteak/index.html)
 
 #### Chicken
+* [One Pan Garlic Herb Chicken and Asparagus]({{site.github.url}}/Dinners/OnePanGarlicHerbChickenAndAsparagus/index.html)
 * [Skillet Chicken Parmesan]({{site.github.url}}/Dinners/SkilletChickenParmesan/index.html)
 
 #### Pastas

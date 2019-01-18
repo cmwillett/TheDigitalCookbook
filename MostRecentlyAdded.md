@@ -9,6 +9,7 @@ tags: recent,current
 
 #### January 17th, 2019
 * [Slow Cooker Creamy Tortellini Soup]({{site.github.url}}/SlowCooker/CreamyTortelliniSoup/index.html)
+* [One Pan Garlic Herb Chicken and Asparagus]({{site.github.url}}/Dinners/OnePanGarlicHerbChickenAndAsparagus/index.html)
 
 #### January 16th, 2019
 * [Creamy Chicken Apple Salad]({{site.github.url}}/Salads/CreamyChickenAppleSalad/index.html)
