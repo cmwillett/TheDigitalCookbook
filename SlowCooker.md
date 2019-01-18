@@ -28,3 +28,6 @@ tags: slow,cooker,crockpot,crock,pot,meatballs,potato,soup,goulash
 
 #### Reubens
 * [Crockpot Reuben Casserole]({{site.github.url}}/SlowCooker/CrockpotReubenCasserole/index.html)
+
+#### Soups
+* [Slow Cooker Creamy Tortellini Soup]({{site.github.url}}/SlowCooker/CreamyTortelliniSoup/index.html)

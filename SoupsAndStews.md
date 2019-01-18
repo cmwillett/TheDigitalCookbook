@@ -13,6 +13,7 @@ tags: soup,soups,stew,stews,stuffed,pepper,vegetable,beef,potato
 * [Easy Crockpot Potato Soup]({{site.github.url}}/SlowCooker/EasyCrockPotPotatoSoup/index.html)
 * [Grandma's Chicken Vegetable Soup]({{site.github.url}}/SoupsAndStews/GrandmasChickenVegetableSoup/index.html)
 * [Janie's Stuffed Pepper Soup]({{site.github.url}}/SoupsAndStews/JaniesStuffedPepperSoup/index.html)
+* [Slow Cooker Creamy Tortellini Soup]({{site.github.url}}/SlowCooker/CreamyTortelliniSoup/index.html)
 
 #### Stews
 * [No Peek Beef Stew]({{site.github.url}}/SoupsAndStews/NoPeekBeefStew/index.html)

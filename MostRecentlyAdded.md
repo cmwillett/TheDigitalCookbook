@@ -7,6 +7,9 @@ tags: recent,current
 
 ### The most recently added recipes that we've added to the site...
 
+#### January 17th, 2019
+* [Slow Cooker Creamy Tortellini Soup]({{site.github.url}}/SlowCooker/CreamyTortelliniSoup/index.html)
+
 #### January 16th, 2019
 * [Creamy Chicken Apple Salad]({{site.github.url}}/Salads/CreamyChickenAppleSalad/index.html)
 * [Chicken Tortilla Soup]({{site.github.url}}/SoupsAndStews/ChickenTortillaSoup/index.html)
