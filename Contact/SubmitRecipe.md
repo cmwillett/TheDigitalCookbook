@@ -25,9 +25,9 @@ tags: submit,recipe,new
   Recipe Name:<br/>
   <input type="text" name="recipeName"><br/><br/>
   Ingredients:<br/>
-  <textarea name="ingredients"><br/><br/>
+  <textarea name="ingredients"/><br/><br/>
   Directions:<br/>
-  <textarea name="directions"><br/><br/>
+  <textarea name="directions"/><br/><br/>
   <input type="submit" value="Send">
 </form>
 
