@@ -7,6 +7,9 @@ tags: recent,current
 
 ### The most recently added recipes that we've added to the site...
 
+#### January 18th, 2019
+* [Instant Pot Giant Pancake]({{site.github.url}}/InstantPot/GiantPancake/index.html)
+
 #### January 17th, 2019
 * [Slow Cooker Creamy Tortellini Soup]({{site.github.url}}/SlowCooker/CreamyTortelliniSoup/index.html)
 * [One Pan Garlic Herb Chicken and Asparagus]({{site.github.url}}/Dinners/OnePanGarlicHerbChickenAndAsparagus/index.html)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot"
-tags: instant,pot,pressure,cooker,stew,wings,chicken,popcorn,applesauce,salsa,ribs,mac,cheese,macaroni,meatloaf,mashed,potatoes,chili,corn,cob,dumplings
+tags: instant,pot,pressure,cooker,stew,wings,chicken,popcorn,applesauce,salsa,ribs,mac,cheese,macaroni,meatloaf,mashed,potatoes,chili,corn,cob,dumplings,pancake
 ---
 # Instant Pot Recipes
 
@@ -9,6 +9,9 @@ tags: instant,pot,pressure,cooker,stew,wings,chicken,popcorn,applesauce,salsa,ri
 
 #### Applesauces
 * [Instant Pot Applesauce]({{site.github.url}}/InstantPot/Applesauce/index.html)
+
+#### Breakfast
+* [Instant Pot Giant Pancake]({{site.github.url}}/InstantPot/GiantPancake/index.html)
 
 #### Chicken
 * [Instant Pot Just Basic Chicken Wings]({{site.github.url}}/InstantPot/JustBasicChickenWings/index.html)

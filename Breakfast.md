@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Breakfast"
-tags: breakfast
+tags: breakfast,goetta,pancake
 ---
 # Breakfast
 
@@ -9,3 +9,6 @@ tags: breakfast
 
 #### Goetta
 * [Uncle Jim's Goetta]({{site.github.url}}/Breakfast/UncleJimsGoetta/index.html)
+
+#### Pancakes
+* [Instant Pot Giant Pancake]({{site.github.url}}/InstantPot/GiantPancake/index.html)
