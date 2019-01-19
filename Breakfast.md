@@ -10,8 +10,9 @@ tags: breakfast,goetta,pancake,omelet,pepporoni,pizza
 #### Goetta
 * [Uncle Jim's Goetta]({{site.github.url}}/Breakfast/UncleJimsGoetta/index.html)
 
-#### Hot Dog
+#### Dogs and Brats
 * [Breakfast Hot Dog Special]({{site.github.url}}/Breakfast/BreakfastHotDogSpecial/index.html)
+* [Open Faced Brats and Eggs]({{site.github.url}}/Breakfast/OpenFaceBratsAndEggs/index.html)
 
 #### Omelets
 * [Pepperoni Pizza Omelet]({{site.github.url}}/Breakfast/PepperoniPizzaOmelet/index.html)
