@@ -15,14 +15,10 @@ tags: submit,recipe,new
       <input type="email" name="_replyto"><br/><br/>
       <b>Recipe Name:</b><br/>
       <input type="text" name="recipeName"><br/><br/>
-      <!--<b>Ingredients:</b><br/>-->
-      <textarea rows="15" cols="75" name="ingredients">
-      Ingredients:
-      </textarea><br/><br/>
-      <!--<b>Directions:</b><br/>-->
-      <textarea rows="15" cols="75" name="directions">
-      Directions:
-      </textarea><br/><br/>
+      <b>Ingredients:</b><br/>
+      <textarea rows="15" cols="75" name="ingredients"></textarea><br/><br/>
+      <b>Directions:</b><br/>
+      <textarea rows="15" cols="75" name="directions"></textarea><br/><br/>
       <input type="submit" value="Send">
   </form>
   </body>
