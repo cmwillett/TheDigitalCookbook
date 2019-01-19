@@ -10,6 +10,7 @@ tags: recent,current
 #### January 18th, 2019
 * [Instant Pot Giant Pancake]({{site.github.url}}/InstantPot/GiantPancake/index.html)
 * [Pepperoni Pizza Omelet]({{site.github.url}}/Breakfast/PepperoniPizzaOmelet/index.html)
+* [Breakfast Hot Dog Special]({{site.github.url}}/Breakfast/BreakfastHotDogSpecial/index.html)
 
 #### January 17th, 2019
 * [Slow Cooker Creamy Tortellini Soup]({{site.github.url}}/SlowCooker/CreamyTortelliniSoup/index.html)
