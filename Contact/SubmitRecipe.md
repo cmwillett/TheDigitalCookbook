@@ -16,7 +16,7 @@ tags: submit,recipe,new
 </head>
 
 <body>
-<h1>Submit Recipe</h1>
+<h1>Submit Recipe Testing</h1>
 <form id="submitRecipe" action="https://formspree.io/craig.willett@gmail.com" method="POST">
   Name:<br/>
   <input type="text" name="name"><br/><br/>
@@ -25,9 +25,9 @@ tags: submit,recipe,new
   Recipe Name:<br/>
   <input type="text" name="recipeName"><br/><br/>
   Ingredients:<br/>
-  <textarea name="ingredients"/><br/><br/>
+  <textarea name="ingredients"></textarea><br/><br/>
   Directions:<br/>
-  <textarea name="directions"/><br/><br/>
+  <textarea name="directions"></textarea><br/><br/>
   <input type="submit" value="Send">
 </form>
 
