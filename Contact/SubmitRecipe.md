@@ -19,15 +19,15 @@ tags: submit,recipe,new
 <h1>Submit Recipe</h1>
 <form action="https://formspree.io/craig.willett@gmail.com" method="POST">
   Name:
-  <input type="text" name="name"><br>
+  <input type="text" name="name"><br><br>
   Email:
-  <input type="email" name="_replyto"><br>
+  <input type="email" name="_replyto"><br><br>
   Recipe Name:
-  <input type="text" name="recipeName"><br>
+  <input type="text" name="recipeName"><br><br>
   Ingredients:
-  <input type="textarea" name="ingredients"><br>
+  <textarea name="ingredients"><br><br>
   Directions:
-  <input type="textarea" name="directions"><br>
+  <textarea name="directions"><br><br>
   <input type="submit" value="Send">
 </form>
 
