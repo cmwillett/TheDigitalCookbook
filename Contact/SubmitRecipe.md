@@ -28,7 +28,6 @@ label,a
 <!-- a helper script for vaidating the form-->
 <script language="JavaScript" src="{{site.github.url}}/Contact/ContactFormHandler/scripts/gen_validatorv31.js" type="text/javascript"></script>
 </head>
-</head>
 
 <body>
 <h1>Contact us</h1>
