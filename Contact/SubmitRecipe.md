@@ -11,27 +11,13 @@ tags: submit,recipe,new
 <head>
 	<title>Contact us</title>
 <!-- define some style elements-->
-<style>
-h1
-{
-	font-family : Arial, Helvetica, sans-serif;
-	font-size : 16px;
-    font-weight : bold;
-}
-label,a
-{
-	font-family : Arial, Helvetica, sans-serif;
-	font-size : 12px;
-}
-
-</style>
 <!-- a helper script for vaidating the form-->
-<script language="JavaScript" src="{{site.github.url}}/Contact/ContactFormHandler/scripts/gen_validatorv31.js" type="text/javascript"></script>
+
 </head>
 
 <body>
 <h1>Contact us</h1>
-<form method="POST" name="contactform" action="{{site.github.url}}/Contact/ContactFormHandler/contact-form-handler.php">
+<form action="https://formspree.io/your@email.com" method="POST" />
 <p>
 <label for='name'>Your Name:</label> <br>
 <input type="text" name="name">
@@ -46,20 +32,6 @@ label,a
 </p>
 <input type="submit" value="Submit"><br>
 </form>
-
-<script language="JavaScript">
-// Code for validating the form
-// Visit http://www.javascript-coder.com/html-form/javascript-form-validation.phtml
-// for details
-var frmvalidator  = new Validator("contactform");
-frmvalidator.addValidation("name","req","Please provide your name");
-frmvalidator.addValidation("email","req","Please provide your email");
-frmvalidator.addValidation("email","email","Please enter a valid email address");
-</script>
-<!--
-Sample code from:
-http://www.html-form-guide.com/contact-form/php-email-contact-form.html
--->
 
 
 </body>
