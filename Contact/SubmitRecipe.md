@@ -17,11 +17,11 @@ tags: submit,recipe,new
       <input type="text" name="recipeName"><br/><br/>
       <!--<b>Ingredients:</b><br/>-->
       <textarea rows="15" cols="75" name="ingredients">
-      <b>Ingredients:</b>
+      Ingredients:
       </textarea><br/><br/>
       <!--<b>Directions:</b><br/>-->
       <textarea rows="15" cols="75" name="directions">
-      <b>Directions:</b>
+      Directions:
       </textarea><br/><br/>
       <input type="submit" value="Send">
   </form>

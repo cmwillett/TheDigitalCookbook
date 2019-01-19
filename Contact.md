@@ -9,6 +9,6 @@ tags: contact,feedback,issue,submit
 
 If any of the links below don't work for you, just email me at:  craig.willett@gmail.com
 
-* [Submit New Recipe(s)](mailto:craig.willett@gmail.com?Subject=TDC-New Recipe)
+* [Submit New Recipe(s)]({{site.github.url}}/Contact/SubmitRecipe/index.html)
 * [Submit an Issue](mailto:craig.willett@gmail.com?Subject=TDC-New Issue)
 * [Give Feedback](mailto:craig.willett@gmail.com?Subject=TDC-Feedback)
