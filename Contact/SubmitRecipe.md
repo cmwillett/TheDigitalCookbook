@@ -16,7 +16,7 @@ tags: submit,recipe,new
 </head>
 
 <body>
-<h1>Contact us</h1>
+<h1>Submit Recipe</h1>
 <form action="https://formspree.io/your@email.com" method="POST" />
 <p>
 <label for='name'>Your Name:</label> <br>
