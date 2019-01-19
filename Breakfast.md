@@ -8,6 +8,7 @@ tags: breakfast,goetta,pancake,omelet,pepporoni,pizza
 ### I'm not usually the one who makes breakfast, so I need recipes!
 
 #### Goetta
+* [Goetta Quesadilla]({{site.github.url}}/Breakfast/GoettaQuesadilla/index.html)
 * [Uncle Jim's Goetta]({{site.github.url}}/Breakfast/UncleJimsGoetta/index.html)
 
 #### Dogs and Brats
