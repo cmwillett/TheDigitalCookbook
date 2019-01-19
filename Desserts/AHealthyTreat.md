@@ -17,4 +17,4 @@ tags: dessert,healthy,treat,craig,willett
 - 1 tsp cinnamon
 
 #### Directions
-1. Bake at 350 for 15 0 20 minutes
+1. Bake at 350 for 15 to 20 minutes
