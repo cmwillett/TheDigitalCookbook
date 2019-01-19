@@ -18,19 +18,9 @@ tags: submit,recipe,new
 <body>
 <h1>Submit Recipe</h1>
 <form action="https://formspree.io/craig.willett@gmail.com" method="POST">
-<p>
-<label for='name'>Your Name:</label> <br>
-<input type="text" name="name">
-</p>
-<p>
-<label for='email'>Email Address:</label> <br>
-<input type="text" name="email"> <br>
-</p>
-<p>
-<label for='message'>Message:</label> <br>
-<textarea name="message"></textarea>
-</p>
-<input type="submit" value="Submit"><br>
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
 </form>
 
 
