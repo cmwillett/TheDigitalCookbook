@@ -15,7 +15,8 @@ tags: breakfast,goetta,pancake,omelet,pepporoni,pizza
 * [Breakfast Hot Dog Special]({{site.github.url}}/Breakfast/BreakfastHotDogSpecial/index.html)
 * [Open Faced Brats and Eggs]({{site.github.url}}/Breakfast/OpenFaceBratsAndEggs/index.html)
 
-#### Omelets
+#### Egg Based
+* [Maria's Breakfast Bites]({{site.github.url}}/Breakfast/MariasBreakfastBites/index.html)
 * [Pepperoni Pizza Omelet]({{site.github.url}}/Breakfast/PepperoniPizzaOmelet/index.html)
 
 #### Pancakes
