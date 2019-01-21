@@ -7,6 +7,9 @@ tags: recent,current
 
 ### The most recently added recipes that we've added to the site...
 
+#### January 20th, 2019
+* [Maria's Breakfast Bites]({{site.github.url}}/Breakfast/MariasBreakfastBites/index.html)
+
 #### January 18th, 2019
 * [Instant Pot Giant Pancake]({{site.github.url}}/InstantPot/GiantPancake/index.html)
 * [Pepperoni Pizza Omelet]({{site.github.url}}/Breakfast/PepperoniPizzaOmelet/index.html)
