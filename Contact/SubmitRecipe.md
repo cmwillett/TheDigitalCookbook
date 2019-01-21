@@ -10,15 +10,17 @@ tags: submit,recipe,new
     <h1>Submit a Recipe</h1>
     <form id="submitRecipe" action="https://formspree.io/craig.willett@gmail.com" method="POST">
       <b>Name:</b><br/>
-      <input type="text" name="name"><br/><br/>
+      <input type="text" name="Name"><br/><br/>
       <b>Email:</b><br/>
-      <input type="email" name="_replyto"><br/><br/>
+      <input type="email" name="Email"><br/><br/>
       <b>Recipe Name:</b><br/>
-      <input type="text" name="recipeName"><br/><br/>
+      <input type="text" name="RecipeName"><br/><br/>
+      <b>Video URL (Optional):</b><br/>
+      <input type="text" name="VideoUrl"><br/><br/>
       <b>Ingredients:</b><br/>
-      <textarea rows="15" cols="75" name="ingredients"></textarea><br/><br/>
+      <textarea rows="15" cols="75" name="Ingredients"></textarea><br/><br/>
       <b>Directions:</b><br/>
-      <textarea rows="15" cols="75" name="directions"></textarea><br/><br/>
+      <textarea rows="15" cols="75" name="Directions"></textarea><br/><br/>
       <input type="submit" value="Send">
   </form>
   </body>
