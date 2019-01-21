@@ -9,13 +9,13 @@ tags: submit,recipe,new
   <body>
     <h1>Submit a Recipe</h1>
     <form id="submitRecipe" action="https://formspree.io/craig.willett@gmail.com" method="POST">
-      <input type="hidden" name="_subject" id="_subject" value="TDC New Recipe">
+      <!--<input type="hidden" name="_subject" id="_subject" value="TDC New Recipe">-->
       <b>Name:</b><br/>
       <input type="text" name="Name"><br/><br/>
       <b>Email:</b><br/>
       <input type="email" name="_replyto"><br/><br/>
       <b>Recipe Name:</b><br/>
-      <input type="text" name="RecipeName"><br/><br/>
+      <input type="text" name="_subject"><br/><br/>
       <b>Video URL (Optional):</b><br/>
       <input type="text" name="VideoUrl"><br/><br/>
       <b>Ingredients:</b><br/>
