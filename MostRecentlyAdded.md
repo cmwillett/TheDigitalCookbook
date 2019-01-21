@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Most Recently Added"
-tags: recent,current
+tags: recent,current,new
 ---
 # Most Recently Added
 
