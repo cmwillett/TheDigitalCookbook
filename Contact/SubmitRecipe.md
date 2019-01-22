@@ -5,6 +5,8 @@ tags: submit,recipe,new
 ---
 <html>
   <head>
+    <script>UPLOADCARE_PUBLIC_KEY = "demopublickey";</script>
+    <script src="https://ucarecdn.com/libs/widget/2.10.2/uploadcare.full.min.js" charset="utf-8"></script>
   </head>
   <body>
     <h1>Submit a Recipe</h1>
@@ -22,7 +24,14 @@ tags: submit,recipe,new
       <textarea rows="15" cols="75" name="Ingredients"></textarea><br/><br/>
       <b>Directions:</b><br/>
       <textarea rows="15" cols="75" name="Directions"></textarea><br/><br/>
+      <input type="hidden" role="uploadcare-uploader" name="my_file" /><br/><br/>
       <input type="submit" value="Send">
   </form>
   </body>
 </html>
+
+
+<!-- The best place for this one is your <HEAD> tag -->
+
+
+<!-- This is where the widget will be. Don't forget the name attribute! -->
