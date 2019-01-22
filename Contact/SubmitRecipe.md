@@ -3,6 +3,8 @@ layout: default
 title: "Submit a Recipe"
 tags: submit,recipe,new
 ---
+## Submit a Recipe
+* If the recipe already exists and you just want to submit pictures for the recipe, just fill out the required fields (name, email, and recipe name); then upload the pictures.
 <html>
   <head>
     <script>
@@ -12,7 +14,7 @@ tags: submit,recipe,new
     <script src="https://ucarecdn.com/libs/widget/3.x/uploadcare.full.min.js"></script>
   </head>
   <body>
-    <h1>Submit a Recipe</h1>
+    <!--<h1>Submit a Recipe</h1>-->
     <form id="submitRecipe" action="https://formspree.io/craig.willett@gmail.com" method="POST">
       <!--<input type="hidden" name="_subject" id="_subject" value="TDC New Recipe">-->
       <b>Name:</b><br/>
