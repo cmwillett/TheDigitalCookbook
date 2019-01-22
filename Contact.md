@@ -11,4 +11,4 @@ If any of the links below don't work for you, just email me at:  craig.willett@g
 
 * [Submit New Recipe(s)]({{site.github.url}}/Contact/SubmitRecipe/index.html)
 * [Submit an Issue]({{site.github.url}}/Contact/SubmitIssue/index.html)
-* [Give Feedback](mailto:craig.willett@gmail.com?Subject=TDC-Feedback)
+* [Give Feedback]({{site.github.url}}/Contact/GiveFeedback/index.html)
