@@ -17,11 +17,11 @@ tags: submit,recipe,new
     <!--<h1>Submit a Recipe</h1>-->
     <form id="submitRecipe" action="https://formspree.io/craig.willett@gmail.com" method="POST">
       <!--<input type="hidden" name="_subject" id="_subject" value="TDC New Recipe">-->
-      <b>Name:</b><br/>
+      <b>Name (required):</b><br/>
       <input type="text" name="Name" required><br/><br/>
-      <b>Email:</b><br/>
+      <b>Email (required):</b><br/>
       <input type="email" name="_replyto" required><br/><br/>
-      <b>Recipe Name:</b><br/>
+      <b>Recipe Name (required):</b><br/>
       <input type="text" name="_subject" required><br/><br/>
       <b>Video URL (if applicable):</b><br/>
       <input type="text" name="VideoUrl"><br/><br/>
