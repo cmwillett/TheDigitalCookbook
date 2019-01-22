@@ -15,7 +15,7 @@ tags: top,most,popular
   * He's been making this for our campouts for years.  It's always a big hit!
 4. [Fire Onion]({{site.github.url}}/Campfire/FireOnion/index.html)
   * An old friend taught me this on a camping trip.  I've been hooked ever since!
-5. [Chicken Pot Pie]({{site.github.url}}/CasserolesHeartyPies/ChickenPotPie/index.html)
+5. [Chicken Pot Pie]({{site.github.url}}/CasserolesHeartyPiesAndBakes/ChickenPotPie/index.html)
   * My wife made this one time and it was instantly something the whole family could eat!
 
 #### Runner ups
