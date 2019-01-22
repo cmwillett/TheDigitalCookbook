@@ -19,19 +19,19 @@ If the recipe already exists and you just want to submit pictures for the recipe
     <!--<h1>Submit a Recipe</h1>-->
     <form id="submitRecipe" action="https://formspree.io/craig.willett@gmail.com" method="POST">
       <!--<input type="hidden" name="_subject" id="_subject" value="TDC New Recipe">-->
-      <b>**Name:</b><br/>
+      <b><h4>**Name:</h4></b><br/>
       <input type="text" name="Name" required><br/><br/>
-      <b>**Email:</b><br/>
+      <b><h4>**Email:</h4></b><br/>
       <input type="email" name="_replyto" required><br/><br/>
-      <b>**Recipe Name:</b><br/>
+      <b><h4>**Recipe Name:</h4></b><br/>
       <input type="text" name="_subject" required><br/><br/>
-      <b>Video URL (if applicable):</b><br/>
+      <b><h4>Video URL (if applicable):</h4></b><br/>
       <input type="text" name="VideoUrl"><br/><br/>
-      <b>Ingredients:</b><br/>
+      <b><h4>Ingredients:</h4></b><br/>
       <textarea rows="15" cols="75" name="Ingredients"></textarea><br/><br/>
-      <b>Directions:</b><br/>
+      <b><h4>Directions:</h4></b><br/>
       <textarea rows="15" cols="75" name="Directions"></textarea><br/><br/>
-      <b>Upload Pics: </b><input
+      <b><h4>Upload Pics: </h4></b><input
         type="hidden"
         role="uploadcare-uploader"
         name="content"
