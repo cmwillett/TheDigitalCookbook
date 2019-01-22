@@ -20,9 +20,9 @@ If the recipe already exists and you just want to submit pictures for the recipe
       <!--<input type="hidden" name="_subject" id="_subject" value="TDC New Recipe">-->
       <b>**Name:</b><br/>
       <input type="text" name="Name" required><br/><br/>
-      <b>**Email (required):</b><br/>
+      <b>**Email:</b><br/>
       <input type="email" name="_replyto" required><br/><br/>
-      <b>**Recipe Name (required):</b><br/>
+      <b>**Recipe Name:</b><br/>
       <input type="text" name="_subject" required><br/><br/>
       <b>Video URL (if applicable):</b><br/>
       <input type="text" name="VideoUrl"><br/><br/>
