@@ -8,7 +8,7 @@ tags: craig,willett,meat,cheese
 ### Meat, cheese, and noodles, oh my!
 
 #### Ingredients
-- 1 lbGround Chuck
+- 1 lb Ground Chuck
 - 16 oz Tomato Sauce
 - 1/2 tsp Worcestershire Sauce
 - 3 drops Tabasco Sauce
