@@ -3,7 +3,7 @@ layout: default
 title: "Submit a Recipe"
 tags: submit,recipe,new
 ---
-## Submit a Recipe
+# Submit a Recipe
 * If the recipe already exists and you just want to submit pictures for the recipe, just fill out the required fields (name, email, and recipe name); then upload the pictures.
 <html>
   <head>
