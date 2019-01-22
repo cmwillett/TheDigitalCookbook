@@ -6,7 +6,7 @@ tags: submit,recipe,new
 <html>
   <head>
     <script>
-      UPLOADCARE_PUBLIC_KEY = '99b1fd0d4ef0f45752e3';
+      UPLOADCARE_PUBLIC_KEY = 'a1ed3bccd2792a8f47e6';
       UPLOADCARE_IMAGES_ONLY = true;
     </script>
     <script src="https://ucarecdn.com/libs/widget/3.x/uploadcare.full.min.js"></script>
