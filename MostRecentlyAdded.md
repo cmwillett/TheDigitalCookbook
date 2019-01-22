@@ -7,6 +7,9 @@ tags: recent,current,new
 
 ### The most recently added recipes that we've added to the site...
 
+#### January 21st, 2019
+* [Bacon Wrapped Philly Cheese Steak Meatloaf]({{site.github.url}}/Meatloaf/BaconWrappedPhillyCheeseSteakMeatloaf/index.html)
+
 #### January 20th, 2019
 * [Maria's Breakfast Bites]({{site.github.url}}/Breakfast/MariasBreakfastBites/index.html)
 
