@@ -4,8 +4,8 @@ title: "Submit a Recipe"
 tags: submit,recipe,new
 ---
 # Submit a Recipe
-* If the recipe already exists and you just want to submit pictures for the recipe, just fill out the required fields (name, email, and recipe name); then upload the pictures.
-* \*\* denotes required field...
+If the recipe already exists and you just want to submit pictures for the recipe, just fill out the required fields (name, email, and recipe name); then upload the pictures.
+\*\* denotes required field...
 <html>
   <head>
     <script>
