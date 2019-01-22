@@ -1,0 +1,11 @@
+Source Code:
+-Github - https://github.com/cmwillett/TheDigitalCookbook
+-Site - https://cmwillett.github.io/TheDigitalCookbook/
+
+Forms Handler:
+-Formspree - https://formspree.io/
+
+Upload Images Handler:
+-Upload Care - https://uploadcare.com/dashboard/
+-Username: email
+-Password:  wife+pin
