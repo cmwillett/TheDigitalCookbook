@@ -27,7 +27,7 @@ tags: submit,recipe,new
       <textarea rows="15" cols="75" name="Ingredients"></textarea><br/><br/>
       <b>Directions:</b><br/>
       <textarea rows="15" cols="75" name="Directions"></textarea><br/><br/>
-      <input
+      <b>Upload Pics: </b><input
         type="hidden"
         role="uploadcare-uploader"
         name="content"
