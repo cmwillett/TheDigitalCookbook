@@ -16,6 +16,9 @@ tags: casserole,pies,tuna,chicken,devan,pasta,beef,bake,taco
 * [Chicken Devan]({{site.github.url}}/CasserolesHeartyPiesAndBakes/ChickenDevan/index.html)
 * [Chicken Pot Pie]({{site.github.url}}/CasserolesHeartyPiesAndBakes/ChickenPotPie/index.html)
 
+#### Corn
+* [Corn Casserole]({{site.github.url}}CasserolesHeartyPiesAndBakes/CornCasserole/index.html)
+
 #### Pasta
 * [Spaghetti Pie]({{site.github.url}}/CasserolesHeartyPiesAndBakes/SpaghettiPie/index.html)
 
