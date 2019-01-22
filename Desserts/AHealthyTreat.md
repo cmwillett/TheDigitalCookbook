@@ -18,3 +18,6 @@ tags: dessert,healthy,treat,craig,willett
 
 #### Directions
 1. Bake at 350 for 15 to 20 minutes
+
+#### Pictures
+![]({{site.github.url}}/Desserts/Images/AHealthyTreat.jpg){:height="600px" width="600px"}
