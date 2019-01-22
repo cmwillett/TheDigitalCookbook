@@ -37,5 +37,5 @@ Note:  This recipe is from Twisted, link is at the bottom
 12. Enjoy!
 
 #### Video
-https://youtu.be/y8vpon7fDqQ
+* [Bacon Wrapped Philly Cheese Steak Meatloaf](https://youtu.be/y8vpon7fDqQ)
 
