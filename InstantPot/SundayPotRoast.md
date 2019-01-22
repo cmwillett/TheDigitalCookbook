@@ -32,3 +32,6 @@ tags: instant,pot,pot,roast,craig,kristen,willett
 
 #### Instant Pot Roast Gravy
 Making gravy in the Instant Pot is a breeze. The easiest method is to remove the pot roast and vegetables when they are done cooking then switch the cook setting to “saute”. If there aren’t enough beef drippings to make a gravy, add some beef broth. Combine a little water and some corn starch in a liquid measuring cup to form a slurry. When the drippings and broth start to simmer, whisk in the cornstarch mixture a little at a time until it becomes a gravy consistency. Simmer about 3 minutes adding more beef broth to thin if needed. Add salt and pepper to taste.
+
+#### Pictures
+![]({{site.github.url}}/InstantPot/Images/SundayPotRoast.jpg){:height="600px" width="600px"}
