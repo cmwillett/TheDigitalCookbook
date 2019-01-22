@@ -10,6 +10,7 @@ tags: recent,current,new
 #### January 21st, 2019
 * [Bacon Wrapped Philly Cheese Steak Meatloaf]({{site.github.url}}/Meatloaf/BaconWrappedPhillyCheeseSteakMeatloaf/index.html)
 * [Glenna's Cincinnati Chili]({{site.github.url}}/Chilis/GlennasCincinnatiChili/index.html)
+* [Robert's 5 Alarm Chili]({{site.github.url}}/Chilis/RobertsFiveAlarmChili/index.html)
 
 #### January 20th, 2019
 * [Maria's Breakfast Bites]({{site.github.url}}/Breakfast/MariasBreakfastBites/index.html)
