@@ -7,6 +7,9 @@ tags: recent,current,new
 
 ### The most recently added recipes that we've added to the site...
 
+#### January 22nd, 2019
+* [Salami Rolls]({{site.github.url}}/Snacks/SalamiRolls/index.html)
+
 #### January 21st, 2019
 * [Bacon Wrapped Philly Cheese Steak Meatloaf]({{site.github.url}}/Meatloaf/BaconWrappedPhillyCheeseSteakMeatloaf/index.html)
 * [Glenna's Cincinnati Chili]({{site.github.url}}/Chilis/GlennasCincinnatiChili/index.html)
