@@ -7,6 +7,9 @@ tags: recent,current,new
 
 ### The most recently added recipes that we've added to the site...
 
+#### January 24thd, 2019
+* [Red Skinned Smashed Potatoes]({{site.github.url}}SideItems/RedSkinnedSmashedPotatoes/index.html)
+
 #### January 22nd, 2019
 * [Salami Rolls]({{site.github.url}}/Snacks/SalamiRolls/index.html)
 
