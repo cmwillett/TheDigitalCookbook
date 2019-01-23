@@ -18,6 +18,7 @@ tags: breakfast,goetta,pancake,omelet,pepporoni,pizza
 #### Egg Based
 * [Maria's Breakfast Bites]({{site.github.url}}/Breakfast/MariasBreakfastBites/index.html)
 * [Pepperoni Pizza Omelet]({{site.github.url}}/Breakfast/PepperoniPizzaOmelet/index.html)
+* [The New Year's Omelet]({{site.github.url}}/Breakfast/TheNewYearsOmelet/index.html)
 
 #### Pancakes
 * [Instant Pot Giant Pancake]({{site.github.url}}/InstantPot/GiantPancake/index.html)

@@ -9,6 +9,7 @@ tags: recent,current,new
 
 #### January 24thd, 2019
 * [Red Skinned Smashed Potatoes]({{site.github.url}}/SideItems/RedSkinnedSmashedPotatoes/index.html)
+* [The New Year's Omelet]({{site.github.url}}/Breakfast/TheNewYearsOmelet/index.html)
 
 #### January 22nd, 2019
 * [Salami Rolls]({{site.github.url}}/Snacks/SalamiRolls/index.html)
