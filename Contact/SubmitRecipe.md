@@ -26,7 +26,7 @@ tags: submit,recipe,new
       <b><h3>**Recipe Name:</h3></b>
       <input type="text" name="_subject" required><br/><br/>
       <b><h3>Video URL (if applicable):</h3></b>
-      <input type="text" name="VideoUrl"><br/><br/>
+      <input type="text" style="width: 300px;" name="VideoUrl"><br/><br/>
       <b><h3>Ingredients:</h3></b>
       <textarea rows="15" cols="75" name="Ingredients"></textarea><br/><br/>
       <b><h3>Directions:</h3></b>
