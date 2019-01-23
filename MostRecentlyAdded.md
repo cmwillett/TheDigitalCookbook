@@ -12,6 +12,7 @@ tags: recent,current,new
 * [The New Year's Omelet]({{site.github.url}}/Breakfast/TheNewYearsOmelet/index.html)
 * [Turkey Thai Curry]({{site.github.url}}/International/TurkeyThaiCurry/index.html)
 * [Bratwurst Pizza]({{site.github.url}}/Dinners/BratwurstPizza/index.html)
+* [BLT Dip]({{site.github.url}}/Dips/BLTDip/index.html)
 
 #### January 22nd, 2019
 * [Salami Rolls]({{site.github.url}}/Snacks/SalamiRolls/index.html)
