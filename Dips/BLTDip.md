@@ -12,7 +12,7 @@ tags: dip,blt,bacon,lettuce,tomato,christy,stoffran
 - 1 cup of mayonnaise
 - 1 package of bacon bits or 1 pound of fried bacon
 - 1 cup of diced tomatoes
-- 1 package of plain bagels cut up into bits size pieces for dipping. You can also use crackers or wheat thins.
+- 1 package of plain bagels cut up into bite size pieces for dipping. You can also use crackers or wheat thins.
 
 #### Directions:
 1. Mix everything together (minus the bagel) and refrigerate.
