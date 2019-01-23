@@ -41,6 +41,9 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Linguini with White Clam Sauce]({{site.github.url}}/Dinners/LinguiniWhiteClamSauce/index.html)
 * [Spaghetti Pie]({{site.github.url}}/CasserolesHeartyPiesAndBakes/SpaghettiPie/index.html)
 
+#### Pizzas
+* [Bratwurst Pizza]({{site.github.url}}/Dinners/BratwurstPizza/index.html)
+
 #### Roasts
 * [Instant Pot Sunday Pot Roast]({{site.github.url}}/InstantPot/SundayPotRoast/index.html)
 * [Crockpot Orange/Cranberry Pork Roast]({{site.github.url}}/SlowCooker/OrangeCranberryPorkRoast/index.html)

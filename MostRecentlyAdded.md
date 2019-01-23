@@ -11,6 +11,7 @@ tags: recent,current,new
 * [Red Skinned Smashed Potatoes]({{site.github.url}}/SideItems/RedSkinnedSmashedPotatoes/index.html)
 * [The New Year's Omelet]({{site.github.url}}/Breakfast/TheNewYearsOmelet/index.html)
 * [Turkey Thai Curry]({{site.github.url}}/International/TurkeyThaiCurry/index.html)
+* [Bratwurst Pizza]({{site.github.url}}/Dinners/BratwurstPizza/index.html)
 
 #### January 22nd, 2019
 * [Salami Rolls]({{site.github.url}}/Snacks/SalamiRolls/index.html)
