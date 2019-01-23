@@ -61,3 +61,6 @@ tags: chili,five,5,alarm,hot,spicy,robert,riggs
 9. I now have the heat on med - med high until I get some good bubbling action, stirring frequently (every 10 -15 minutes) to prevent burning/scorching.
 10. After an hour or so of this (normally the onions are turning translucent) I will reduce heat to med low and simmer for a few hours, stirring occasionally (every 15 - 30 minutes).
     - The beans tend to settle to the bottom and will stick without regular stirring intervals.
+
+#### Pictures
+![]({{site.github.url}}/Chilis/Images/RobertsFiveAlarmChili.png){:height="600px" width="600px"}
