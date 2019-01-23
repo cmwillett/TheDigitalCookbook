@@ -11,4 +11,4 @@ tags: side,items,side,item,sides,asparagus,red,skinned,skin,potatoes
 * [Baked Asparagus]({{site.github.url}}/SideItems/BakedAsparagus/index.html)
 
 #### Potatoes
-* [Red Skinned Smashed Potatoes]({{site.github.url}}SideItems/RedSkinnedSmashedPotatoes/index.html)
+* [Red Skinned Smashed Potatoes]({{site.github.url}}/SideItems/RedSkinnedSmashedPotatoes/index.html)
