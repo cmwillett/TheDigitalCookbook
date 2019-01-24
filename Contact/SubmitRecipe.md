@@ -27,8 +27,10 @@ tags: submit,recipe,new
       <input type="text" name="_subject" required><br/><br/>
       <b><h3>Video URL (if applicable):</h3></b>
       <input type="text" style="width: 400px;" name="VideoUrl"><br/><br/>
-      <b><h3>Tags (Anything you want to be able to search for: like keto,easy,hard..):</h3></b>
-      <input type="text" style="width: 400px;" name="tags"><br/><br/>      
+      <b><h3>Tags:</h3></b>
+      A tag can be anything you want to be able to search for to find this recipe...
+      Examples:  "keto,easy", "spicy" or "mexican"
+      <input type="text" style="width: 400px;" name="tags"><br/><br/>
       <b><h3>Ingredients:</h3></b>
       <textarea rows="15" cols="75" name="Ingredients"></textarea><br/><br/>
       <b><h3>Directions:</h3></b>
