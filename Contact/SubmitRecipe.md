@@ -28,8 +28,8 @@ tags: submit,recipe,new
       <b><h3>Video URL (if applicable):</h3></b>
       <input type="text" style="width: 400px;" name="VideoUrl"><br/><br/>
       <b><h3>Tags:</h3></b>
-      A tag can be anything you want to be able to search for to find this recipe...
-      Examples:  "keto,easy", "spicy" or "mexican"
+      A tag can be anything you want to be able to search for to find this recipe...<br/>
+      Examples:  "keto,easy", "spicy" or "mexican"<br/>
       <input type="text" style="width: 400px;" name="tags"><br/><br/>
       <b><h3>Ingredients:</h3></b>
       <textarea rows="15" cols="75" name="Ingredients"></textarea><br/><br/>
