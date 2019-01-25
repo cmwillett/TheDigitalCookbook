@@ -4,23 +4,45 @@ title: "Dinners"
 tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,devan,pot,pie,chili,meat,cheese,casserole,shepherd,pie,tuna,cincinnati,white,dumplings,meatloaf,mashed,potatoes
 ---
 # Dinners
+* Some main course dishes...
 
-### Some main course dishes...
+### Categories
+<!-- TOC depthFrom:4 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Beef](#beef)
+- [Casseroles](#casseroles)
+- [Chicken](#chicken)
+- [Chilis](#chilis)
+- [Ghoulashes](#ghoulashes)
+- [Meatloafs](#meatloafs)
+- [Mexican](#mexican)
+- [Pastas](#pastas)
+- [Pizzas](#pizzas)
+- [Pork Chops](#pork-chops)
+- [Roasts](#roasts)
+- [Sandwiches](#sandwiches)
+- [Soups](#soups)
+- [Stews](#stews)
+
+<!-- /TOC -->
 
 #### Beef
 * [Pepper Steak]({{site.github.url}}/Dinners/PepperSteak/index.html)
-* [Shepherd's Pie]({{site.github.url}}/CasserolesHeartyPiesAndBakes/ShepherdsPie/index.html)
-* [Taco Bake]({{site.github.url}}/CasserolesHeartyPiesAndBakes/TacoBake/index.html)
-* [Meat and Cheese Casserole]({{site.github.url}}/CasserolesHeartyPiesAndBakes/MeatAndCheeseCasserole/index.html)
+* [Shepherd's Pie]({{site.github.url}}/Dinners/ShepherdsPie/index.html)
+* [Taco Bake]({{site.github.url}}/Dinners/TacoBake/index.html)
+* [Meat and Cheese Casserole]({{site.github.url}}/Dinners/MeatAndCheeseCasserole/index.html)
+* [Crockpot Hamburger Dish]({{site.github.url}}/SlowCooker/CrockpotHamburgerDish/index.html)
+* [Shepherd's Pie]({{site.github.url}}/Dinners/ShepherdsPie/index.html)
 
 #### Casseroles
-* [Tuna Casserole]({{site.github.url}}/CasserolesHeartyPiesAndBakes/TunaCasserole/index.html)
+* [Tuna Casserole]({{site.github.url}}/Dinners/TunaCasserole/index.html)
+* [Crockpot Reuben Casserole]({{site.github.url}}/SlowCooker/CrockpotReubenCasserole/index.html)
 
 #### Chicken
 * [One Pan Garlic Herb Chicken and Asparagus]({{site.github.url}}/Dinners/OnePanGarlicHerbChickenAndAsparagus/index.html)
 * [Skillet Chicken Parmesan]({{site.github.url}}/Dinners/SkilletChickenParmesan/index.html)
-* [Chicken Devan]({{site.github.url}}/CasserolesHeartyPiesAndBakes/ChickenDevan/index.html)
-* [Chicken Pot Pie]({{site.github.url}}/CasserolesHeartyPiesAndBakes/ChickenPotPie/index.html)
+* [Chicken Devan]({{site.github.url}}/Dinners/ChickenDevan/index.html)
+* [Chicken Pot Pie]({{site.github.url}}/Dinners/ChickenPotPie/index.html)
 * [Instant Pot Chicken and Dumplings]({{site.github.url}}/InstantPot/ChickenAndDumplings/index.html)
 
 #### Chilis
@@ -28,6 +50,9 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Robert's 5 Alarm Chili]({{site.github.url}}/Chilis/RobertsFiveAlarmChili/index.html)
 * [Uncle Jim's White Chicken Chili]({{site.github.url}}/Chilis/UncleJimsWhiteChickenChili/index.html)
 * [Instant Pot Chili]({{site.github.url}}/InstantPot/InstantPotChili/index.html)
+
+#### Ghoulashes
+* [Crockpot Goulash]({{site.github.url}}/SlowCooker/CrockpotGoulash/index.html)
 
 #### Meatloafs
 * [Instant Pot Meatloaf Mashed Potatoes]({{site.github.url}}/InstantPot/MeatloafMashedPotatoes/index.html)
@@ -39,10 +64,13 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 
 #### Pastas
 * [Linguini with White Clam Sauce]({{site.github.url}}/Dinners/LinguiniWhiteClamSauce/index.html)
-* [Spaghetti Pie]({{site.github.url}}/CasserolesHeartyPiesAndBakes/SpaghettiPie/index.html)
+* [Spaghetti Pie]({{site.github.url}}/Dinners/SpaghettiPie/index.html)
 
 #### Pizzas
 * [Bratwurst Pizza]({{site.github.url}}/Dinners/BratwurstPizza/index.html)
+
+#### Pork Chops
+* [Pork Chops Supreme]({{site.github.url}}/SlowCooker/PorkChopsSupreme/index.html)
 
 #### Roasts
 * [Instant Pot Sunday Pot Roast]({{site.github.url}}/InstantPot/SundayPotRoast/index.html)
@@ -51,11 +79,6 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 
 #### Sandwiches
 * [Instant Pot Italian Beef Sandwiches]({{site.github.url}}/InstantPot/ItalianBeefSandwiches/index.html)
-
-#### Slow Cooker
-* [Crockpot Goulash]({{site.github.url}}/SlowCooker/CrockpotGoulash/index.html)
-* [Crockpot Hamburger Dish]({{site.github.url}}/SlowCooker/CrockpotHamburgerDish/index.html)
-* [Pork Chops Supreme]({{site.github.url}}/SlowCooker/PorkChopsSupreme/index.html)
 
 #### Soups
 * [Slow Cooker Creamy Tortellini Soup]({{site.github.url}}/SlowCooker/CreamyTortelliniSoup/index.html)

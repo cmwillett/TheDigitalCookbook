@@ -10,7 +10,6 @@ Here I will store all recipes I come across - well, not all, but the ones that a
 * [Appetizers / Dips]({{site.github.url}}/AppetizerDips/index.html)
 * [Breakfast]({{site.github.url}}/Breakfast/index.html)
 * [Camping Foods]({{site.github.url}}/Camping/index.html)
-* [Casseroles/Hearty Pies/Bakes]({{site.github.url}}/CasserolesHeartyPiesAndBakes/index.html)
 * [Chilis]({{site.github.url}}/Chilis/index.html)
 * [Desserts]({{site.github.url}}/Desserts/index.html)
 * [Dinners]({{site.github.url}}/Dinners/index.html)
