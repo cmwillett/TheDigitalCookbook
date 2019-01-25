@@ -26,27 +26,22 @@ tipue_search_active: true
     <body>
         <div id="header">
           <nav>
+            <!--<select name="categories" onchange="location = this.value;">
+              <option value="">Choose a Category</option>
+              <option value="{{site.github.url}}">Home</option>
+              <option value="{{site.github.url}}/Campfire/index.html">Campfire</option>
+              <option value="{{site.github.url}}/Breakfast/index.html">Breakfast</option>
+            </select>-->
             <li class="fork"><a href="{{site.github.url}}">Home</a></li>
-            <li class="fork"><a href="{{site.github.url}}/AppetizerFingerFoods/index.html">Appetizer/Finger Foods</a></li>
+            <li class="fork"><a href="{{site.github.url}}/AppetizerDips/index.html">Appetizer/Dips</a></li>
             <li class="fork"><a href="{{site.github.url}}/Breakfast/index.html">Breakfast</a></li>
-            <li class="fork"><a href="{{site.github.url}}/Campfire/index.html">Campfire Foods</a></li>
-            <li class="fork"><a href="{{site.github.url}}/CasserolesHeartyPiesAndBakes/index.html">Casseroles/Hearty Pies/Bakes</a></li>
-            <li class="fork"><a href="{{site.github.url}}/Chilis/index.html">Chilis</a></li>
+            <li class="fork"><a href="{{site.github.url}}/Camping/index.html">Camping</a></li>
             <li class="fork"><a href="{{site.github.url}}/Desserts/index.html">Desserts</a></li>
-            <li class="fork"><a href="{{site.github.url}}/Diets/index.html">Diets</a></li>
             <li class="fork"><a href="{{site.github.url}}/Dinners/index.html">Dinners</a></li>
-            <li class="fork"><a href="{{site.github.url}}/Dips/index.html">Dips</a></li>
-            <li class="fork"><a href="{{site.github.url}}/FriedFoods/index.html">Fried Foods</a></li>
-            <li class="fork"><a href="{{site.github.url}}/InstantPot/index.html">Instant Pot</a></li>
-            <li class="fork"><a href="{{site.github.url}}/International/index.html">International</a></li>
-            <li class="fork"><a href="{{site.github.url}}/Meatloaf/index.html">Meatloaf</a></li>
             <li class="fork"><a href="{{site.github.url}}/Salads/index.html">Salads</a></li>
             <li class="fork"><a href="{{site.github.url}}/Sauces/index.html">Sauces</a></li>
-            <li class="fork"><a href="{{site.github.url}}/SideItems/index.html">Side Items</a></li>
-            <li class="fork"><a href="{{site.github.url}}/SlowCooker/index.html">Slow Cooker</a></li>
+            <li class="fork"><a href="{{site.github.url}}/Sides/index.html">Sides</a></li>
             <li class="fork"><a href="{{site.github.url}}/Snacks/index.html">Snacks</a></li>
-            <li class="fork"><a href="{{site.github.url}}/SoupsAndStews/index.html">Soups/Stews</a></li>
-            <li class="fork"><a href="{{site.github.url}}/SousVide/index.html">Sous Vide</a></li>
             <li class="fork"><a href="{{site.github.url}}/Contact/index.html">Contact</a></li>
             <li class="fork">
               <form action="{{ page.url | relative_url }}" id="form1">
@@ -84,5 +79,18 @@ tipue_search_active: true
                 {{ content }}
             </article>
         </div>
+        <!-- Google Analytics -->
+<!--        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            /* do not send analytics info from any other site */
+            if(window.location.href.indexOf("pages/BUE/APTKnowledgeBase/") > -1) {
+                ga('create', 'UA-76225164-1', 'auto');
+                ga('send', 'pageview');
+            }
+        </script>-->
     </body>
 </html>
