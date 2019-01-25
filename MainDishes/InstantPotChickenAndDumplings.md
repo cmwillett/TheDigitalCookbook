@@ -5,7 +5,7 @@ tags: instant,pot,chicken,dumplings,craig,kristen,willett
 ---
 # Instant Pot Chicken and Dumplings
 
-### Chicken and Dumplings done righ!
+### Chicken and Dumplings done right!
 
 #### Ingredients
 * Chicken Soup
