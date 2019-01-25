@@ -4,11 +4,18 @@ title: "Snacks"
 tags: snacks,chex,mix,salami,rolls
 ---
 # Snacks
+* Me like snacks
 
-### Me like snacks
+### Snacks
+<!-- TOC depthFrom:4 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Party Mixes](#party-mixes)
+- [Rollups](#rollups)
+
+<!-- /TOC -->
 
 #### Party Mixes
 * [Chex Party Mix]({{site.github.url}}/Snacks/ChexPartyMix/index.html)
 
-#### Rolls
+#### Rollups
 * [Salami Rolls]({{site.github.url}}/Snacks/SalamiRolls/index.html)
