@@ -77,7 +77,7 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Pork Chops Supreme]({{site.github.url}}/MainDishes/PorkChopsSupreme/index.html)
 
 #### Ribs
-* [Instant Pot Apple BBQ Ribs]({{site.github.url}}/MainDishes/AppleBBQRibs/index.html)
+* [Instant Pot Apple BBQ Ribs]({{site.github.url}}/MainDishes/InstantPotAppleBBQRibs/index.html)
 
 #### Roasts
 * [Instant Pot Sunday Pot Roast]({{site.github.url}}/MainDishes/SundayPotRoast/index.html)
