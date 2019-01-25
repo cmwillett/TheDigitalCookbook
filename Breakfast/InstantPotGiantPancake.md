@@ -24,4 +24,4 @@ tags: instant,pot,pancake,craig,kristen,willett
 3. Use a spatula to remove pancake from pot. Serve with butter and maple syrup.
 
 #### Pictures
-![]({{site.github.url}}/InstantPot/Images/GiantPancake.jpg){:height="600px" width="600px"}
+![]({{site.github.url}}/Breakfast/Images/InstantPotGiantPancake.jpg){:height="600px" width="600px"}
