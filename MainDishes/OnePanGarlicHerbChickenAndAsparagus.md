@@ -30,5 +30,5 @@ tags: main,course,dinner,garlic,herb,chicken,asparagus,willis,hatton
 In place of the dried basil, oregano, and thyme, you can use about 1 1/2 teaspoons dried Italian seasoning.
 
 #### Pictures
-![]({{site.github.url}}/Dinners/Images/OnePanGarlicHerbChickenAndAsparagus.jpg){:height="600px" width="600px"}
-![]({{site.github.url}}/Dinners/Images/OnePanGarlicHerbChickenAndAsparagus2.jpg){:height="600px" width="600px"}
+![]({{site.github.url}}/MainDishes/Images/OnePanGarlicHerbChickenAndAsparagus.jpg){:height="600px" width="600px"}
+![]({{site.github.url}}/MainDishes/Images/OnePanGarlicHerbChickenAndAsparagus2.jpg){:height="600px" width="600px"}

@@ -53,4 +53,4 @@ tags: instant,pot,chicken,dumplings,craig,kristen,willett
   3. Drop teaspoonfuls of dumpling batter into the Instant Pot after you added the chicken and chicken broth.
 
 #### Pictures
-![]({{site.github.url}}/Dinners/Images/ChickenAndDumplings.jpg){:height="600px" width="600px"}
+![]({{site.github.url}}/MainDishes/Images/ChickenAndDumplings.jpg){:height="600px" width="600px"}

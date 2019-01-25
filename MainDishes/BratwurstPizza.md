@@ -24,4 +24,4 @@ tags: main,course,dinner,bratwurst,pizza,robert,riggs
 8. Prost!
 
 #### Pictures
-![]({{site.github.url}}/Dinners/Images/BratwurstPizza.jpg){:height="600px" width="600px"}
+![]({{site.github.url}}/MainDishes/Images/BratwurstPizza.jpg){:height="600px" width="600px"}
