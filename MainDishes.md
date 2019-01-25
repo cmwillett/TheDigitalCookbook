@@ -19,6 +19,7 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 - [Pastas](#pastas)
 - [Pizzas](#pizzas)
 - [Pork Chops](#pork-chops)
+- [Ribs](#ribs)
 - [Roasts](#roasts)
 - [Sandwiches](#sandwiches)
 - [Soups](#soups)
@@ -44,6 +45,9 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Chicken Devan]({{site.github.url}}/MainDishes/ChickenDevan/index.html)
 * [Chicken Pot Pie]({{site.github.url}}/MainDishes/ChickenPotPie/index.html)
 * [Instant Pot Chicken and Dumplings]({{site.github.url}}/MainDishes/ChickenAndDumplings/index.html)
+* [Instant Pot Just Basic Chicken Wings]({{site.github.url}}/MainDishes/InstantPotJustBasicChickenWings/index.html)
+* [Instant Pot Just Plain Drumsticks]({{site.github.url}}/MainDishes/InstantPotJustPlainDrumsticks/index.html)
+* [Instant Pot Taco Seasoning Ranch Chicken Wings]({{site.github.url}}/MainDishes/InstantPotTacoSeasoningRanchChickenWings/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)
@@ -72,13 +76,16 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 #### Pork Chops
 * [Pork Chops Supreme]({{site.github.url}}/MainDishes/PorkChopsSupreme/index.html)
 
+#### Ribs
+* [Instant Pot Apple BBQ Ribs]({{site.github.url}}/MainDishes/AppleBBQRibs/index.html)
+
 #### Roasts
 * [Instant Pot Sunday Pot Roast]({{site.github.url}}/MainDishes/SundayPotRoast/index.html)
 * [Crockpot Orange/Cranberry Pork Roast]({{site.github.url}}/MainDishes/OrangeCranberryPorkRoast/index.html)
 * [Rick's Crockpot Pot Roast]({{site.github.url}}/MainDishes/RicksCrockpotPotRoast/index.html)
 
 #### Sandwiches
-* [Instant Pot Italian Beef Sandwiches]({{site.github.url}}/InstantPot/ItalianBeefSandwiches/index.html)
+* [Instant Pot Italian Beef Sandwiches]({{site.github.url}}/MainDishes/InstantPotItalianBeefSandwiches/index.html)
 
 #### Soups
 * [Slow Cooker Creamy Tortellini Soup]({{site.github.url}}/MainDishes/CreamyTortelliniSoup/index.html)
@@ -89,8 +96,8 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Janie's Stuffed Pepper Soup]({{site.github.url}}/MainDishes/JaniesStuffedPepperSoup/index.html)
 
 #### Stews
-* [Instant Pot Vegetable Beef Stew]({{site.github.url}}/InstantPot/VegetableBeefStew/index.html)
-* [Instant Pot 5 Spice Beef Stew]({{site.github.url}}/InstantPot/FiveSpiceBeefStew/index.html)
+* [Instant Pot Vegetable Beef Stew]({{site.github.url}}/MainDishes/InstantPotVegetableBeefStew/index.html)
+* [Instant Pot 5 Spice Beef Stew]({{site.github.url}}/MainDishes/InstantPotFiveSpiceBeefStew/index.html)
 * [No Peek Beef Stew]({{site.github.url}}/MainDishes/NoPeekBeefStew/index.html)
 
 #### Thai

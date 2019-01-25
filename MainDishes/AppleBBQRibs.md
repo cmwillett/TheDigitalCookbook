@@ -25,4 +25,4 @@ So easy and tasty!
 8. Broil the ribs for 2-3 minutes and serve
 
 #### Pictures
-![]({{site.github.url}}/InstantPot/Images/AppleBBQRibs.jpg){:height="600px" width="600px"}
+![]({{site.github.url}}/MainDishes/Images/AppleBBQRibs.jpg){:height="600px" width="600px"}

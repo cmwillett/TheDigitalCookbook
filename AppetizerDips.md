@@ -13,6 +13,7 @@ tags: finger,foods,appetizer,snack,egg,roll,rolls,skyline
 - [Chicken](#chicken)
 - [Egg Rolls](#egg-rolls)
 - [Meatballs](#meatballs)
+- [Salsas](#salsas)
 
 <!-- /TOC -->
 
@@ -27,3 +28,6 @@ tags: finger,foods,appetizer,snack,egg,roll,rolls,skyline
 
 #### Meatballs
 * [Craig's Meatballs]({{site.github.url}}/AppetizerDips/TheCraigsMeatballs/index.html)
+
+#### Salsas
+* [Instant Pot Salsa]({{site.github.url}}/AppetizerDips/InstantPotSalsa/index.html)

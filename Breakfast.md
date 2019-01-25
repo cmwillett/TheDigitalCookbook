@@ -30,4 +30,4 @@ tags: breakfast,goetta,pancake,omelet,pepporoni,pizza
 * [The New Year's Omelet]({{site.github.url}}/Breakfast/TheNewYearsOmelet/index.html)
 
 #### Pancakes
-* [Instant Pot Giant Pancake]({{site.github.url}}/InstantPot/GiantPancake/index.html)
+* [Instant Pot Giant Pancake]({{site.github.url}}/Breakfast/InstantPotGiantPancake/index.html)
