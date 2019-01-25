@@ -39,5 +39,5 @@ tags: instant,pot,vegetable,beef,stew,craig,kristen,willett
 10. Let boil 5 minutes and serve with Parmesan cheese.
 
 #### Pictures
-![]({{site.github.url}}/InstantPot/Images/VegetableBeefStew.jpg){:height="600px" width="600px"}
-![]({{site.github.url}}/InstantPot/Images/VegetableBeefStew2.jpg){:height="600px" width="600px"}
+![]({{site.github.url}}/MainDishes/Images/InstantPotVegetableBeefStew.jpg){:height="600px" width="600px"}
+![]({{site.github.url}}/MainDishes/Images/InstantPotVegetableBeefStew2.jpg){:height="600px" width="600px"}
