@@ -44,7 +44,7 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Skillet Chicken Parmesan]({{site.github.url}}/MainDishes/SkilletChickenParmesan/index.html)
 * [Chicken Devan]({{site.github.url}}/MainDishes/ChickenDevan/index.html)
 * [Chicken Pot Pie]({{site.github.url}}/MainDishes/ChickenPotPie/index.html)
-* [Instant Pot Chicken and Dumplings]({{site.github.url}}/MainDishes/ChickenAndDumplings/index.html)
+* [Instant Pot Chicken and Dumplings]({{site.github.url}}/MainDishes/InstantPotChickenAndDumplings/index.html)
 * [Instant Pot Just Basic Chicken Wings]({{site.github.url}}/MainDishes/InstantPotJustBasicChickenWings/index.html)
 * [Instant Pot Just Plain Drumsticks]({{site.github.url}}/MainDishes/InstantPotJustPlainDrumsticks/index.html)
 * [Instant Pot Taco Seasoning Ranch Chicken Wings]({{site.github.url}}/MainDishes/InstantPotTacoSeasoningRanchChickenWings/index.html)
@@ -59,7 +59,7 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Crockpot Goulash]({{site.github.url}}/MainDishes/CrockpotGoulash/index.html)
 
 #### Meatloafs
-* [Instant Pot Meatloaf Mashed Potatoes]({{site.github.url}}/MainDishes/MeatloafMashedPotatoes/index.html)
+* [Instant Pot Meatloaf Mashed Potatoes]({{site.github.url}}/MainDishes/InstantPotMeatloafMashedPotatoes/index.html)
 * [Bacon Wrapped Philly Cheese Steak Meatloaf]({{site.github.url}}/MainDishes/BaconWrappedPhillyCheeseSteakMeatloaf/index.html)
 * [Mom's Meatloaf]({{site.github.url}}/MainDishes/MomsMeatloaf/index.html)
 
