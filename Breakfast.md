@@ -4,7 +4,7 @@ title: "Breakfast"
 tags: breakfast,goetta,pancake,omelet,pepporoni,pizza
 ---
 # Breakfast
-* I'm not usually the one who makes breakfast, so I need recipes!
+* I'm not usually the one who makes breakfast, but make it for me, and I'll eat it...
 
 ### Categories
 <!-- TOC depthFrom:4 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
