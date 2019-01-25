@@ -11,7 +11,6 @@ tags: snacks,chex,mix,salami,rolls
 
 - [Party Mixes](#party-mixes)
 - [Popcorns](#popcorns)
-- [Rollups](#rollups)
 
 <!-- /TOC -->
 
@@ -20,6 +19,3 @@ tags: snacks,chex,mix,salami,rolls
 
 #### Popcorns
 * [Instant Pot Popcorn]({{site.github.url}}/Snacks/InstantPotPopcorn/index.html)
-
-#### Rollups
-* [Salami Rolls]({{site.github.url}}/Snacks/SalamiRolls/index.html)
