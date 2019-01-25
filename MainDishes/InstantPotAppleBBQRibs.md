@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Apple BBQ Ribs"
+title: "Instant Pot Apple BBQ Ribs"
 tags: ribs,recipe,bbq,apple,instant pot,pressure,craig,willett
 ---
-# Apple BBQ Ribs!
+# Instant Pot Apple BBQ Ribs!
 
 ### This is one of our favorite instant pot recipes!
 So easy and tasty!
