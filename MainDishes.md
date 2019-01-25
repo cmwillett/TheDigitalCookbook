@@ -23,6 +23,7 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 - [Sandwiches](#sandwiches)
 - [Soups](#soups)
 - [Stews](#stews)
+- [Thai](#thai)
 
 <!-- /TOC -->
 
