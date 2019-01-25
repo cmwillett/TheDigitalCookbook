@@ -63,4 +63,4 @@ tags: chili,five,5,alarm,hot,spicy,robert,riggs
     - The beans tend to settle to the bottom and will stick without regular stirring intervals.
 
 #### Pictures
-![]({{site.github.url}}/Chilis/Images/RobertsFiveAlarmChili.png){:height="600px" width="600px"}
+![]({{site.github.url}}/Chilis/Dinners/RobertsFiveAlarmChili.png){:height="600px" width="600px"}
