@@ -43,7 +43,7 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Skillet Chicken Parmesan]({{site.github.url}}/MainDishes/SkilletChickenParmesan/index.html)
 * [Chicken Devan]({{site.github.url}}/MainDishes/ChickenDevan/index.html)
 * [Chicken Pot Pie]({{site.github.url}}/MainDishes/ChickenPotPie/index.html)
-* [Instant Pot Chicken and Dumplings]({{site.github.url}}/InstantPot/ChickenAndDumplings/index.html)
+* [Instant Pot Chicken and Dumplings]({{site.github.url}}/MainDishes/ChickenAndDumplings/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)
