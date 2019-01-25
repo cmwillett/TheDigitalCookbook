@@ -92,3 +92,6 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Instant Pot Vegetable Beef Stew]({{site.github.url}}/InstantPot/VegetableBeefStew/index.html)
 * [Instant Pot 5 Spice Beef Stew]({{site.github.url}}/InstantPot/FiveSpiceBeefStew/index.html)
 * [No Peek Beef Stew]({{site.github.url}}/SoupsAndStews/NoPeekBeefStew/index.html)
+
+#### Thai
+* [Turkey Thai Curry]({{site.github.url}}/MainDishes/TurkeyThaiCurry/index.html)

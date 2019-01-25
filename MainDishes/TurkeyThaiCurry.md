@@ -22,4 +22,4 @@ tags: international,turkey,thai,curry,robert,riggs
     - Yum!
 
 #### Pictures
-![]({{site.github.url}}/International/Images/TurkeyThaiCurry.jpg){:height="600px" width="600px"}
+![]({{site.github.url}}/MainDishes/Images/TurkeyThaiCurry.jpg){:height="600px" width="600px"}
