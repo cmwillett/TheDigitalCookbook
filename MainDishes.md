@@ -29,20 +29,20 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 #### Beef
 * [Pepper Steak]({{site.github.url}}/MainDishes/PepperSteak/index.html)
 * [Shepherd's Pie]({{site.github.url}}/MainDishes/ShepherdsPie/index.html)
-* [Taco Bake]({{site.github.url}}/CasserolesHeartyPiesAndBakes/TacoBake/index.html)
-* [Meat and Cheese Casserole]({{site.github.url}}/CasserolesHeartyPiesAndBakes/MeatAndCheeseCasserole/index.html)
+* [Taco Bake]({{site.github.url}}/MainDishes/TacoBake/index.html)
+* [Meat and Cheese Casserole]({{site.github.url}}/MainDishes/MeatAndCheeseCasserole/index.html)
 * [Crockpot Hamburger Dish]({{site.github.url}}/SlowCooker/CrockpotHamburgerDish/index.html)
-* [Shepherd's Pie]({{site.github.url}}/CasserolesHeartyPiesAndBakes/ShepherdsPie/index.html)
+* [Shepherd's Pie]({{site.github.url}}/MainDishes/ShepherdsPie/index.html)
 
 #### Casseroles
-* [Tuna Casserole]({{site.github.url}}/CasserolesHeartyPiesAndBakes/TunaCasserole/index.html)
+* [Tuna Casserole]({{site.github.url}}/MainDishes/TunaCasserole/index.html)
 * [Crockpot Reuben Casserole]({{site.github.url}}/SlowCooker/CrockpotReubenCasserole/index.html)
 
 #### Chicken
 * [One Pan Garlic Herb Chicken and Asparagus]({{site.github.url}}/MainDishes/OnePanGarlicHerbChickenAndAsparagus/index.html)
 * [Skillet Chicken Parmesan]({{site.github.url}}/MainDishes/SkilletChickenParmesan/index.html)
-* [Chicken Devan]({{site.github.url}}/CasserolesHeartyPiesAndBakes/ChickenDevan/index.html)
-* [Chicken Pot Pie]({{site.github.url}}/CasserolesHeartyPiesAndBakes/ChickenPotPie/index.html)
+* [Chicken Devan]({{site.github.url}}/MainDishes/ChickenDevan/index.html)
+* [Chicken Pot Pie]({{site.github.url}}/MainDishes/ChickenPotPie/index.html)
 * [Instant Pot Chicken and Dumplings]({{site.github.url}}/InstantPot/ChickenAndDumplings/index.html)
 
 #### Chilis
@@ -64,7 +64,7 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 
 #### Pastas
 * [Linguini with White Clam Sauce]({{site.github.url}}/MainDishes/LinguiniWhiteClamSauce/index.html)
-* [Spaghetti Pie]({{site.github.url}}/CasserolesHeartyPiesAndBakes/SpaghettiPie/index.html)
+* [Spaghetti Pie]({{site.github.url}}/MainDishes/SpaghettiPie/index.html)
 
 #### Pizzas
 * [Bratwurst Pizza]({{site.github.url}}/MainDishes/BratwurstPizza/index.html)
