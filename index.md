@@ -13,7 +13,6 @@ Here I will store all recipes I come across - well, not all, but the ones that a
 * [Desserts]({{site.github.url}}/Desserts/index.html)
 * [Instant Pot Recipes]({{site.github.url}}/InstantPot/index.html)
 * [Main Dishes]({{site.github.url}}/MainDishes/index.html)
-* [Meatloaf]({{site.github.url}}/Meatloaf/index.html)
 * [Salads]({{site.github.url}}/Salads/index.html)
 * [Sauces]({{site.github.url}}/Sauces/index.html)
 * [Sides]({{site.github.url}}/Sides/index.html)

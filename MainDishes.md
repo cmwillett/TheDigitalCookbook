@@ -56,8 +56,8 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 
 #### Meatloafs
 * [Instant Pot Meatloaf Mashed Potatoes]({{site.github.url}}/MainDishes/MeatloafMashedPotatoes/index.html)
-* [Bacon Wrapped Philly Cheese Steak Meatloaf]({{site.github.url}}/Meatloaf/BaconWrappedPhillyCheeseSteakMeatloaf/index.html)
-* [Mom's Meatloaf]({{site.github.url}}/Meatloaf/MomsMeatloaf/index.html)
+* [Bacon Wrapped Philly Cheese Steak Meatloaf]({{site.github.url}}/MainDishes/BaconWrappedPhillyCheeseSteakMeatloaf/index.html)
+* [Mom's Meatloaf]({{site.github.url}}/MainDishes/MomsMeatloaf/index.html)
 
 #### Mexican
 * [Willis's Taco Bake]({{site.github.url}}/MainDishes/WillisTacoBake/index.html)
