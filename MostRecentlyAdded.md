@@ -15,7 +15,7 @@ tags: recent,current,new
 * [BLT Dip]({{site.github.url}}/AppetizerDips/BLTDip/index.html)
 
 #### January 22nd, 2019
-* [Salami Rolls]({{site.github.url}}/Snacks/SalamiRolls/index.html)
+* [Salami Rolls]({{site.github.url}}/AppetizerDips/SalamiRolls/index.html)
 
 #### January 21st, 2019
 * [Bacon Wrapped Philly Cheese Steak Meatloaf]({{site.github.url}}/MainDishes/BaconWrappedPhillyCheeseSteakMeatloaf/index.html)
