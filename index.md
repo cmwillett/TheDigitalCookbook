@@ -18,7 +18,6 @@ Here I will store all recipes I come across - well, not all, but the ones that a
 * [Sides]({{site.github.url}}/Sides/index.html)
 * [Slow Cooker]({{site.github.url}}/SlowCooker/index.html)
 * [Snacks]({{site.github.url}}/Snacks/index.html)
-* [Soups/Stews]({{site.github.url}}/SoupsAndStews/index.html)
 * [Contact]({{site.github.url}}/Contact/index.html)
   * If you have a recipe for me to try and/or want one added to the site!
   * Or you found a broken link, misspelled word, etc., don't hesitate to let us know!

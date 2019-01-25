@@ -81,17 +81,17 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Instant Pot Italian Beef Sandwiches]({{site.github.url}}/InstantPot/ItalianBeefSandwiches/index.html)
 
 #### Soups
-* [Slow Cooker Creamy Tortellini Soup]({{site.github.url}}/SlowCooker/CreamyTortelliniSoup/index.html)
-* [Easy Crock Pot Potato Soup]({{site.github.url}}/SlowCooker/EasyCrockPotPotatoSoup/index.html)
-* [Chicken Tortilla Soup]({{site.github.url}}/SoupsAndStews/ChickenTortillaSoup/index.html)
-* [Craig's Homemade Vegetable Soup]({{site.github.url}}/SoupsAndStews/CraigsHomemadeVegetableSoup/index.html)
-* [Grandma's Chicken Vegetable Soup]({{site.github.url}}/SoupsAndStews/GrandmasChickenVegetableSoup/index.html)
-* [Janie's Stuffed Pepper Soup]({{site.github.url}}/SoupsAndStews/JaniesStuffedPepperSoup/index.html)
+* [Slow Cooker Creamy Tortellini Soup]({{site.github.url}}/MainDishes/CreamyTortelliniSoup/index.html)
+* [Easy Crock Pot Potato Soup]({{site.github.url}}/MainDishes/EasyCrockPotPotatoSoup/index.html)
+* [Chicken Tortilla Soup]({{site.github.url}}/MainDishes/ChickenTortillaSoup/index.html)
+* [Craig's Homemade Vegetable Soup]({{site.github.url}}/MainDishes/CraigsHomemadeVegetableSoup/index.html)
+* [Grandma's Chicken Vegetable Soup]({{site.github.url}}/MainDishes/GrandmasChickenVegetableSoup/index.html)
+* [Janie's Stuffed Pepper Soup]({{site.github.url}}/MainDishes/JaniesStuffedPepperSoup/index.html)
 
 #### Stews
 * [Instant Pot Vegetable Beef Stew]({{site.github.url}}/InstantPot/VegetableBeefStew/index.html)
 * [Instant Pot 5 Spice Beef Stew]({{site.github.url}}/InstantPot/FiveSpiceBeefStew/index.html)
-* [No Peek Beef Stew]({{site.github.url}}/SoupsAndStews/NoPeekBeefStew/index.html)
+* [No Peek Beef Stew]({{site.github.url}}/MainDishes/NoPeekBeefStew/index.html)
 
 #### Thai
 * [Turkey Thai Curry]({{site.github.url}}/MainDishes/TurkeyThaiCurry/index.html)
