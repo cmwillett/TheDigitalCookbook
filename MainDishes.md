@@ -33,7 +33,6 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Taco Bake]({{site.github.url}}/MainDishes/TacoBake/index.html)
 * [Meat and Cheese Casserole]({{site.github.url}}/MainDishes/MeatAndCheeseCasserole/index.html)
 * [Crockpot Hamburger Dish]({{site.github.url}}/SlowCooker/CrockpotHamburgerDish/index.html)
-* [Shepherd's Pie]({{site.github.url}}/MainDishes/ShepherdsPie/index.html)
 
 #### Casseroles
 * [Tuna Casserole]({{site.github.url}}/MainDishes/TunaCasserole/index.html)

@@ -19,7 +19,7 @@ tags: side,items,side,item,sides,asparagus,red,skinned,skin,potatoes
 * [Baked Asparagus]({{site.github.url}}/Sides/BakedAsparagus/index.html)
 
 #### Corn
-* [Corn Casserole]({{site.github.url}}/CasserolesHeartyPiesAndBakes/CornCasserole/index.html)
+* [Corn Casserole]({{site.github.url}}/Sides/CornCasserole/index.html)
 
 #### Potatoes
 * [Red Skinned Smashed Potatoes]({{site.github.url}}/Sides/RedSkinnedSmashedPotatoes/index.html)
