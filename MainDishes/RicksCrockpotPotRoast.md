@@ -33,4 +33,4 @@ tags: slow,cooker,crockpot,crock,pot,roast,rick,webb,spider
 Top or round roast works too.  I add another potato sometimes.
 Yukon potatoes are excellent as well.
 
-![]({{site.github.url}}/SlowCooker/Images/RicksCrockpotPotRoast.jpg){:height="600px" width="600px"}
+![]({{site.github.url}}/MainDishes/Images/RicksCrockpotPotRoast.jpg){:height="600px" width="600px"}

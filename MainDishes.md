@@ -32,11 +32,11 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Shepherd's Pie]({{site.github.url}}/MainDishes/ShepherdsPie/index.html)
 * [Taco Bake]({{site.github.url}}/MainDishes/TacoBake/index.html)
 * [Meat and Cheese Casserole]({{site.github.url}}/MainDishes/MeatAndCheeseCasserole/index.html)
-* [Crockpot Hamburger Dish]({{site.github.url}}/SlowCooker/CrockpotHamburgerDish/index.html)
+* [Crockpot Hamburger Dish]({{site.github.url}}/MainDishes/CrockpotHamburgerDish/index.html)
 
 #### Casseroles
 * [Tuna Casserole]({{site.github.url}}/MainDishes/TunaCasserole/index.html)
-* [Crockpot Reuben Casserole]({{site.github.url}}/SlowCooker/CrockpotReubenCasserole/index.html)
+* [Crockpot Reuben Casserole]({{site.github.url}}/MainDishes/CrockpotReubenCasserole/index.html)
 
 #### Chicken
 * [One Pan Garlic Herb Chicken and Asparagus]({{site.github.url}}/MainDishes/OnePanGarlicHerbChickenAndAsparagus/index.html)
@@ -52,7 +52,7 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Instant Pot Chili]({{site.github.url}}/MainDishes/InstantPotChili/index.html)
 
 #### Ghoulashes
-* [Crockpot Goulash]({{site.github.url}}/SlowCooker/CrockpotGoulash/index.html)
+* [Crockpot Goulash]({{site.github.url}}/MainDishes/CrockpotGoulash/index.html)
 
 #### Meatloafs
 * [Instant Pot Meatloaf Mashed Potatoes]({{site.github.url}}/MainDishes/MeatloafMashedPotatoes/index.html)
@@ -70,12 +70,12 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Bratwurst Pizza]({{site.github.url}}/MainDishes/BratwurstPizza/index.html)
 
 #### Pork Chops
-* [Pork Chops Supreme]({{site.github.url}}/SlowCooker/PorkChopsSupreme/index.html)
+* [Pork Chops Supreme]({{site.github.url}}/MainDishes/PorkChopsSupreme/index.html)
 
 #### Roasts
 * [Instant Pot Sunday Pot Roast]({{site.github.url}}/MainDishes/SundayPotRoast/index.html)
-* [Crockpot Orange/Cranberry Pork Roast]({{site.github.url}}/SlowCooker/OrangeCranberryPorkRoast/index.html)
-* [Rick's Crockpot Pot Roast]({{site.github.url}}/SlowCooker/RicksCrockpotPotRoast/index.html)
+* [Crockpot Orange/Cranberry Pork Roast]({{site.github.url}}/MainDishes/OrangeCranberryPorkRoast/index.html)
+* [Rick's Crockpot Pot Roast]({{site.github.url}}/MainDishes/RicksCrockpotPotRoast/index.html)
 
 #### Sandwiches
 * [Instant Pot Italian Beef Sandwiches]({{site.github.url}}/InstantPot/ItalianBeefSandwiches/index.html)

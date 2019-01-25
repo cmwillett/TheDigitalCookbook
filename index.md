@@ -16,7 +16,6 @@ Here I will store all recipes I come across - well, not all, but the ones that a
 * [Salads]({{site.github.url}}/Salads/index.html)
 * [Sauces]({{site.github.url}}/Sauces/index.html)
 * [Sides]({{site.github.url}}/Sides/index.html)
-* [Slow Cooker]({{site.github.url}}/SlowCooker/index.html)
 * [Snacks]({{site.github.url}}/Snacks/index.html)
 * [Contact]({{site.github.url}}/Contact/index.html)
   * If you have a recipe for me to try and/or want one added to the site!
