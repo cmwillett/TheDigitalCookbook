@@ -5,7 +5,7 @@ tags: sauce,caramelized,onion,honey,barbecue,bbq,craig,willett
 ---
 # Caramelized Onion and Honey Barbecue Sauce
 
-### We loved this sauce on our [Instant Pot Apple BBQ Ribs]({{site.github.url}}/InstantPot/AppleBBQRibs/index.html)
+### We loved this sauce on our [Instant Pot Apple BBQ Ribs]({{site.github.url}}/MainDishes/InstantPotAppleBBQRibs/index.html)
 
 #### Ingredients
 - 2 tablespoons bacon grease or butter
