@@ -49,7 +49,7 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)
 * [Robert's 5 Alarm Chili]({{site.github.url}}/MainDishes/RobertsFiveAlarmChili/index.html)
 * [Uncle Jim's White Chicken Chili]({{site.github.url}}/MainDishes/UncleJimsWhiteChickenChili/index.html)
-* [Instant Pot Chili]({{site.github.url}}/InstantPot/InstantPotChili/index.html)
+* [Instant Pot Chili]({{site.github.url}}/MainDishes/InstantPotChili/index.html)
 
 #### Ghoulashes
 * [Crockpot Goulash]({{site.github.url}}/SlowCooker/CrockpotGoulash/index.html)
