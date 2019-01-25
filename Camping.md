@@ -14,4 +14,4 @@ tags: camping,fire,campfire,onion
 <!-- /TOC -->
 
 #### Campfire Onion
-* [Campfire Onion]({{site.github.url}}/Campfire/FireOnion/index.html)
+* [Campfire Onion]({{site.github.url}}/Camping/FireOnion/index.html)

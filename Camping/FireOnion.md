@@ -26,4 +26,4 @@ tags: recipe,fire,onion,camping,craig,willett
 9. Peel back foil and have at it!
 
 #### Pictures
-![]({{site.github.url}}/Campfire/Images/FireOnion.jpg){:height="600px" width="600px"}
+![]({{site.github.url}}/Camping/Images/FireOnion.jpg){:height="600px" width="600px"}
