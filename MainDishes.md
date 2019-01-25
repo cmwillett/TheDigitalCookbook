@@ -55,7 +55,7 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Crockpot Goulash]({{site.github.url}}/SlowCooker/CrockpotGoulash/index.html)
 
 #### Meatloafs
-* [Instant Pot Meatloaf Mashed Potatoes]({{site.github.url}}/InstantPot/MeatloafMashedPotatoes/index.html)
+* [Instant Pot Meatloaf Mashed Potatoes]({{site.github.url}}/MainDishes/MeatloafMashedPotatoes/index.html)
 * [Bacon Wrapped Philly Cheese Steak Meatloaf]({{site.github.url}}/Meatloaf/BaconWrappedPhillyCheeseSteakMeatloaf/index.html)
 * [Mom's Meatloaf]({{site.github.url}}/Meatloaf/MomsMeatloaf/index.html)
 
