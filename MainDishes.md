@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Dinners"
+title: "MainDishes"
 tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,devan,pot,pie,chili,meat,cheese,casserole,shepherd,pie,tuna,cincinnati,white,dumplings,meatloaf,mashed,potatoes
 ---
-# Dinners
+# Main Dishes
 * Some main course dishes...
 
 ### Categories
@@ -27,8 +27,8 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 <!-- /TOC -->
 
 #### Beef
-* [Pepper Steak]({{site.github.url}}/Dinners/PepperSteak/index.html)
-* [Shepherd's Pie]({{site.github.url}}/Dinners/ShepherdsPie/index.html)
+* [Pepper Steak]({{site.github.url}}/MainDishes/PepperSteak/index.html)
+* [Shepherd's Pie]({{site.github.url}}/MainDishes/ShepherdsPie/index.html)
 * [Taco Bake]({{site.github.url}}/CasserolesHeartyPiesAndBakes/TacoBake/index.html)
 * [Meat and Cheese Casserole]({{site.github.url}}/CasserolesHeartyPiesAndBakes/MeatAndCheeseCasserole/index.html)
 * [Crockpot Hamburger Dish]({{site.github.url}}/SlowCooker/CrockpotHamburgerDish/index.html)
@@ -39,16 +39,16 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Crockpot Reuben Casserole]({{site.github.url}}/SlowCooker/CrockpotReubenCasserole/index.html)
 
 #### Chicken
-* [One Pan Garlic Herb Chicken and Asparagus]({{site.github.url}}/Dinners/OnePanGarlicHerbChickenAndAsparagus/index.html)
-* [Skillet Chicken Parmesan]({{site.github.url}}/Dinners/SkilletChickenParmesan/index.html)
+* [One Pan Garlic Herb Chicken and Asparagus]({{site.github.url}}/MainDishes/OnePanGarlicHerbChickenAndAsparagus/index.html)
+* [Skillet Chicken Parmesan]({{site.github.url}}/MainDishes/SkilletChickenParmesan/index.html)
 * [Chicken Devan]({{site.github.url}}/CasserolesHeartyPiesAndBakes/ChickenDevan/index.html)
 * [Chicken Pot Pie]({{site.github.url}}/CasserolesHeartyPiesAndBakes/ChickenPotPie/index.html)
 * [Instant Pot Chicken and Dumplings]({{site.github.url}}/InstantPot/ChickenAndDumplings/index.html)
 
 #### Chilis
-* [Glenna's Cincinnati Chili]({{site.github.url}}/Dinners/GlennasCincinnatiChili/index.html)
-* [Robert's 5 Alarm Chili]({{site.github.url}}/Dinners/RobertsFiveAlarmChili/index.html)
-* [Uncle Jim's White Chicken Chili]({{site.github.url}}/Dinners/UncleJimsWhiteChickenChili/index.html)
+* [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)
+* [Robert's 5 Alarm Chili]({{site.github.url}}/MainDishes/RobertsFiveAlarmChili/index.html)
+* [Uncle Jim's White Chicken Chili]({{site.github.url}}/MainDishes/UncleJimsWhiteChickenChili/index.html)
 * [Instant Pot Chili]({{site.github.url}}/InstantPot/InstantPotChili/index.html)
 
 #### Ghoulashes
@@ -60,14 +60,14 @@ tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,de
 * [Mom's Meatloaf]({{site.github.url}}/Meatloaf/MomsMeatloaf/index.html)
 
 #### Mexican
-* [Willis's Taco Bake]({{site.github.url}}/Dinners/WillisTacoBake/index.html)
+* [Willis's Taco Bake]({{site.github.url}}/MainDishes/WillisTacoBake/index.html)
 
 #### Pastas
-* [Linguini with White Clam Sauce]({{site.github.url}}/Dinners/LinguiniWhiteClamSauce/index.html)
+* [Linguini with White Clam Sauce]({{site.github.url}}/MainDishes/LinguiniWhiteClamSauce/index.html)
 * [Spaghetti Pie]({{site.github.url}}/CasserolesHeartyPiesAndBakes/SpaghettiPie/index.html)
 
 #### Pizzas
-* [Bratwurst Pizza]({{site.github.url}}/Dinners/BratwurstPizza/index.html)
+* [Bratwurst Pizza]({{site.github.url}}/MainDishes/BratwurstPizza/index.html)
 
 #### Pork Chops
 * [Pork Chops Supreme]({{site.github.url}}/SlowCooker/PorkChopsSupreme/index.html)
