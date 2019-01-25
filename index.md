@@ -11,7 +11,6 @@ Here I will store all recipes I come across - well, not all, but the ones that a
 * [Breakfast]({{site.github.url}}/Breakfast/index.html)
 * [Camping Foods]({{site.github.url}}/Camping/index.html)
 * [Desserts]({{site.github.url}}/Desserts/index.html)
-* [Fried Foods]({{site.github.url}}/FriedFoods/index.html)
 * [Instant Pot Recipes]({{site.github.url}}/InstantPot/index.html)
 * [International]({{site.github.url}}/International/index.html)
 * [Main Dishes]({{site.github.url}}/MainDishes/index.html)
