@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Chex Party Mix"
-tags: snacks,chex,party,mix,craig,kristen,willett,annie,bohning
+tags: snacks,snack,chex,party,mix,craig,kristen,willett,annie,bohning
 ---
 # Chex Party Mix
 
