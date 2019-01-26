@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Submit an Issue"
-tags: submit,issue,new,defect
+tags: submit,issue,new,defect,contact,us
 ---
 # Submit an Issue
 * Find an issue on the site?  A broken link?  Misspelled word?
