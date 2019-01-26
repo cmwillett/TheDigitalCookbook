@@ -36,13 +36,15 @@ tipue_search_active: true
             <li class="fork"><a href="{{site.github.url}}/Sauces/index.html">Sauces</a></li>
             <li class="fork"><a href="{{site.github.url}}/Sides/index.html">Sides</a></li>
             <li class="fork"><a href="{{site.github.url}}/Snacks/index.html">Snacks</a></li>
-            <li class="fork"><a href="{{site.github.url}}/Contact/index.html">Contact</a></li><br/>
-            <select name="commonSearches" onchange="location = this.value;">
-              <option value="">Common Searches</option>
-              <option value="{{site.github.url}}/?q=Crockpot">Crockpot</option>
-              <option value="{{site.github.url}}/?q=Instant+Pot">Instant Pot</option>
-              <option value="{{site.github.url}}/?q=Slow+Cooker">Slow Cooker</option>
-            </select>
+            <li class="fork"><a href="{{site.github.url}}/Contact/index.html">Contact</a></li>
+            <li class="fork">
+              <select name="commonSearches" onchange="location = this.value;">
+                <option value="">Common Searches</option>
+                <option value="{{site.github.url}}/?q=Crockpot">Crockpot</option>
+                <option value="{{site.github.url}}/?q=Instant+Pot">Instant Pot</option>
+                <option value="{{site.github.url}}/?q=Slow+Cooker">Slow Cooker</option>
+              </select>
+            </li>
             <li class="fork">
               <form action="{{ page.url | relative_url }}" id="form1">
                 <div class="tipue_search_left"></div>
