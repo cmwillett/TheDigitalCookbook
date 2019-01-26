@@ -15,6 +15,13 @@ tags: give,feedback,contact
       <input type="text" name="_subject" required><br/><br/>
       <b><h3>Email:</h3></b>
       <input type="email" name="_replyto" required><br/><br/>
+      <select name="topic" required>
+        <option value="">Choose a Category</option>
+        <option value="Complaint">Complaint</option>
+        <option value="Idea">Idea</option>
+        <option value="Kudos">Kudos</option>
+        <option value="Question">Question</option>
+      </select><br/><br/>
       <b><h3>Feedback:</h3></b>
       <textarea rows="15" cols="75" name="Feedback" required></textarea><br/><br/>
       <input type="submit" value="Send">
