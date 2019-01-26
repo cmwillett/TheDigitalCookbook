@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Salami Rolls"
-tags: appetizer,salami,rolls,robert,riggs
+tags: appetizer,snack,salami,rolls,robert,riggs
 ---
 # Salami Rolls
 

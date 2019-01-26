@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Craig's Meatballs"
-tags: appetizer,meatballs,slow,cooker,crockpot,craig,willett
+tags: appetizer,party,meatballs,slow,cooker,crockpot,craig,willett
 ---
 # Meatballs!
 

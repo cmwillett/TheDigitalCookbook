@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "A Healthy Treat"
-tags: dessert,healthy,treat,craig,willett
+tags: dessert,healthy,treat,snack,craig,willett
 ---
 # A Healthy Treat
 

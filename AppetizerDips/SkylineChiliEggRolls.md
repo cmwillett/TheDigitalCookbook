@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Skyline Chili Egg Rolls"
-tags: skyline,chili,egg,rolls,appetizer,jim,remmel
+tags: skyline,snack,chili,egg,rolls,appetizer,jim,remmel
 ---
 # Skyline Chili Egg Rolls
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot Salsa"
-tags: dip,instant,pot,instant pot,salsa,craig,kristen,willett
+tags: dip,snack,instant,pot,instant pot,salsa,craig,kristen,willett
 ---
 # Instant Pot Salsa
 
