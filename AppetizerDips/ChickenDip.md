@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Chicken Dip"
-tags: dip,chicken
+tags: dip,chicken,craig,willett
 ---
 # Chicken Dip
 
@@ -15,5 +15,5 @@ tags: dip,chicken
 
 #### Instructions:
 1. Mix all together
-2. Bake at 350 degrees for 30 to 45 minutes. 
+2. Bake at 350 degrees for 30 to 45 minutes.
 3. Serve with taco chips (tortillas)
