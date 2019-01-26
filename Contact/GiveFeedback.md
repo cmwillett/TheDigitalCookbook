@@ -12,10 +12,11 @@ tags: give,feedback,contact
     <form id="giveFeedback" action="https://formspree.io/craig.willett@gmail.com" method="POST">
       <!--<input type="hidden" name="_subject" id="_subject" value="TDC New Recipe">-->
       <b><h3>Name:</h3></b>
-      <input type="text" name="_subject" required><br/><br/>
+      <input type="text" name="name" required><br/><br/>
       <b><h3>Email:</h3></b>
       <input type="email" name="_replyto" required><br/><br/>
-      <select name="topic" required>
+      <b><h3>Topic:</h3></b>
+      <select name="_subject" required>
         <option value="">Choose a Topic</option>
         <option value="Complaint">Complaint</option>
         <option value="Idea">Idea</option>
