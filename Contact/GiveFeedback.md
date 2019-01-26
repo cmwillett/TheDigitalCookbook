@@ -24,6 +24,7 @@ tags: give,feedback,contact
         <option value="Idea">Idea</option>
         <option value="Kudos">Kudos</option>
         <option value="Question">Question</option>
+        <option value="NewCommonSearch">New Common Search Item</option>
       </select><br/><br/>
       <b><h3>Feedback:</h3></b>
       <textarea rows="15" cols="75" name="Feedback" required></textarea><br/><br/>
