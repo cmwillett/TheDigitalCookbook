@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot Giant Pancake"
-tags: instant,pot,pancake,craig,kristen,willett
+tags: instant,pot,pancake,pressure,cooker,craig,kristen,willett
 ---
 # Instant Pot Giant Pancake
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Grandma's Chicken Vegetable Soup"
-tags: grandma,chicken,vegetable,soup,janie,wilkey
+tags: grandma,chicken,vegetable,soup,main,course,dinner,janie,wilkey
 ---
 # Grandma's Chicken Vegetable Soup
 
@@ -27,5 +27,5 @@ tags: grandma,chicken,vegetable,soup,janie,wilkey
 2. Cover and bring to boil.
 3. Add potatoes and carrots, cover and cook 5 minutes.
 4. Add chicken, zucchini, onions, and basil.
-5. Bring to boil, reduce heat, cover and cook until chicken is opaque throughout, about 7 minutes. 
+5. Bring to boil, reduce heat, cover and cook until chicken is opaque throughout, about 7 minutes.
 6. Season with salt and pepper.

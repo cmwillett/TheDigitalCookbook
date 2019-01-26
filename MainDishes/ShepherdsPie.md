@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Shepherd's Pie"
-tags: shepherd,pie,craig,willett
+tags: shepherd,pie,main,course,dinner,mashed,potatoes,craig,willett
 ---
 # Shepherd's Pie
 
@@ -15,6 +15,6 @@ tags: shepherd,pie,craig,willett
 #### Directions:
 1. Warm beef stew in a 1.5 - 2 quart casserole dish in oven at 350 degrees for 10 minutes.
 2. Prepare mashed potatoes
-3. Spoon potatoes over hot stew. 
+3. Spoon potatoes over hot stew.
 4. Sprinkle cheese over the top.
 5. Cook uncovered for 10 minutes until cheese has melted.

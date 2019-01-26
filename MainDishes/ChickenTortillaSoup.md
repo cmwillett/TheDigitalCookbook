@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Chicken Tortilla Soup"
-tags: chicken,tortilla,soup,janie,wilkey
+tags: chicken,tortilla,soup,main,course,dinner,janie,wilkey
 ---
 # Chicken Tortilla Soup
 

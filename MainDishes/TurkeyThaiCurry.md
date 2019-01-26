@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Turkey Thai Curry"
-tags: international,turkey,thai,curry,robert,riggs
+tags: international,turkey,thai,curry,main,course,dinner,robert,riggs
 ---
 # Turkey Thai Curry
 

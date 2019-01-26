@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Uncle Jim's White Chicken Chili"
-tags: chicken,chili,white,jim,remmel
+tags: chicken,chili,white,main,course,dinner,jim,remmel
 ---
 # Uncle Jim's White Chicken Chili
 

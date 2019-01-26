@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "No Peek Beef Stew"
-tags: peek,beef,stew,craig,kristen,willett,patty,franklin
+tags: peek,beef,stew,main,course,dinner,craig,kristen,willett,patty,franklin
 ---
 # No Peek Beef Stew
 

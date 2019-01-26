@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Pepper Steak"
-tags: main,course,pepper,steak,willis,hatton
+tags: main,course,dinner,pepper,steak,willis,hatton
 ---
 # Pepper Steak
 

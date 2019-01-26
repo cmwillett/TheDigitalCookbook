@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Spaghetti Pie"
-tags: spaghetti,pot,pie,craig,willett,mike,lipp
+tags: spaghetti,main,course,dinner,pot,pie,craig,willett,mike,lipp
 ---
 # Spaghetti Pie
 

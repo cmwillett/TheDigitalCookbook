@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Crockpot Hamburger Dish"
-tags: slow,cooker,crockpot,hamburger,willis,hatton
+tags: slow,cooker,crockpot,hamburger,main,course,dinner,willis,hatton
 ---
 # Crockpot Hamburger Dish
 

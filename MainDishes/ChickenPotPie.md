@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Chicken Pot Pie"
-tags: chicken,pot,pie,easy,craig,willett,kristen
+tags: chicken,pot,pie,easy,main,course,dinner,craig,willett,kristen
 ---
 # Chicken Pot Pie
 
@@ -18,10 +18,10 @@ tags: chicken,pot,pie,easy,craig,willett,kristen
 - Pepper to taste
 
 #### Directions:
-1. Boil chicken and dice up. 
-2. Unroll a dough crust and place in bottom of pie pan. 
-3. Mix all ingredients together and pour in the pie shell. 
-4. Top with the second pie shell and seal edges together. 
-5. Make 2 slits in the center of the pie shell forming an "X". 
-6. Brush top of pie with a beaten egg. 
+1. Boil chicken and dice up.
+2. Unroll a dough crust and place in bottom of pie pan.
+3. Mix all ingredients together and pour in the pie shell.
+4. Top with the second pie shell and seal edges together.
+5. Make 2 slits in the center of the pie shell forming an "X".
+6. Brush top of pie with a beaten egg.
 7. Bake at 350 for 30-35 minutes until golden brown.

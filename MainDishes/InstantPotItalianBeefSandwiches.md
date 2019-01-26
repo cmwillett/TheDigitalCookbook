@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot Italian Beef Sandwiches"
-tags: instant,pot,italian,beef,sandwich,craig,willett
+tags: instant,pot,pressure,cooker,main,course,dinner,italian,beef,sandwich,craig,willett
 ---
 # Instant Pot Italian Beef Sandwiches
 

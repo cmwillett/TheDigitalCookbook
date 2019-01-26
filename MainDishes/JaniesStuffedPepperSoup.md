@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Janie's Stuffed Pepper Soup"
-tags: stuffed,pepper,soup,janie,wilkey
+tags: stuffed,pepper,soup,main,course,dinner,janie,wilkey
 ---
 # Janie's Stuffed Pepper Soup
 

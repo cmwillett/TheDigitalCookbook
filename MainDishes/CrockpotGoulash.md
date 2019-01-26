@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Crockpot Goulash"
-tags: slow,cooker,crockpot,goulash,willis,hatton
+tags: slow,cooker,crockpot,goulash,main,course,dinner,willis,hatton
 ---
 # Crockpot Goulash
 

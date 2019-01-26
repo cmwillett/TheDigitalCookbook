@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot Chili"
-tags: instant,pot,chili,craig,kristen,willett
+tags: instant,pot,pressure,cooker,chili,main,course,dinner,craig,kristen,willett
 ---
 # Instant Pot Chili
 

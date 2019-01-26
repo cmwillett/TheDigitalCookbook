@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Pork Chops Supreme"
-tags: pork,chops,slow,cooker,crockpot,willis,hatton
+tags: pork,chops,slow,cooker,crockpot,main,course,dinner,willis,hatton
 ---
 # Pork Chops Supreme
 

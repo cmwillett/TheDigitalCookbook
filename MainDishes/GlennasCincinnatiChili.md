@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Glenna's Cincinnati Chili"
-tags: cincinnati,chili,kristen,willett
+tags: cincinnati,chili,main,course,dinner,kristen,willett
 ---
 # Glenna's Cincinnati Chili
 
@@ -25,8 +25,8 @@ tags: cincinnati,chili,kristen,willett
 - 1 tsp. cinnamon
 
 #### Instructions:
-1. Put in water first and separate meat to a fine texture.  
-2. Boil meat in 1 qt. water for 1/2 hour (a low boil-simmer).  
-3. Add all the ingredients and bring to a boil.  
-4. Turn heat down and simmer for 3 hours uncovered until the right consistency, then cover.  
+1. Put in water first and separate meat to a fine texture.
+2. Boil meat in 1 qt. water for 1/2 hour (a low boil-simmer).
+3. Add all the ingredients and bring to a boil.
+4. Turn heat down and simmer for 3 hours uncovered until the right consistency, then cover.
 5. Refrigerate to get fat to collect so you can remove.

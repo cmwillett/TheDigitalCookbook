@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Rick's Crockpot Pot Roast"
-tags: slow,cooker,crockpot,crock,pot,roast,rick,webb,spider
+tags: slow,cooker,crockpot,crock,pot,roast,rick,main,course,dinner,webb,spider
 ---
 # Rick's Crockpot Pot Roast
 

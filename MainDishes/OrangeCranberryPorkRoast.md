@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Crockpot Orange/Cranberry Pork Roast"
-tags: slow,cooker,crockpot,orange,cranberry,pork,roast,janie,wilkey
+tags: slow,cooker,crockpot,orange,cranberry,pork,roast,main,course,dinner,janie,wilkey
 ---
 # Crockpot Orange/Cranberry Pork Roast
 

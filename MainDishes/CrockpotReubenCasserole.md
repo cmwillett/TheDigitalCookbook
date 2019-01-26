@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Crockpot Reuben Casserole"
-tags: reuben,casserole,slow,cooker,crockpot,willis,hatton
+tags: reuben,casserole,slow,cooker,crockpot,main,course,dinner,willis,hatton
 ---
 # Crockpot Reuben Casserole
 

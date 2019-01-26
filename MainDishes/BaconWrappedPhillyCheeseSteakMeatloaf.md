@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Bacon Wrapped Philly Cheese Steak Meatloaf"
-tags: meat,loaf,meatloaf,philly,cheese,steak,bacon,wrapped,robert,riggs
+tags: meat,loaf,meatloaf,philly,cheese,steak,bacon,wrapped,main,course,dinner,robert,riggs
 ---
 # Bacon Wrapped Philly Cheese Steak Meatloaf
 
@@ -38,4 +38,3 @@ Note:  This recipe is from Twisted, link is at the bottom
 
 #### Video
 * [Bacon Wrapped Philly Cheese Steak Meatloaf](https://youtu.be/y8vpon7fDqQ)
-

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Willis's Taco Bake"
-tags: main,course,taco,bake,willis,hatton
+tags: main,course,dinner,taco,bake,willis,hatton
 ---
 # Willis's Taco Bake
 

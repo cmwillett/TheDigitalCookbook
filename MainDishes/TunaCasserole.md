@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Tuna Casserole"
-tags: tuna,casserole,craig,willett,kristen
+tags: tuna,casserole,main,course,dinner,craig,willett,kristen
 ---
 # Tuna Casserole
 

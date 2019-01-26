@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Robert's 5 Alarm Chili"
-tags: chili,five,5,alarm,hot,spicy,robert,riggs
+tags: chili,five,5,alarm,hot,spicy,main,course,dinner,robert,riggs
 ---
 # Robert's 5 Alarm Chili
 

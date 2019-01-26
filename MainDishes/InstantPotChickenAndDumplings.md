@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot Chicken and Dumplings"
-tags: instant,pot,chicken,dumplings,craig,kristen,willett
+tags: instant,pot,pressure,cooker,chicken,dumplings,main,course,dinner,craig,kristen,willett
 ---
 # Instant Pot Chicken and Dumplings
 

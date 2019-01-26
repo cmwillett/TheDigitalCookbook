@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot Chicken Drumsticks"
-tags: instant,pot,chicken,drumsticks,drum,sticks,plain,craig,willett
+tags: instant,pot,pressure,cooker,chicken,drumsticks,drum,sticks,plain,main,course,dinner,craig,willett
 ---
 # Instant Pot Just Plain Drumsticks
 

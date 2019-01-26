@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot Chicken Wings"
-tags: instant,pot,chicken,wings,basic,craig,willett
+tags: instant,pot,pressure,cooker,main,course,dinner,chicken,wings,basic,craig,willett
 ---
 # Instant Pot Just Basic Chicken Wings
 

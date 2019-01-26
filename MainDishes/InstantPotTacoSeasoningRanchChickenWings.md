@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot Taco Seasoning Ranch Chicken Wings"
-tags: instant,pot,taco,ranch,wings,chicken,craig,kristen,willett
+tags: instant,pot,pressure,cooker,taco,ranch,wings,chicken,main,course,dinner,craig,kristen,willett
 ---
 # Instant Pot Taco Seasoning Ranch Chicken Wings
 

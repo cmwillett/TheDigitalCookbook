@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Creamy Tortellini Soup"
-tags: slow,cooker,crockpot,tortellini,soup,sausage,willis,hatton
+tags: slow,cooker,crockpot,tortellini,soup,sausage,main,course,dinner,willis,hatton
 ---
 # Slow Cooker Creamy Tortellini Soup
 
