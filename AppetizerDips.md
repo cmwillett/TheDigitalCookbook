@@ -31,7 +31,7 @@ tags: finger,foods,appetizer,snack,egg,roll,rolls,skyline
 * [Craig's Meatballs]({{site.github.url}}/AppetizerDips/TheCraigsMeatballs/index.html)
 
 #### Rollups
-* [Salami Rolls]({{site.github.url}}/Snacks/SalamiRolls/index.html)
+* [Salami Rolls]({{site.github.url}}/AppetizerDips/SalamiRolls/index.html)
 
 #### Salsas
 * [Instant Pot Salsa]({{site.github.url}}/AppetizerDips/InstantPotSalsa/index.html)
