@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Uncle Jim's Goetta"
-tags: uncle,jim,remmel,goetta,breakfast
+tags: jim,remmel,goetta,breakfast
 ---
 # Uncle Jim's Goetta
 

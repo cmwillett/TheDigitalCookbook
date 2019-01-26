@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Goetta Quesadilla"
-tags: goetta,quesadilla,robert,riggs
+tags: breakfast,goetta,quesadilla,robert,riggs
 ---
 # Goetta Quesadilla
 
