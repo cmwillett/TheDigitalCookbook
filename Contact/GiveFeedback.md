@@ -16,7 +16,7 @@ tags: give,feedback,contact
       <b><h3>Email:</h3></b>
       <input type="email" name="_replyto" required><br/><br/>
       <select name="topic" required>
-        <option value="">Choose a Category</option>
+        <option value="">Choose a Topic</option>
         <option value="Complaint">Complaint</option>
         <option value="Idea">Idea</option>
         <option value="Kudos">Kudos</option>
