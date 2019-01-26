@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Desserts"
-tags: dessert,banana,strawberry,trifle,eclair,cake,chocolate
+tags: dessert,desserts
 ---
 # Desserts
 * Who says desserts have to be eaten last?

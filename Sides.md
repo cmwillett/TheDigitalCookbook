@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Side Items"
-tags: side,items,side,item,sides,asparagus,red,skinned,skin,potatoes
+tags: side,items,side,item,sides
 ---
 # Side Items
 * We love side items - usually more than the main course!

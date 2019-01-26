@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Craig's Top 5's"
-tags: top,most,popular
+tags: top,most,popular,favorite,favorites
 ---
 # Craig's Top 5's
 

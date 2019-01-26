@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Campfire Recipes"
-tags: camping,fire,campfire,onion
+tags: camping,fire,campfire,camp,onion
 ---
 # Camping Recipes
 * Who doesn't love camping?

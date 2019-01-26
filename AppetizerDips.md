@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Appetizer / Dips"
-tags: finger,foods,appetizer,snack,egg,roll,rolls,skyline
+tags: finger,foods,appetizer,snack,dips,dip
 ---
 # Ahhh, who doesn't love appetizers and dips!
 * Here we'll add as many appetizer/dip recipes as we can (some may even have pictures)...

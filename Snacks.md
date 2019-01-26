@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Snacks"
-tags: snacks,chex,mix,salami,rolls
+tags: snacks
 ---
 # Snacks
 * Me like snacks

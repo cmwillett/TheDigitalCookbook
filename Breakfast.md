@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Breakfast"
-tags: breakfast,goetta,pancake,omelet,pepporoni,pizza
+tags: breakfast
 ---
 # Breakfast
 * I'm not usually the one who makes breakfast, but make it for me, and I'll eat it...

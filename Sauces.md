@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sauces"
-tags: sauce,sauces,caramelized,onion,honey,bbq,barbecue
+tags: sauce,sauces
 ---
 # Sauces
 * I'm saucin' on you...

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "MainDishes"
-tags: dinner,main,chicken,parmesan,linguini,white,clam,taco,bake,pepper,steak,devan,pot,pie,chili,meat,cheese,casserole,shepherd,pie,tuna,cincinnati,white,dumplings,meatloaf,mashed,potatoes
+tags: dinner,main,course,dish
 ---
 # Main Dishes
 * Some main course dishes...

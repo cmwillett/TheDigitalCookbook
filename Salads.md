@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Salads"
-tags: salad,spinach,olive,oil
+tags: salad,salads
 ---
 # Salads
 * I'll admit, some of these sound pretty good!

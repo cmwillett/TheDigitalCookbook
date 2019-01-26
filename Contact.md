@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Contact"
-tags: contact,feedback,issue,submit
+tags: contact,feedback,issue,submit,us,feedback,question,idea,complaint,kudos,congrats,awesome
 ---
 ### Got a recipe you'd like us to try/add?
 ### Or did you find a misspelled word, broken link or any other error/issue with the site?
