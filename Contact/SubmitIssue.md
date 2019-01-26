@@ -4,6 +4,8 @@ title: "Submit an Issue"
 tags: submit,issue,new,defect
 ---
 # Submit an Issue
+* Find an issue on the site?  A broken link?  Misspelled word?
+
 <html>
   <head>
   <script>
