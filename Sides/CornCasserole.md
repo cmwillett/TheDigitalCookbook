@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Corn Casserole"
-tags: casserole,corn,craig,willett,kristen,easy
+tags: casserole,corn,sides,side,item,items,craig,willett,kristen,easy
 ---
 # Corn Casserole
 
