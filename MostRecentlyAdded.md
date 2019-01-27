@@ -10,6 +10,7 @@ tags: recent,current,new,most,recently,added
 #### January 26th, 2019
 * [Peanut Butter and Blueberry Sandwiche]({{site.github.url}}/Snacks/PeanutButterAndBlueberrySandwich/index.html)
 * [Cocoa Vanilla Pudding]({{site.github.url}}/Desserts/CocoaVanillaPudding/index.html)
+* [Breakfast Coffee Cookies]({{site.github.url}}/Desserts/BreakfastCoffeeCookie/index.html)
 
 #### January 24thd, 2019
 * [Red Skinned Smashed Potatoes]({{site.github.url}}/Sides/RedSkinnedSmashedPotatoes/index.html)
