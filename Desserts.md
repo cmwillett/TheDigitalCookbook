@@ -12,6 +12,7 @@ tags: dessert,desserts
 - [Cakes](#cakes)
 - [Healthy](#healthy)
 - [Muffins](#muffins)
+- [Puddings](#puddings)
 - [Trifles](#Trifles)
 
 <!-- /TOC -->
@@ -24,6 +25,9 @@ tags: dessert,desserts
 
 #### Muffins
 * [Yum Yum Brownie Muffins]({{site.github.url}}/Desserts/YumYumBrownieMuffins/index.html)
+
+#### Puddings
+* [Cocoa Vanilla Pudding]({{site.github.url}}/Desserts/CocoaVanillaPudding/index.html)
 
 #### Trifles
 * [Strawberry/Banana Trifle]({{site.github.url}}/Desserts/StrawberryBananaTrifle/index.html)

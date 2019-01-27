@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Peanut Butter and Blueberry Sandwich"
-tags: snacks,snack,sandwich,blueberry,peanut,butter,berry,blue,super,food,patty,franklin
+tags: snacks,snack,sandwich,blueberry,peanut,butter,berry,blue,super,food,healthy,patty,franklin
 ---
 # Peanut Butter and Blueberry Sandwich
 
