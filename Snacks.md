@@ -11,6 +11,7 @@ tags: snacks
 
 - [Party Mixes](#party-mixes)
 - [Popcorns](#popcorns)
+- [Sandwiches](#sandwiches)
 
 <!-- /TOC -->
 
@@ -19,3 +20,6 @@ tags: snacks
 
 #### Popcorns
 * [Instant Pot Popcorn]({{site.github.url}}/Snacks/InstantPotPopcorn/index.html)
+
+#### Popcorns
+* [Peanut Butter and Blueberry Sandwiche]({{site.github.url}}/Snacks/PeanutButterAndBlueberrySandwich/index.html)

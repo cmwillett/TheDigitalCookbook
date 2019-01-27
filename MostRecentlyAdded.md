@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### January 26th, 2019
+* [Peanut Butter and Blueberry Sandwiche]({{site.github.url}}/Snacks/PeanutButterAndBlueberrySandwich/index.html)
+
 #### January 24thd, 2019
 * [Red Skinned Smashed Potatoes]({{site.github.url}}/Sides/RedSkinnedSmashedPotatoes/index.html)
 * [The New Year's Omelet]({{site.github.url}}/Breakfast/TheNewYearsOmelet/index.html)
