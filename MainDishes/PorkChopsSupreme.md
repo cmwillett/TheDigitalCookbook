@@ -9,6 +9,7 @@ tags: pork,chops,slow,cooker,crockpot,main,course,dinner,willis,hatton
 So easy and tasty!
 
 #### Ingredients:
+- 3 pork chops
 - 1 onion, sliced
 - 3 potatoes, peeled and sliced
 - 1 can Cream of Mushroom or Celery Soup
