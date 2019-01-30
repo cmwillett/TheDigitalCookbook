@@ -13,6 +13,7 @@ tags: dessert,desserts
 - [Cookies](#cookies)
 - [Healthy](#healthy)
 - [Muffins](#muffins)
+- [Peanut Butter](#peanut-butter)
 - [Puddings](#puddings)
 - [Smores](#smores)
 - [Trifles](#Trifles)
@@ -31,6 +32,9 @@ tags: dessert,desserts
 
 #### Muffins
 * [Yum Yum Brownie Muffins]({{site.github.url}}/Desserts/YumYumBrownieMuffins/index.html)
+
+#### Peanut Butter
+* [Peanut Butter Snowballs]({{site.github.url}}/Desserts/PeanutButterSnowballs/index.html)
 
 #### Puddings
 * [Cocoa Vanilla Pudding]({{site.github.url}}/Desserts/CocoaVanillaPudding/index.html)
