@@ -13,6 +13,7 @@ tags: finger,foods,appetizer,snack,dips,dip
 - [Chicken](#chicken)
 - [Egg Rolls](#egg-rolls)
 - [Meatballs](#meatballs)
+- [Pot Pies](#pot-pies)
 - [Rollups](#rollups)
 - [Salsas](#salsas)
 
@@ -29,6 +30,9 @@ tags: finger,foods,appetizer,snack,dips,dip
 
 #### Meatballs
 * [Craig's Meatballs]({{site.github.url}}/AppetizerDips/TheCraigsMeatballs/index.html)
+
+#### Pot Pies
+* [Mini Shepherds Pot Pies]({{site.github.url}}/AppetizerDips/MiniShepherdsPotPies/index.html)
 
 #### Rollups
 * [Salami Rolls]({{site.github.url}}/AppetizerDips/SalamiRolls/index.html)

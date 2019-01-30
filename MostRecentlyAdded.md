@@ -16,6 +16,7 @@ tags: recent,current,new,most,recently,added
 * [Slow Cooker French Onion Soup]({{site.github.url}}/MainDishes/SlowCookerFrenchOnionSoup/index.html)
 * [Sheet Pan S'mores]({{site.github.url}}/Desserts/SheetPanSmores/index.html)
 * [Peanut Butter Snowballs]({{site.github.url}}/Desserts/PeanutButterSnowballs/index.html)
+* [Mini Shepherds Pot Pies]({{site.github.url}}/AppetizerDips/MiniShepherdsPotPies/index.html)
 
 #### January 29th, 2019
 * [Quinoa Salad]({{site.github.url}}/Salads/QuinoaSalad/index.html)
