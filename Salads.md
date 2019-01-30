@@ -10,6 +10,7 @@ tags: salad,salads
 <!-- TOC depthFrom:4 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Chicken](#chicken)
+- [Fruit](#fruit)
 - [Quinoa](#quinoa)
 - [Spinach](#spinach)
 
@@ -18,6 +19,9 @@ tags: salad,salads
 #### Chicken
 * [Creamy Chicken Apple Salad]({{site.github.url}}/Salads/CreamyChickenAppleSalad/index.html)
 * [Everyday Chicken Caesar Salad]({{site.github.url}}/Salads/EverydayChickenCaesarSalad/index.html)
+
+#### Fruit
+* [Hawaiian Cheesecake Salad]({{site.github.url}}/Salads/HawaiianCheesecakeSalad/index.html)
 
 #### Quinoa
 * [Quinoa Salad]({{site.github.url}}/Salads/QuinoaSalad/index.html)

@@ -11,6 +11,7 @@ tags: recent,current,new,most,recently,added
 * [Keto Bacon Cheeseburger Casserole]({{site.github.url}}/MainDishes/KetoBaconCheeseburgerCasserole/index.html)
 * [Easy Sheet Pan Steak Fajitas]({{site.github.url}}/MainDishes/EasySheetPanSteakFajitas/index.html)
 * [No Bake Lemon Truffles]({{site.github.url}}/Desserts/NoBakeLemonTruffles/index.html)
+* [Hawaiian Cheesecake Salad]({{site.github.url}}/Salads/HawaiianCheesecakeSalad/index.html)
 
 #### January 29th, 2019
 * [Quinoa Salad]({{site.github.url}}/Salads/QuinoaSalad/index.html)
