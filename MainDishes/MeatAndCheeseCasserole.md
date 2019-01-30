@@ -32,3 +32,6 @@ tags: craig,willett,meat,cheese,casserole,main,course,dinner
 4. Spray or lightly grease a 13x9 glass baking dish and add half of the meat mixture to the bottom of the dish.
 5. Cover meat mixture with half of the noodles, then spread cheese mixture on top of noodles, then cover cheese mixture with other half of noodles and finally top with last half of meat mixture.
 6. Bake covered for 45 min at 350 F, then uncover and bake for another 1/2 hr.
+
+#### Pictures
+![]({{site.github.url}}/MainDishes/Images/MeatAndCheeseCasserole.jpg){:height="600px" width="600px"}
