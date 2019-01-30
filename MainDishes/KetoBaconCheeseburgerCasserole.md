@@ -38,4 +38,4 @@ tags: keto,bacon,cheeseburger,casserole,main,course,dinner,easy,craig,kristen,wi
 11. Garnish with you favorite Keto-Friendly Toppings (Special Sauce, Lettuce, Cheese, Pickles, Onions…..)
 
 #### Pictures
-![]({{site.github.url}}/MainDishes/Images/KetoBaconCheeseburgerCasserole.jpg){:height="1024px" width="576px"}
+![]({{site.github.url}}/MainDishes/Images/KetoBaconCheeseburgerCasserole.jpg){:height="576px" width="1024px"}
