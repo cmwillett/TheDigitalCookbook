@@ -4,8 +4,7 @@ title: "Easy Sheet Pan Steak Fajitas"
 tags: steak,fajitas,sheet,pan,main,course,dinner,easy,facebook,craig,kristen,willett
 ---
 # Easy Sheet Pan Steak Fajitas
-
-### I could eat fajitas for breakfas, lunch, and dinner...  And then a snack...
+* I could eat fajitas for breakfas, lunch, and dinner...  And then a snack...
 
 ### Prep Time: 10 minutes
 ### Cook Time: 12 minutes

@@ -4,8 +4,7 @@ title: "Keto Bacon Cheeseburger Casserole"
 tags: keto,bacon,cheeseburger,casserole,main,course,dinner,easy,facebook,craig,kristen,willett
 ---
 # Keto Bacon Cheeseburger Casserole
-
-### Bacon, cheeseburger, casserole?
+* Bacon, cheeseburger, casserole?
 
 ### EASE OF PREPARATION: Easy
 ### PREP TIME: 15 Minutes
