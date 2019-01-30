@@ -25,8 +25,8 @@ tags: submit,recipe,new,contact,us
       <input type="email" name="_replyto" required><br/><br/>
       <b><h3>**Recipe Name:</h3></b>
       <input type="text" name="_subject" required><br/><br/>
-      <b><h3>Video URL (if applicable):</h3></b>
-      <input type="text" style="width: 400px;" name="VideoUrl"><br/><br/>
+      <b><h3>URL (if applicable) of recipe/video to add:</h3></b>
+      <input type="text" style="width: 400px;" name="Url"><br/><br/>
       <b><h3>Search Term(s):</h3></b>
       A tag can be anything you want to be able to search for to find this recipe...<br/>
       Examples:  "instant pot", "keto" or "instant pot,keto"<br/>
