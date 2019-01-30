@@ -19,6 +19,7 @@ tags: dinner,main,course,dish
 - [Pastas](#pastas)
 - [Pizzas](#pizzas)
 - [Pork Chops](#pork-chops)
+- [Prime Rib](#prime-rib)
 - [Ribs](#ribs)
 - [Roasts](#roasts)
 - [Sandwiches](#sandwiches)
@@ -77,6 +78,9 @@ tags: dinner,main,course,dish
 
 #### Pork Chops
 * [Pork Chops Supreme]({{site.github.url}}/MainDishes/PorkChopsSupreme/index.html)
+
+#### Prime Rib
+* [Garlic Butter Herb Prime Rib]({{site.github.url}}/MainDishes/GarlicButterHerbPrimeRib/index.html)
 
 #### Ribs
 * [Instant Pot Apple BBQ Ribs]({{site.github.url}}/MainDishes/InstantPotAppleBBQRibs/index.html)
