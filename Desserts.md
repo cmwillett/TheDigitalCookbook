@@ -15,6 +15,7 @@ tags: dessert,desserts
 - [Muffins](#muffins)
 - [Puddings](#puddings)
 - [Trifles](#Trifles)
+- [Truffles](#truffles)
 
 <!-- /TOC -->
 
@@ -35,3 +36,6 @@ tags: dessert,desserts
 
 #### Trifles
 * [Strawberry/Banana Trifle]({{site.github.url}}/Desserts/StrawberryBananaTrifle/index.html)
+
+#### Truffles
+* [No Bake Lemon Truffles]({{site.github.url}}/Desserts/NoBakeLemonTruffles/index.html)
