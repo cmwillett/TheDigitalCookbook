@@ -34,4 +34,4 @@ tags: steak,fajitas,sheet,pan,main,course,dinner,easy,facebook,craig,kristen,wil
 7. Serve in tortillas with lettuce, tomatoes, cheese, sour cream and avocado, as desired (use the time while the fajita filling is baking to prep these ingredients).
 
 #### Pictures
-![]({{site.github.url}}/MainDishes/Images/EasySheetPanSteakFajitas.jpg){:height="576px" width="1024px"}
+![]({{site.github.url}}/MainDishes/Images/EasySheetPanSteakFajitas.jpg){:height="1024px" width="576px"}
