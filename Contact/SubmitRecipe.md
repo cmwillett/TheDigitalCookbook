@@ -4,7 +4,8 @@ title: "Submit a Recipe"
 tags: submit,recipe,new,contact,us
 ---
 # Submit a Recipe
-* If the recipe already exists and you just want to submit pictures for the recipe, just fill out the required fields (name, email, and recipe name); then upload the pictures.
+* If you have a recipe on a website, no need to retype all of the ingredients and instructions.
+* Just put the web address in the URL field below...
 
 \*\* denotes required field...
 <html>
