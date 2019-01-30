@@ -66,6 +66,7 @@ tags: dinner,main,course,dish
 
 #### Mexican
 * [Willis's Taco Bake]({{site.github.url}}/MainDishes/WillisTacoBake/index.html)
+* [Easy Sheet Pan Steak Fajitas]({{site.github.url}}/MainDishes/EasySheetPanSteakFajitas/index.html)
 
 #### Pastas
 * [Linguini with White Clam Sauce]({{site.github.url}}/MainDishes/LinguiniWhiteClamSauce/index.html)
