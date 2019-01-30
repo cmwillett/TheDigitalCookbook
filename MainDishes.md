@@ -100,6 +100,7 @@ tags: dinner,main,course,dish
 * [Craig's Homemade Vegetable Soup]({{site.github.url}}/MainDishes/CraigsHomemadeVegetableSoup/index.html)
 * [Grandma's Chicken Vegetable Soup]({{site.github.url}}/MainDishes/GrandmasChickenVegetableSoup/index.html)
 * [Janie's Stuffed Pepper Soup]({{site.github.url}}/MainDishes/JaniesStuffedPepperSoup/index.html)
+* [Slow Cooker French Onion Soup]({{site.github.url}}/MainDishes/SlowCookerFrenchOnionSoup/index.html)
 
 #### Stews
 * [Instant Pot Vegetable Beef Stew]({{site.github.url}}/MainDishes/InstantPotVegetableBeefStew/index.html)

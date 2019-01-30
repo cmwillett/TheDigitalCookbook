@@ -13,6 +13,7 @@ tags: recent,current,new,most,recently,added
 * [No Bake Lemon Truffles]({{site.github.url}}/Desserts/NoBakeLemonTruffles/index.html)
 * [Hawaiian Cheesecake Salad]({{site.github.url}}/Salads/HawaiianCheesecakeSalad/index.html)
 * [Garlic Butter Herb Prime Rib]({{site.github.url}}/MainDishes/GarlicButterHerbPrimeRib/index.html)
+* [Slow Cooker French Onion Soup]({{site.github.url}}/MainDishes/SlowCookerFrenchOnionSoup/index.html)
 
 #### January 29th, 2019
 * [Quinoa Salad]({{site.github.url}}/Salads/QuinoaSalad/index.html)
