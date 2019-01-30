@@ -32,12 +32,13 @@ tags: dinner,main,course,dish
 * [Pepper Steak]({{site.github.url}}/MainDishes/PepperSteak/index.html)
 * [Shepherd's Pie]({{site.github.url}}/MainDishes/ShepherdsPie/index.html)
 * [Taco Bake]({{site.github.url}}/MainDishes/TacoBake/index.html)
-* [Meat and Cheese Casserole]({{site.github.url}}/MainDishes/MeatAndCheeseCasserole/index.html)
 * [Crockpot Hamburger Dish]({{site.github.url}}/MainDishes/CrockpotHamburgerDish/index.html)
 
 #### Casseroles
 * [Tuna Casserole]({{site.github.url}}/MainDishes/TunaCasserole/index.html)
 * [Crockpot Reuben Casserole]({{site.github.url}}/MainDishes/CrockpotReubenCasserole/index.html)
+* [Meat and Cheese Casserole]({{site.github.url}}/MainDishes/MeatAndCheeseCasserole/index.html)
+* [Keto Bacon Cheeseburger Casserole]({{site.github.url}}/MainDishes/KetoBaconCheeseburgerCasserole/index.html)
 
 #### Chicken
 * [One Pan Garlic Herb Chicken and Asparagus]({{site.github.url}}/MainDishes/OnePanGarlicHerbChickenAndAsparagus/index.html)
