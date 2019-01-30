@@ -41,3 +41,6 @@ tags: dessert,healthy,breakfast,coffee,cookie,super,food,patty,franklin
 13. Bake for 12 - 15 minutes.
 14. Let cool and enjoy!
   * Note:  To freeze, allowe to cool on counter for at least an hour.  Then, wrap each cookie individually or put 2 - 3 together in small bags and stash in freezer.  Take out and allow to thaw at room temperature or quickly defrost in microwave for about 30 seconds.
+
+#### Pictures
+![]({{site.github.url}}/Desserts/Images/BreakfastCoffeeCookies.jpg){:height="600px" width="600px"}
