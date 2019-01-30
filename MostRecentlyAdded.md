@@ -7,11 +7,11 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
-#### January 29th, 2019
-* [Quinoa Salad]({{site.github.url}}/Salads/QuinoaSalad/index.html)
-
 #### January 30th, 2019
 * [Keto Bacon Cheeseburger Casserole]({{site.github.url}}/MainDishes/KetoBaconCheeseburgerCasserole/index.html)
+
+#### January 29th, 2019
+* [Quinoa Salad]({{site.github.url}}/Salads/QuinoaSalad/index.html)
 
 #### January 26th, 2019
 * [Peanut Butter and Blueberry Sandwiche]({{site.github.url}}/Snacks/PeanutButterAndBlueberrySandwich/index.html)
