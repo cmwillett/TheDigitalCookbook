@@ -14,6 +14,7 @@ tags: dessert,desserts
 - [Healthy](#healthy)
 - [Muffins](#muffins)
 - [Puddings](#puddings)
+- [Smores](#smores)
 - [Trifles](#Trifles)
 - [Truffles](#truffles)
 
@@ -33,6 +34,9 @@ tags: dessert,desserts
 
 #### Puddings
 * [Cocoa Vanilla Pudding]({{site.github.url}}/Desserts/CocoaVanillaPudding/index.html)
+
+#### Smores
+* [Sheet Pan S'mores]({{site.github.url}}/Desserts/SheetPanSmores/index.html)
 
 #### Trifles
 * [Strawberry/Banana Trifle]({{site.github.url}}/Desserts/StrawberryBananaTrifle/index.html)
