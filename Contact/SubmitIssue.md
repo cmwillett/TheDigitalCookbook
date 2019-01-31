@@ -26,7 +26,7 @@ tags: submit,issue,new,defect,contact,us
       <input type="text" name="_subject" required><br/><br/>
       <b><h3>Description:</h3></b>
       <textarea rows="15" cols="75" name="Description" required></textarea><br/><br/>
-      <b><h3>Upload any images: </h3></b><input
+      <b><h3>Upload a screenshot: </h3></b><input
         type="hidden"
         role="uploadcare-uploader"
         name="content"
