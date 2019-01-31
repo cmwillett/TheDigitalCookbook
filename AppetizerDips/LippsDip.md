@@ -13,6 +13,6 @@ tags: dip,lipps,cindy,willett
 - Milk
 
 #### Instructions:
-1. Mix all together, adding milk until you like the consistently.
+1. Mix all together, adding milk until you like the consistency.
   * (leave a little thick to stay on chips or pretzels)
   * Can also be used to make [salami rolls]({{site.github.url}}/AppetizerDips/SalamiRolls/index.html) with...
