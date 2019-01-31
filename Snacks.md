@@ -22,4 +22,4 @@ tags: snacks
 * [Instant Pot Popcorn]({{site.github.url}}/Snacks/InstantPotPopcorn/index.html)
 
 #### Sandwiches
-* [Peanut Butter and Blueberry Sandwiche]({{site.github.url}}/Snacks/PeanutButterAndBlueberrySandwich/index.html)
+* [Peanut Butter and Blueberry Sandwich]({{site.github.url}}/Snacks/PeanutButterAndBlueberrySandwich/index.html)
