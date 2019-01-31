@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### January 31st, 2019
+* [Lipps Dip]({{site.github.url}}/AppetizerDips/LippsDip/index.html)
+
 #### January 30th, 2019
 * [Keto Bacon Cheeseburger Casserole]({{site.github.url}}/MainDishes/KetoBaconCheeseburgerCasserole/index.html)
 * [Easy Sheet Pan Steak Fajitas]({{site.github.url}}/MainDishes/EasySheetPanSteakFajitas/index.html)

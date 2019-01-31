@@ -10,7 +10,7 @@ tags: finger,foods,appetizer,snack,dips,dip
 <!-- TOC depthFrom:4 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [BLT](#blt)
-- [Chicken](#chicken)
+- [Dips](#dips)
 - [Egg Rolls](#egg-rolls)
 - [Meatballs](#meatballs)
 - [Pot Pies](#pot-pies)
@@ -22,8 +22,9 @@ tags: finger,foods,appetizer,snack,dips,dip
 #### BLT
 * [BLT Dip]({{site.github.url}}/AppetizerDips/BLTDip/index.html)
 
-#### Chicken
+#### Dips
 * [Chicken Dip]({{site.github.url}}/AppetizerDips/ChickenDip/index.html)
+* [Lipps Dip]({{site.github.url}}/AppetizerDips/LippsDip/index.html)
 
 #### Egg Rolls
 * [Skyline Chili Egg Rolls]({{site.github.url}}/AppetizerDips/SkylineChiliEggRolls/index.html)

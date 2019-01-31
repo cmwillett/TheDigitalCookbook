@@ -9,7 +9,7 @@ tags: appetizer,snack,salami,rolls,robert,riggs
 
 #### Ingredients:
 - 1 pound hard salami
-- 1 pound cream cheese
+- 1 pound cream cheese (or you can use [Lipps Dip]({{site.github.url}}/AppetizerDips/LippsDip/index.html))
 
 #### Directions:
 1. Using a butter knife, cut a dollop of cream cheese from the block
