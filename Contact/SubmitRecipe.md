@@ -29,7 +29,7 @@ tags: submit,recipe,new,contact,us
       <b><h3>URL (if applicable) of recipe/video to add:</h3></b>
       <input type="text" style="width: 400px;" name="Url"><br/><br/>
       <b><h3>Search Term(s):</h3></b>
-      A tag can be anything you want to be able to search for to find this recipe...<br/>
+      Search terms can be anything you want to be able to search for to find this recipe...<br/>
       Examples:  "instant pot", "keto" or "instant pot,keto"<br/>
       <input type="text" style="width: 400px;" name="tags"><br/><br/>
       <b><h3>Ingredients:</h3></b>
