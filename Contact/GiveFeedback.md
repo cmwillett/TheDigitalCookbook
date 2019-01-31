@@ -21,7 +21,7 @@ tags: give,feedback,contact,us
       var input_topic = document.getElementsByName('topic')[0].value;
       var input_short_description = document.getElementsByName('short_description')[0].value;
       var var_input__subject = concatenate(input_topic, input_short_description, true);
-      input__subject.value = var_input__subject;
+      document.getElementsByName('_subject').value = var_input__subject;
      }
     </script>    
   </head>
