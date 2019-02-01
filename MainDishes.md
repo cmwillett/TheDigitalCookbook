@@ -56,6 +56,7 @@ tags: dinner,main,course,dish
 * [Robert's 5 Alarm Chili]({{site.github.url}}/MainDishes/RobertsFiveAlarmChili/index.html)
 * [Uncle Jim's White Chicken Chili]({{site.github.url}}/MainDishes/UncleJimsWhiteChickenChili/index.html)
 * [Instant Pot Chili]({{site.github.url}}/MainDishes/InstantPotChili/index.html)
+* [Slow Cooker Creamy White Chicken Chili]({{site.github.url}}/MainDishes/SlowCookerCreamyWhiteChickenChili/index.html)
 
 #### Ghoulashes
 * [Crockpot Goulash]({{site.github.url}}/MainDishes/CrockpotGoulash/index.html)
