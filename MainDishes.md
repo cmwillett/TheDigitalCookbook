@@ -77,6 +77,7 @@ tags: dinner,main,course,dish
 * [Bratwurst Pizza]({{site.github.url}}/MainDishes/BratwurstPizza/index.html)
 
 #### Pork Chops
+* [Crockpot Ranch Pork Chops]({{site.github.url}}/MainDishes/CrockpotRanchPorkChops/index.html)
 * [Pork Chops Supreme]({{site.github.url}}/MainDishes/PorkChopsSupreme/index.html)
 
 #### Prime Rib

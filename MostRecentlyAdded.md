@@ -9,6 +9,7 @@ tags: recent,current,new,most,recently,added
 
 #### January 31st, 2019
 * [Lipps Dip]({{site.github.url}}/AppetizerDips/LippsDip/index.html)
+* [Crockpot Ranch Pork Chops]({{site.github.url}}/MainDishes/CrockpotRanchPorkChops/index.html)
 
 #### January 30th, 2019
 * [Keto Bacon Cheeseburger Casserole]({{site.github.url}}/MainDishes/KetoBaconCheeseburgerCasserole/index.html)
