@@ -52,6 +52,7 @@ tags: dinner,main,course,dish
 * [Instant Pot Taco Seasoning Ranch Chicken Wings]({{site.github.url}}/MainDishes/InstantPotTacoSeasoningRanchChickenWings/index.html)
 * [Cashew Chicken Bake]({{site.github.url}}/MainDishes/CashewChickenBake/index.html)
 * [Sweet Fire Chicken]({{site.github.url}}/MainDishes/SweetFireChicken/index.html)
+* [Tortilla Chip & Pepper Jack Crusted Chicken with Avocado & Jalapeno Ranch]({{site.github.url}}/MainDishes/TortillaChipAndPepperJackCrustedChickenWithAvocadoAndJalapenoRanch/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)
