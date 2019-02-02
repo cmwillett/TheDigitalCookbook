@@ -40,7 +40,6 @@ tags: dinner,main,course,dish
 * [Crockpot Reuben Casserole]({{site.github.url}}/MainDishes/CrockpotReubenCasserole/index.html)
 * [Meat and Cheese Casserole]({{site.github.url}}/MainDishes/MeatAndCheeseCasserole/index.html)
 * [Keto Bacon Cheeseburger Casserole]({{site.github.url}}/MainDishes/KetoBaconCheeseburgerCasserole/index.html)
-* [Cashew Chicken Bake]({{site.github.url}}/MainDishes/CashewChickenBake/index.html)
 
 #### Chicken
 * [One Pan Garlic Herb Chicken and Asparagus]({{site.github.url}}/MainDishes/OnePanGarlicHerbChickenAndAsparagus/index.html)
@@ -51,6 +50,7 @@ tags: dinner,main,course,dish
 * [Instant Pot Just Basic Chicken Wings]({{site.github.url}}/MainDishes/InstantPotJustBasicChickenWings/index.html)
 * [Instant Pot Just Plain Drumsticks]({{site.github.url}}/MainDishes/InstantPotJustPlainDrumsticks/index.html)
 * [Instant Pot Taco Seasoning Ranch Chicken Wings]({{site.github.url}}/MainDishes/InstantPotTacoSeasoningRanchChickenWings/index.html)
+* [Cashew Chicken Bake]({{site.github.url}}/MainDishes/CashewChickenBake/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)
