@@ -118,3 +118,4 @@ tags: dinner,main,course,dish
 
 #### Thai
 * [Turkey Thai Curry]({{site.github.url}}/MainDishes/TurkeyThaiCurry/index.html)
+* [Chicken Pad Thai]({{site.github.url}}/MainDishes/ChickenPadThai/index.html)
