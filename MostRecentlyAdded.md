@@ -12,6 +12,7 @@ tags: recent,current,new,most,recently,added
 * [Chicken Bruschetta Pasta]({{site.github.url}}/MainDishes/ChickenBruschettaPasta/index.html)
 * [Deep Dish Breadsticks]({{site.github.url}}/Sides/DeepDishBreadsticks/index.html)
 * [Amish Bread]({{site.github.url}}/Sides/AmishBread/index.html)
+* [Jalapeno Corn Dip]({{site.github.url}}/AppetizerDips/JalapenoCornDip/index.html)
 
 #### January 31st, 2019
 * [Lipps Dip]({{site.github.url}}/AppetizerDips/LippsDip/index.html)

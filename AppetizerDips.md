@@ -25,6 +25,7 @@ tags: finger,foods,appetizer,snack,dips,dip
 #### Dips
 * [Chicken Dip]({{site.github.url}}/AppetizerDips/ChickenDip/index.html)
 * [Lipps Dip]({{site.github.url}}/AppetizerDips/LippsDip/index.html)
+* [Jalapeno Corn Dip]({{site.github.url}}/AppetizerDips/JalapenoCornDip/index.html)
 
 #### Egg Rolls
 * [Skyline Chili Egg Rolls]({{site.github.url}}/AppetizerDips/SkylineChiliEggRolls/index.html)
