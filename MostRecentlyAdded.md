@@ -19,6 +19,7 @@ tags: recent,current,new,most,recently,added
 * [Tortilla Chip & Pepper Jack Crusted Chicken with Avocado & Jalapeno Ranch]({{site.github.url}}/MainDishes/TortillaChipAndPepperJackCrustedChickenWithAvocadoAndJalapenoRanch/index.html)
 * [Oven Baked Spicy Chicken Tacos]({{site.github.url}}/MainDishes/OvenBakedSpicyChickenTacos/index.html)
 * [Chicken Pad Thai]({{site.github.url}}/MainDishes/ChickenPadThai/index.html)
+* [Chicken and Dumplins]({{site.github.url}}/MainDishes/ChickenAndDumplins/index.html)
 
 #### January 31st, 2019
 * [Lipps Dip]({{site.github.url}}/AppetizerDips/LippsDip/index.html)
