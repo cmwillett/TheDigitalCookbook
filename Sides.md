@@ -11,6 +11,7 @@ tags: side,items,side,item,sides
 
 - [Applesauce](#applesauce)
 - [Asparagus](#asparagus)
+- [Breadsticks](#breadsticks)
 - [Corn](#corn)
 - [Potatoes](#potatoes)
 
@@ -21,6 +22,9 @@ tags: side,items,side,item,sides
 
 #### Asparagus Recipes
 * [Baked Asparagus]({{site.github.url}}/Sides/BakedAsparagus/index.html)
+
+#### Breadsticks
+* [Deep Dish Breadsticks]({{site.github.url}}/Sides/DeepDishBreadsticks/index.html)
 
 #### Corn
 * [Corn Casserole]({{site.github.url}}/Sides/CornCasserole/index.html)
