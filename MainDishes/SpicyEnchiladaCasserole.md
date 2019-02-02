@@ -24,3 +24,6 @@ tags: main,course,dinner,spicy,enchilada,casserole,willis,hatton
 2. Place 1/4 cup salsa in each of two greased 8-in. square baking dishes. Top each with a fourth of the tortillas and 1/4 cup salsa.
 3. Divide the meat mixture, sour cream and corn between the two casseroles. Top with remaining tortillas, salsa and cheese.
 4. Cover and freeze one casserole for up to 1 month. Cover and bake second casserole at 350° for 35 minutes. Uncover; bake 5-10 minutes longer or until heated through.
+
+#### Pictures
+![]({{site.github.url}}/MainDishes/Images/SpicyEnchiladaCasserole.jpg){:height="600px" width="600px"}
