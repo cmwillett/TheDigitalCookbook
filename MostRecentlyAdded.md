@@ -23,6 +23,7 @@ tags: recent,current,new,most,recently,added
 * [Cajun Chicken Pasta]({{site.github.url}}/MainDishes/CajunChickenPasta/index.html)
 * [BBQ Meatloaf]({{site.github.url}}/MainDishes/BBQMeatloaf/index.html)
 * [Hawaiian Toast]({{site.github.url}}/Snacks/HawaiianToast/index.html)
+* [Spicy Enchilada Casserole]({{site.github.url}}/MainDishes/SpicyEnchiladaCasserole/index.html)
 
 #### January 31st, 2019
 * [Lipps Dip]({{site.github.url}}/AppetizerDips/LippsDip/index.html)
