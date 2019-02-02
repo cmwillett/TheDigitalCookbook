@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sweet Fire Chicken"
-tags: chicken,sweet,fire,main,course,dinner,travis,thomas
+tags: chicken,sweet,fire,slow,cooker,crockpot,main,course,dinner,travis,thomas
 ---
 # Sweet Fire Chicken
 

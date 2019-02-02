@@ -14,6 +14,7 @@ tags: recent,current,new,most,recently,added
 * [Amish Bread]({{site.github.url}}/Sides/AmishBread/index.html)
 * [Jalapeno Corn Dip]({{site.github.url}}/AppetizerDips/JalapenoCornDip/index.html)
 * [Sweet Fire Chicken]({{site.github.url}}/MainDishes/SweetFireChicken/index.html)
+* [Crockpot Creamy Tortellini Soup]({{site.github.url}}/MainDishes/CrockpotCreamyTortelliniSoup/index.html)
 
 #### January 31st, 2019
 * [Lipps Dip]({{site.github.url}}/AppetizerDips/LippsDip/index.html)
