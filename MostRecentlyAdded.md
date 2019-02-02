@@ -9,6 +9,7 @@ tags: recent,current,new,most,recently,added
 
 #### February 1st, 2019
 * [Cashew Chicken Bake]({{site.github.url}}/MainDishes/CashewChickenBake/index.html)
+* [Chicken Bruschetta Pasta]({{site.github.url}}/MainDishes/ChickenBruschettaPasta/index.html)
 
 #### January 31st, 2019
 * [Lipps Dip]({{site.github.url}}/AppetizerDips/LippsDip/index.html)
