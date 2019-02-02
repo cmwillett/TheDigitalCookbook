@@ -51,7 +51,6 @@ tags: dinner,main,course,dish
 * [Instant Pot Just Plain Drumsticks]({{site.github.url}}/MainDishes/InstantPotJustPlainDrumsticks/index.html)
 * [Instant Pot Taco Seasoning Ranch Chicken Wings]({{site.github.url}}/MainDishes/InstantPotTacoSeasoningRanchChickenWings/index.html)
 * [Cashew Chicken Bake]({{site.github.url}}/MainDishes/CashewChickenBake/index.html)
-* [Chicken Bruschetta Pasta]({{site.github.url}}/MainDishes/ChickenBruschettaPasta/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)
@@ -75,6 +74,7 @@ tags: dinner,main,course,dish
 #### Pastas
 * [Linguini with White Clam Sauce]({{site.github.url}}/MainDishes/LinguiniWhiteClamSauce/index.html)
 * [Spaghetti Pie]({{site.github.url}}/MainDishes/SpaghettiPie/index.html)
+* [Chicken Bruschetta Pasta]({{site.github.url}}/MainDishes/ChickenBruschettaPasta/index.html)
 
 #### Pizzas
 * [Bratwurst Pizza]({{site.github.url}}/MainDishes/BratwurstPizza/index.html)
