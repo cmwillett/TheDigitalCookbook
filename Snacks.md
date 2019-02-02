@@ -12,6 +12,7 @@ tags: snacks
 - [Party Mixes](#party-mixes)
 - [Popcorns](#popcorns)
 - [Sandwiches](#sandwiches)
+- [Toasts](#toasts)
 
 <!-- /TOC -->
 
@@ -23,3 +24,6 @@ tags: snacks
 
 #### Sandwiches
 * [Peanut Butter and Blueberry Sandwich]({{site.github.url}}/Snacks/PeanutButterAndBlueberrySandwich/index.html)
+
+#### Toasts
+* [Hawaiian Toast]({{site.github.url}}/Snacks/HawaiianToast/index.html)
