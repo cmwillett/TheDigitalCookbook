@@ -55,6 +55,7 @@ tags: dinner,main,course,dish
 * [Sweet Fire Chicken]({{site.github.url}}/MainDishes/SweetFireChicken/index.html)
 * [Tortilla Chip & Pepper Jack Crusted Chicken with Avocado & Jalapeno Ranch]({{site.github.url}}/MainDishes/TortillaChipAndPepperJackCrustedChickenWithAvocadoAndJalapenoRanch/index.html)
 * [Chicken and Dumplins]({{site.github.url}}/MainDishes/ChickenAndDumplins/index.html)
+* [Chicken Tater Bake]({{site.github.url}}/MainDishes/ChickenTaterBake/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)

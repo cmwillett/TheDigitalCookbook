@@ -24,6 +24,7 @@ tags: recent,current,new,most,recently,added
 * [BBQ Meatloaf]({{site.github.url}}/MainDishes/BBQMeatloaf/index.html)
 * [Hawaiian Toast]({{site.github.url}}/Snacks/HawaiianToast/index.html)
 * [Spicy Enchilada Casserole]({{site.github.url}}/MainDishes/SpicyEnchiladaCasserole/index.html)
+* [Chicken Tater Bake]({{site.github.url}}/MainDishes/ChickenTaterBake/index.html)
 
 #### January 31st, 2019
 * [Lipps Dip]({{site.github.url}}/AppetizerDips/LippsDip/index.html)
