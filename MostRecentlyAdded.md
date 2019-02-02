@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### February 1st, 2019
+* [Cashew Chicken Bake]({{site.github.url}}/MainDishes/CashewChickenBake/index.html)
+
 #### January 31st, 2019
 * [Lipps Dip]({{site.github.url}}/AppetizerDips/LippsDip/index.html)
 * [Crockpot Ranch Pork Chops]({{site.github.url}}/MainDishes/CrockpotRanchPorkChops/index.html)
