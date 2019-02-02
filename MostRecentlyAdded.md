@@ -15,6 +15,7 @@ tags: recent,current,new,most,recently,added
 * [Jalapeno Corn Dip]({{site.github.url}}/AppetizerDips/JalapenoCornDip/index.html)
 * [Sweet Fire Chicken]({{site.github.url}}/MainDishes/SweetFireChicken/index.html)
 * [Crockpot Creamy Tortellini Soup]({{site.github.url}}/MainDishes/CrockpotCreamyTortelliniSoup/index.html)
+* [One Pot Pasta and Andouille]({{site.github.url}}/MainDishes/OnePotPastaAndAndouille/index.html)
 
 #### January 31st, 2019
 * [Lipps Dip]({{site.github.url}}/AppetizerDips/LippsDip/index.html)

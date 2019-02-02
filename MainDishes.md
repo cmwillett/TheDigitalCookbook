@@ -76,6 +76,7 @@ tags: dinner,main,course,dish
 * [Linguini with White Clam Sauce]({{site.github.url}}/MainDishes/LinguiniWhiteClamSauce/index.html)
 * [Spaghetti Pie]({{site.github.url}}/MainDishes/SpaghettiPie/index.html)
 * [Chicken Bruschetta Pasta]({{site.github.url}}/MainDishes/ChickenBruschettaPasta/index.html)
+* [One Pot Pasta and Andouille]({{site.github.url}}/MainDishes/OnePotPastaAndAndouille/index.html)
 
 #### Pizzas
 * [Bratwurst Pizza]({{site.github.url}}/MainDishes/BratwurstPizza/index.html)
