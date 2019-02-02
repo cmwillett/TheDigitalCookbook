@@ -19,3 +19,6 @@ butter
 4. Top with cheese.
 5. Bake for 7 to 12 minutes or until cheese is melted and sandwich is heated through.
 6. Serve hot.
+
+#### Pictures
+![]({{site.github.url}}/Snacks/Images/HawaiianToast.jpg){:height="600px" width="600px"}
