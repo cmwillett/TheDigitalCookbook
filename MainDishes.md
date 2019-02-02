@@ -51,6 +51,7 @@ tags: dinner,main,course,dish
 * [Instant Pot Just Plain Drumsticks]({{site.github.url}}/MainDishes/InstantPotJustPlainDrumsticks/index.html)
 * [Instant Pot Taco Seasoning Ranch Chicken Wings]({{site.github.url}}/MainDishes/InstantPotTacoSeasoningRanchChickenWings/index.html)
 * [Cashew Chicken Bake]({{site.github.url}}/MainDishes/CashewChickenBake/index.html)
+* [Sweet Fire Chicken]({{site.github.url}}/MainDishes/SweetFireChicken/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)
