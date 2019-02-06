@@ -24,6 +24,3 @@ tags: main,course,dinner,kristen,willett,mexican,sour,cream,chicken,enchilada,ca
 3. Top with half the cheese then repeat the layers.
 4. In a preheated oven to 350°, bake for 30 to 40 minutes.
 5. Let stand for 15 minutes before serving.
-
-#### Pictures
-![]({{site.github.url}}/MainDishes/Images/SourCreamChickenEnchiladaCasserole.jpg){:height="600px" width="600px"}
