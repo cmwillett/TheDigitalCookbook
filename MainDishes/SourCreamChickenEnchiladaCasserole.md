@@ -8,7 +8,7 @@ tags: main,course,dinner,kristen,willett,mexican,sour,cream,chicken,enchilada,ca
 
 #### Ingredients:
 - 4 cups of diced cooked chicken.
-- 1 cun cream of chicken soup.
+- 1 cup cream of chicken soup.
 - 8 oz (1 cup) of sour cream.
 - ⅔ cup of milk.
 - 1 (4 oz) can of diced green chiles.
