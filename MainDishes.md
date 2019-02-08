@@ -118,6 +118,7 @@ tags: dinner,main,course,dish
 * [Janie's Stuffed Pepper Soup]({{site.github.url}}/MainDishes/JaniesStuffedPepperSoup/index.html)
 * [Slow Cooker French Onion Soup]({{site.github.url}}/MainDishes/SlowCookerFrenchOnionSoup/index.html)
 * [Crockpot Creamy Tortellini Soup]({{site.github.url}}/MainDishes/CrockpotCreamyTortelliniSoup/index.html)
+* [Lemony Turkey Rice Soup]({{site.github.url}}/MainDishes/LemonyTurkeyRiceSoup/index.html)
 
 #### Stews
 * [Instant Pot Vegetable Beef Stew]({{site.github.url}}/MainDishes/InstantPotVegetableBeefStew/index.html)
