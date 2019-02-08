@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### February 7th, 2019
+* [Instant Pot Tuna Casserole]({{site.github.url}}/MainDishes/InstantPotTunaCasserole/index.html)
+
 #### February 5th, 2019
 * [Sour Cream Chicken Enchilada Casserole]({{site.github.url}}/MainDishes/SourCreamChickenEnchiladaCasserole/index.html)
 
