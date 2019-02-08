@@ -36,6 +36,7 @@ tags: side,items,side,item,sides
 #### Corn
 * [Corn Casserole]({{site.github.url}}/Sides/CornCasserole/index.html)
 * [Instant Pot Corn on the Cob]({{site.github.url}}/Sides/InstantPotCornOnTheCob/index.html)
+* [Sweet Corn and Potato Gratin]({{site.github.url}}/Sides/SweetCornAndPotatoGratin/index.html)
 
 #### Mac n Cheese
 * [Instant Pot Mac N Cheese]({{site.github.url}}/Sides/InstantPotMacNCheese/index.html)

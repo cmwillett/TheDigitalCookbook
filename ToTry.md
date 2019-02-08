@@ -35,6 +35,7 @@ tags: try
 * [Instant Pot Orange Spice Carrots]({{site.github.url}}/Sides/InstantPotOrangeSpiceCarrots/index.html)
 * [Instant Pot Lemon Red Potatoes]({{site.github.url}}/Sides/InstantPotLemonRedPotatoes/index.html)
 * [Golden Mashed Potatoes]({{site.github.url}}/Sides/GoldenMashedPotatoes/index.html)
+* [Sweet Corn and Potato Gratin]({{site.github.url}}/Sides/SweetCornAndPotatoGratin/index.html)
 
 #### Snacks
 * [Hawaiian Toast](https://cmwillett.github.io/TheDigitalCookbook/Snacks/HawaiianToast/index.html)

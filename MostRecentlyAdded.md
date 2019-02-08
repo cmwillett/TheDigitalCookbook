@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### February 8th, 2019
+* [Sweet Corn and Potato Gratin]({{site.github.url}}/Sides/SweetCornAndPotatoGratin/index.html)
+
 #### February 7th, 2019
 * [Instant Pot Tuna Casserole]({{site.github.url}}/MainDishes/InstantPotTunaCasserole/index.html)
 * [Instant Pot Marinated Mushrooms]({{site.github.url}}/Sides/InstantPotMarinatedMushrooms/index.html)
