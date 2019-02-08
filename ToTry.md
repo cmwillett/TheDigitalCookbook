@@ -29,5 +29,9 @@ tags: try
 #### Salads
 * [Hawaiian Cheese Cake Salad](https://cmwillett.github.io/TheDigitalCookbook/Salads/HawaiianCheesecakeSalad/index.html)
 
+#### Sides
+* [Instant Pot Marinated Mushrooms]({{site.github.url}}/Sides/InstantPotMarinatedMushrooms/index.html)
+* [Instant Pot Orange Spice Carrots]({{site.github.url}}/Sides/InstantPotOrangeSpiceCarrots/index.html)
+
 #### Snacks
 * [Hawaiian Toast](https://cmwillett.github.io/TheDigitalCookbook/Snacks/HawaiianToast/index.html)

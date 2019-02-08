@@ -12,6 +12,7 @@ tags: side,items,side,item,sides
 - [Applesauce](#applesauce)
 - [Asparagus](#asparagus)
 - [Bread](#bread)
+- [Carrots](#carrots)
 - [Corn](#corn)
 - [Mac n Cheese](#mac-n-cheese)
 - [Mushrooms](#mushrooms)
@@ -28,6 +29,9 @@ tags: side,items,side,item,sides
 #### Bread
 * [Amish Bread]({{site.github.url}}/Sides/AmishBread/index.html)
 * [Deep Dish Breadsticks]({{site.github.url}}/Sides/DeepDishBreadsticks/index.html)
+
+#### Carrots
+* [Instant Pot Orange Spice Carrots]({{site.github.url}}/Sides/InstantPotOrangeSpiceCarrots/index.html)
 
 #### Corn
 * [Corn Casserole]({{site.github.url}}/Sides/CornCasserole/index.html)
