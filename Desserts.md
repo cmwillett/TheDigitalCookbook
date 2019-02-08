@@ -23,6 +23,7 @@ tags: dessert,desserts
 
 #### Cakes
 * [Chocolate Eclair Cake]({{site.github.url}}/Desserts/ChocolateEclairCake/index.html)
+* [Chunky Apple Cake]({{site.github.url}}/Desserts/ChunkyAppleCake/index.html)
 
 #### Cookies
 * [Breakfast Coffee Cookies]({{site.github.url}}/Desserts/BreakfastCoffeeCookie/index.html)

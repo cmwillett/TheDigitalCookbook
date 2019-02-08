@@ -17,6 +17,7 @@ tags: try
 * [Peanut Butter Snowballs](https://cmwillett.github.io/TheDigitalCookbook/Desserts/PeanutButterSnowballs/index.html)
 * [Sheet Pan Smores](https://cmwillett.github.io/TheDigitalCookbook/Desserts/SheetPanSmores/index.html)
 * [No Bake Lemon Truffles](https://cmwillett.github.io/TheDigitalCookbook/Desserts/NoBakeLemonTruffles/index.html)
+* [Chunky Apple Cake]({{site.github.url}}/Desserts/ChunkyAppleCake/index.html)
 
 #### Main Dishes
 * [Crockpot Goulash](https://cmwillett.github.io/TheDigitalCookbook/MainDishes/CrockpotGoulash/index.html)
