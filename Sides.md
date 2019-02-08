@@ -13,6 +13,8 @@ tags: side,items,side,item,sides
 - [Asparagus](#asparagus)
 - [Bread](#bread)
 - [Corn](#corn)
+- [Mac n Cheese](#mac-n-cheese)
+- [Mushrooms](#mushrooms)
 - [Potatoes](#potatoes)
 
 <!-- /TOC -->
@@ -33,6 +35,9 @@ tags: side,items,side,item,sides
 
 #### Mac n Cheese
 * [Instant Pot Mac N Cheese]({{site.github.url}}/Sides/InstantPotMacNCheese/index.html)
+
+#### Mushrooms
+* [Instant Pot Marinated Mushrooms]({{site.github.url}}/Sides/InstantPotMarinatedMushrooms/index.html)
 
 #### Potatoes
 * [Red Skinned Smashed Potatoes]({{site.github.url}}/Sides/RedSkinnedSmashedPotatoes/index.html)
