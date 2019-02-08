@@ -32,6 +32,7 @@ tags: try
 #### Sides
 * [Instant Pot Marinated Mushrooms]({{site.github.url}}/Sides/InstantPotMarinatedMushrooms/index.html)
 * [Instant Pot Orange Spice Carrots]({{site.github.url}}/Sides/InstantPotOrangeSpiceCarrots/index.html)
+* [Instant Pot Lemon Red Potatoes]({{site.github.url}}/Sides/InstantPotLemonRedPotatoes/index.html)
 
 #### Snacks
 * [Hawaiian Toast](https://cmwillett.github.io/TheDigitalCookbook/Snacks/HawaiianToast/index.html)

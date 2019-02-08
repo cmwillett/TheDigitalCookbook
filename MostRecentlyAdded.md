@@ -11,6 +11,7 @@ tags: recent,current,new,most,recently,added
 * [Instant Pot Tuna Casserole]({{site.github.url}}/MainDishes/InstantPotTunaCasserole/index.html)
 * [Instant Pot Marinated Mushrooms]({{site.github.url}}/Sides/InstantPotMarinatedMushrooms/index.html)
 * [Instant Pot Orange Spice Carrots]({{site.github.url}}/Sides/InstantPotOrangeSpiceCarrots/index.html)
+* [Instant Pot Lemon Red Potatoes]({{site.github.url}}/Sides/InstantPotLemonRedPotatoes/index.html)
 
 #### February 5th, 2019
 * [Sour Cream Chicken Enchilada Casserole]({{site.github.url}}/MainDishes/SourCreamChickenEnchiladaCasserole/index.html)
