@@ -25,6 +25,7 @@ tags: try
 * [Chicken Tater Bake](https://cmwillett.github.io/TheDigitalCookbook/MainDishes/ChickenTaterBake/index.html)
 * [Slow Cooker Creamy White Chicken Chili](https://cmwillett.github.io/TheDigitalCookbook/MainDishes/SlowCookerCreamyWhiteChickenChili/index.html)
 * [Easy Sheet Pan Steak Fajitas](https://cmwillett.github.io/TheDigitalCookbook/MainDishes/EasySheetPanSteakFajitas/index.html)
+* [Church Supper Spaghetti]({{site.github.url}}/MainDishes/ChurchSupperSpaghetti/index.html)
 
 #### Salads
 * [Hawaiian Cheese Cake Salad](https://cmwillett.github.io/TheDigitalCookbook/Salads/HawaiianCheesecakeSalad/index.html)

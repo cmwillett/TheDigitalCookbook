@@ -86,6 +86,7 @@ tags: dinner,main,course,dish
 * [Chicken Bruschetta Pasta]({{site.github.url}}/MainDishes/ChickenBruschettaPasta/index.html)
 * [One Pot Pasta and Andouille]({{site.github.url}}/MainDishes/OnePotPastaAndAndouille/index.html)
 * [Cajun Chicken Pasta]({{site.github.url}}/MainDishes/CajunChickenPasta/index.html)
+* [Church Supper Spaghetti]({{site.github.url}}/MainDishes/ChurchSupperSpaghetti/index.html)
 
 #### Pizzas
 * [Bratwurst Pizza]({{site.github.url}}/MainDishes/BratwurstPizza/index.html)
