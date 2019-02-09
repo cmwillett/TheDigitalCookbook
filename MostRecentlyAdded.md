@@ -12,6 +12,7 @@ tags: recent,current,new,most,recently,added
 * [Lemony Turkey Rice Soup]({{site.github.url}}/MainDishes/LemonyTurkeyRiceSoup/index.html)
 * [Chunky Apple Cake]({{site.github.url}}/Desserts/ChunkyAppleCake/index.html)
 * [Mozzarella Baked Spaghetti]({{site.github.url}}/MainDishes/MozzarellaBakedSpaghetti/index.html)
+* [Blueberry Kuchen]({{site.github.url}}/Desserts/BlueberryKuchen/index.html)
 
 #### February 7th, 2019
 * [Instant Pot Tuna Casserole]({{site.github.url}}/MainDishes/InstantPotTunaCasserole/index.html)
