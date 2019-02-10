@@ -19,3 +19,4 @@ tags: instant,pot,orange,carrots,sides,side,item,items,craig,kristen,willett
 #### DIRECTIONS
 1. In a 6-qt. electric pressure cooker, combine the first seven ingredients. Lock lid; make sure vent is closed. Select manual setting; adjust pressure to low and set time for 3 minutes. When finished cooking, quick-release pressure according to manufacturer's directions.
 2. Select saute setting, and adjust for high heat; bring liquid to a boil. In a small bowl, mix cornstarch and water until smooth; gradually stir into carrot mixture. Cook and stir until sauce is thickened, 1-2 minutes.
+3. Pour into bowl and let cool for 1 to 2 more minutes (sauce will thicken up a little more)
