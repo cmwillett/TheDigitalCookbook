@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Instant Pot Easy Cheesy Tuna Casserole"
-tags: tuna,casserole,instant pot,instant,pot,cooker,pressure,easy,main,course,dinner,craig,willett
+tags: tuna,casserole,instant pot,instant,pot,cooker,pressure,easy,main,course,dinner,craig,willett,kristen
 ---
 # Instant Pot Easy Cheesy Tuna Casserole!
 
