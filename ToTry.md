@@ -30,6 +30,7 @@ tags: try
 * [Easy Sheet Pan Steak Fajitas](https://cmwillett.github.io/TheDigitalCookbook/MainDishes/EasySheetPanSteakFajitas/index.html)
 * [Church Supper Spaghetti]({{site.github.url}}/MainDishes/ChurchSupperSpaghetti/index.html)
 * [Mozzarella Baked Spaghetti]({{site.github.url}}/MainDishes/MozzarellaBakedSpaghetti/index.html)
+* [Easy Stuffed Shells]({{site.github.url}}/MainDishes/EasyStuffedShells/index.html)
 
 #### Salads
 * [Hawaiian Cheese Cake Salad](https://cmwillett.github.io/TheDigitalCookbook/Salads/HawaiianCheesecakeSalad/index.html)

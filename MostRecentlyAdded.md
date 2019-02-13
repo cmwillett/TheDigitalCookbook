@@ -10,6 +10,7 @@ tags: recent,current,new,most,recently,added
 #### February 13th, 2019
 * [Tomato Soup Spice Cake]({{site.github.url}}/Desserts/TomatoSoupSpiceCake/index.html)
 * [Crockpot Chicken and Dumplings]({{site.github.url}}/MainDishes/CrockpotChickenAndDumplings/index.html)
+* [Easy Stuffed Shells]({{site.github.url}}/MainDishes/EasyStuffedShells/index.html)
 
 #### February 10th, 2019
 * [Instant Pot Easy Cheesy Tuna Casserole]({{site.github.url}}/MainDishes/InstantPotEasyCheesyTunaCasserole/index.html)

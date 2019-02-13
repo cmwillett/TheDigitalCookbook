@@ -90,6 +90,7 @@ tags: dinner,main,course,dish
 * [Cajun Chicken Pasta]({{site.github.url}}/MainDishes/CajunChickenPasta/index.html)
 * [Church Supper Spaghetti]({{site.github.url}}/MainDishes/ChurchSupperSpaghetti/index.html)
 * [Mozzarella Baked Spaghetti]({{site.github.url}}/MainDishes/MozzarellaBakedSpaghetti/index.html)
+* [Easy Stuffed Shells]({{site.github.url}}/MainDishes/EasyStuffedShells/index.html)
 
 #### Pizzas
 * [Bratwurst Pizza]({{site.github.url}}/MainDishes/BratwurstPizza/index.html)
