@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### February 13th, 2019
+* [Tomato Soup Spice Cake]({{site.github.url}}/Desserts/TomatoSoupSpiceCake/index.html)
+
 #### February 10th, 2019
 * [Instant Pot Easy Cheesy Tuna Casserole]({{site.github.url}}/MainDishes/InstantPotEasyCheesyTunaCasserole/index.html)
 

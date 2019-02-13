@@ -19,6 +19,7 @@ tags: try
 * [No Bake Lemon Truffles](https://cmwillett.github.io/TheDigitalCookbook/Desserts/NoBakeLemonTruffles/index.html)
 * [Chunky Apple Cake]({{site.github.url}}/Desserts/ChunkyAppleCake/index.html)
 * [Blueberry Kuchen]({{site.github.url}}/Desserts/BlueberryKuchen/index.html)
+* [Tomato Soup Spice Cake]({{site.github.url}}/Desserts/TomatoSoupSpiceCake/index.html)
 
 #### Main Dishes
 * [Crockpot Goulash](https://cmwillett.github.io/TheDigitalCookbook/MainDishes/CrockpotGoulash/index.html)
