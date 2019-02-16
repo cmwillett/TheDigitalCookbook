@@ -26,7 +26,6 @@ tags: try
 * [Crockpot Hamburger Dish](https://cmwillett.github.io/TheDigitalCookbook/MainDishes/CrockpotHamburgerDish/index.html)
 * [Sweet Fire Chicken](https://cmwillett.github.io/TheDigitalCookbook/MainDishes/SweetFireChicken/index.html)
 * [Chicken Tater Bake](https://cmwillett.github.io/TheDigitalCookbook/MainDishes/ChickenTaterBake/index.html)
-* [Slow Cooker Creamy White Chicken Chili](https://cmwillett.github.io/TheDigitalCookbook/MainDishes/SlowCookerCreamyWhiteChickenChili/index.html)
 * [Easy Sheet Pan Steak Fajitas](https://cmwillett.github.io/TheDigitalCookbook/MainDishes/EasySheetPanSteakFajitas/index.html)
 * [Church Supper Spaghetti]({{site.github.url}}/MainDishes/ChurchSupperSpaghetti/index.html)
 * [Mozzarella Baked Spaghetti]({{site.github.url}}/MainDishes/MozzarellaBakedSpaghetti/index.html)
@@ -36,8 +35,6 @@ tags: try
 * [Hawaiian Cheese Cake Salad](https://cmwillett.github.io/TheDigitalCookbook/Salads/HawaiianCheesecakeSalad/index.html)
 
 #### Sides
-* [Instant Pot Marinated Mushrooms]({{site.github.url}}/Sides/InstantPotMarinatedMushrooms/index.html)
-* [Instant Pot Orange Spice Carrots]({{site.github.url}}/Sides/InstantPotOrangeSpiceCarrots/index.html)
 * [Instant Pot Lemon Red Potatoes]({{site.github.url}}/Sides/InstantPotLemonRedPotatoes/index.html)
 * [Golden Mashed Potatoes]({{site.github.url}}/Sides/GoldenMashedPotatoes/index.html)
 * [Sweet Corn and Potato Gratin]({{site.github.url}}/Sides/SweetCornAndPotatoGratin/index.html)
