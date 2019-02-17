@@ -59,6 +59,7 @@ tags: dinner,main,course,dish
 * [Chicken and Dumplins]({{site.github.url}}/MainDishes/ChickenAndDumplins/index.html)
 * [Chicken Tater Bake]({{site.github.url}}/MainDishes/ChickenTaterBake/index.html)
 * [Crockpot Chicken and Dumplings]({{site.github.url}}/MainDishes/CrockpotChickenAndDumplings/index.html)
+* [Air Fryer Chicken Tenders]({{site.github.url}}/MainDishes/AirFryerChickenTenders/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)

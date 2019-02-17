@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### February 17th, 2019
+* [Air Fryer Chicken Tenders]({{site.github.url}}/MainDishes/AirFryerChickenTenders/index.html)
+
 #### February 13th, 2019
 * [Tomato Soup Spice Cake]({{site.github.url}}/Desserts/TomatoSoupSpiceCake/index.html)
 * [Crockpot Chicken and Dumplings]({{site.github.url}}/MainDishes/CrockpotChickenAndDumplings/index.html)
