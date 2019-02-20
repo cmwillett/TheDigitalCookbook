@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### February 20th, 2019
+* [Instant Pot Carnita and Green Beans]({{site.github.url}}/MainDishes/InstantPotCarnitaAndGreenBeans/index.html)
+
 #### February 17th, 2019
 * [Air Fryer Chicken Tenders]({{site.github.url}}/MainDishes/AirFryerChickenTenders/index.html)
 
