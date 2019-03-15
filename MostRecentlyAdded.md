@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### March 14th, 2019
+* [Instant Pot Chicken With Cumin-Chile Sauce]({{site.github.url}}/MainDishes/InstantPotChickenWithCuminChileSauce/index.html)
+
 #### February 20th, 2019
 * [Instant Pot Carnita and Green Beans]({{site.github.url}}/MainDishes/InstantPotCarnitaAndGreenBeans/index.html)
 
