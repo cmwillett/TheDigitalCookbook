@@ -29,5 +29,5 @@ tags: instant,pot,pressure,cooker,chicken,main,course,dinner,craig,kristen,wille
 7. At the end of the cooking time, allow the pot to sit undisturbed for 10 minutes, then release any remaining pressure.
 8. Serve with tortillas, sour cream, and guacamole, or over zucchini noodles.
 
-#### Pictures
+#### Picture
 ![]({{site.github.url}}/MainDishes/Images/InstantPotChickenWithCuminChileSauce.jpg){:height="600px" width="600px"}
