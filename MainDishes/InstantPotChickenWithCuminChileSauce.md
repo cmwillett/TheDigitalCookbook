@@ -25,8 +25,8 @@ tags: instant,pot,pressure,cooker,chicken,main,course,dinner,craig,kristen,wille
 3. Select SAUTÉ on the Instant Pot. When the pot is hot, add the oil. When the oil is hot, add the chicken.
 4. Cook, stirring, until the chicken is lightly browned, 4 to 5 minutes. Select CANCEL.
 5. Add the diced tomatoes and their juices, onion, tomato paste, jalapeños, and garlic to the pot.
-6. Stir to combine. Secure the lid on the pot. Close the pressure-release valve. Select MANUAL and set the pot at HIGH pressure for 15 [minutes.](http://minutes.at/)
-7. [At](http://minutes.at/) the end of the cooking time, allow the pot to sit undisturbed for 10 minutes, then release any remaining pressure.
+6. Stir to combine. Secure the lid on the pot. Close the pressure-release valve. Select MANUAL and set the pot at HIGH pressure for 15 minutes.
+7. At the end of the cooking time, allow the pot to sit undisturbed for 10 minutes, then release any remaining pressure.
 8. Serve with tortillas, sour cream, and guacamole, or over zucchini noodles.
 
 #### Pictures
