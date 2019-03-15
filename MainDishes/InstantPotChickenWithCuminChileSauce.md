@@ -30,4 +30,4 @@ tags: instant,pot,pressure,cooker,chicken,main,course,dinner,craig,kristen,wille
 8. Serve with tortillas, sour cream, and guacamole, or over zucchini noodles.
 
 #### Pictures
-![]({{site.github.url}}/MainDishes/Images/InstantPotHoneyGarlicChicken.jpg){:height="600px" width="600px"}
+![]({{site.github.url}}/MainDishes/Images/InstantPotChickenWithCuminChileSauce.jpg){:height="600px" width="600px"}
