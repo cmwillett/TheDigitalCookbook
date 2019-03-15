@@ -9,6 +9,7 @@ tags: recent,current,new,most,recently,added
 
 #### March 14th, 2019
 * [Instant Pot Chicken With Cumin-Chile Sauce]({{site.github.url}}/MainDishes/InstantPotChickenWithCuminChileSauce/index.html)
+* [Instant Pot Honey-Garlic Chicken]({{site.github.url}}/MainDishes/InstantPotHoneyGarlicChicken/index.html)
 
 #### February 20th, 2019
 * [Instant Pot Carnita and Green Beans]({{site.github.url}}/MainDishes/InstantPotCarnitaAndGreenBeans/index.html)

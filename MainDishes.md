@@ -61,6 +61,7 @@ tags: dinner,main,course,dish
 * [Crockpot Chicken and Dumplings]({{site.github.url}}/MainDishes/CrockpotChickenAndDumplings/index.html)
 * [Air Fryer Chicken Tenders]({{site.github.url}}/MainDishes/AirFryerChickenTenders/index.html)
 * [Instant Pot Chicken With Cumin-Chile Sauce]({{site.github.url}}/MainDishes/InstantPotChickenWithCuminChileSauce/index.html)
+* [Instant Pot Honey-Garlic Chicken]({{site.github.url}}/MainDishes/InstantPotHoneyGarlicChicken/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)
