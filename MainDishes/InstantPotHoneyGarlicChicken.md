@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Instant Pot Chicken Honey Garlic Chicken"
+title: "Instant Pot Honey Garlic Chicken"
 tags: instant,pot,pressure,cooker,chicken,garlic,main,course,dinner,craig,kristen,willett
 ---
-# Instant Pot Chicken Honey Garlic Chicken
+# Instant Pot Honey Garlic Chicken
 
 ### This sounds fantastic!
 
