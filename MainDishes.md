@@ -85,6 +85,7 @@ tags: dinner,main,course,dish
 * [Easy Sheet Pan Steak Fajitas]({{site.github.url}}/MainDishes/EasySheetPanSteakFajitas/index.html)
 * [Oven Baked Spicy Chicken Tacos]({{site.github.url}}/MainDishes/OvenBakedSpicyChickenTacos/index.html)
 * [Sour Cream Chicken Enchilada Casserole]({{site.github.url}}/MainDishes/SourCreamChickenEnchiladaCasserole/index.html)
+* [Mexican Lasagna]({{site.github.url}}/MainDishes/MexicanLasagna/index.html)
 
 #### Pastas
 * [Linguini with White Clam Sauce]({{site.github.url}}/MainDishes/LinguiniWhiteClamSauce/index.html)
