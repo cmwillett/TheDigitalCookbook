@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### March 24th, 2019
+* [Pulled Pork and Eggs]({{site.github.url}}/Breakfast/PulledPorkAndEggs/index.html)
+
 #### March 18th, 2019
 * [Instant Pot Pineapple Chicken]({{site.github.url}}/MainDishes/InstantPotPineappleChicken/index.html)
 
