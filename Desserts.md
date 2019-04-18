@@ -26,6 +26,7 @@ tags: dessert,desserts
 * [Chunky Apple Cake]({{site.github.url}}/Desserts/ChunkyAppleCake/index.html)
 * [Blueberry Kuchen]({{site.github.url}}/Desserts/BlueberryKuchen/index.html)
 * [Tomato Soup Spice Cake]({{site.github.url}}/Desserts/TomatoSoupSpiceCake/index.html)
+* [Boston Cream Poke Cake]({{site.github.url}}/Desserts/BostonCreamPokeCake/index.html)
 
 #### Cookies
 * [Breakfast Coffee Cookies]({{site.github.url}}/Desserts/BreakfastCoffeeCookie/index.html)
