@@ -63,6 +63,7 @@ tags: dinner,main,course,dish
 * [Instant Pot Chicken With Cumin-Chile Sauce]({{site.github.url}}/MainDishes/InstantPotChickenWithCuminChileSauce/index.html)
 * [Instant Pot Honey-Garlic Chicken]({{site.github.url}}/MainDishes/InstantPotHoneyGarlicChicken/index.html)
 * [Instant Pot Pineapple Chicken]({{site.github.url}}/MainDishes/InstantPotPineappleChicken/index.html)
+* [Instant Pot Olive Garden Chicken]({{site.github.url}}/MainDishes/InstantPotOliveGardenChicken/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)
