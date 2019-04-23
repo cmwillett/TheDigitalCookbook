@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### April 22nd, 2019
+* [Baked Hammies]({{site.github.url}}/AppetizerDips/BakedHammies/index.html)
+
 #### April 18th, 2019
 * [Instant Pot Olive Garden Chicken]({{site.github.url}}/MainDishes/InstantPotOliveGardenChicken/index.html)
 

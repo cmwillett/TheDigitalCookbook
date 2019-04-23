@@ -16,6 +16,7 @@ tags: finger,foods,appetizer,snack,dips,dip
 - [Pot Pies](#pot-pies)
 - [Rollups](#rollups)
 - [Salsas](#salsas)
+- [Sandwiches](#sandwiches)
 
 <!-- /TOC -->
 
@@ -41,3 +42,6 @@ tags: finger,foods,appetizer,snack,dips,dip
 
 #### Salsas
 * [Instant Pot Salsa]({{site.github.url}}/AppetizerDips/InstantPotSalsa/index.html)
+
+#### Sandwiches
+* [Baked Hammies]({{site.github.url}}/AppetizerDips/BakedHammies/index.html)
