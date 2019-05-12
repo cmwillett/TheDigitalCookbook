@@ -610,7 +610,8 @@ ul {
   /*indented lists*/
   /*list-style-image: url("../images/bullet.png");*/
   /*color: yellow;*/
-  color: lightyellow;
+  /*color: lightyellow;*/
+  color: #cc4e17;
   /*color: #e6e6e6;*/
 }
 
