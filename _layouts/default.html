@@ -82,14 +82,14 @@ tipue_search_active: true
                     <form>
                         <input type="button" value="Most Recently Added"  style="background-color:#98FB98; color:#17202A;" onclick="window.location.href='{{site.github.url}}/MostRecentlyAdded/index.html'" />
                         <input type="button" value="Craig's Top 5" style="background-color:#98FB98; color:#17202A;" onclick="window.location.href='{{site.github.url}}/CraigsTop5/index.html'" /><br>
-                        <input type="button" value="Submit a Recipe" style="background-color:#98FB98; color:#17202A;" onclick="window.location.href='{{site.github.url}}/Contact/SubmitRecipe/index.html'" />
+                        <input type="button" value="Submit a Recipe" style="background-color:#98FB98; color:#17202A;" onclick="window.location.href='{{site.github.url}}/Contact/SubmitRecipe/index.html'" /><br>
+                        <input type="button" value="Print This Page" style="background-color:#98FB98; color:#17202A;" onclick="window.print();return false;"/>
                     </form>
                     </center>
                 </div>
             </section>
             <!-- Page.content -->
             <article class="post-content">
-              <button onclick="window.print();return false;">Print this page</button>
                 {{ content }}
             </article>
         </div>
