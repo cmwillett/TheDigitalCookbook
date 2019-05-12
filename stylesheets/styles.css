@@ -553,7 +553,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p, ul, ol, table, pre, dl {
   margin: 0 0 20px;
-  color: #cc4e17;
+  color: #cc4e17;/*added to change the color of the ingredient lists*/
 }
 
 h1, h2, h3 {
@@ -611,7 +611,7 @@ ul {
   /*list-style-image: url("../images/bullet.png");*/
   /*color: yellow;*/
   /*color: lightyellow;*/
-  color: #cc4e17;
+  color: #cc4e17;/*changed the color of the instructions*/
   /*color: #e6e6e6;*/
 }
 
