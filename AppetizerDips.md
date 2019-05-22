@@ -17,6 +17,7 @@ tags: finger,foods,appetizer,snack,dips,dip
 - [Rollups](#rollups)
 - [Salsas](#salsas)
 - [Sandwiches](#sandwiches)
+- [Wings](#wings)
 
 <!-- /TOC -->
 
@@ -45,3 +46,6 @@ tags: finger,foods,appetizer,snack,dips,dip
 
 #### Sandwiches
 * [Baked Hammies]({{site.github.url}}/AppetizerDips/BakedHammies/index.html)
+
+#### Wings
+* [Instant Pot Chicken Wings]({{site.github.url}}/AppetizerDips/InstantPotChickenWings/index.html)
