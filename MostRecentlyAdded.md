@@ -9,7 +9,7 @@ tags: recent,current,new,most,recently,added
 
 #### June 15th, 2019
 * [Garlicky Lemon Baked Tilapia]({{site.github.url}}/MainDishes/GarlickyLemonBakedTilapia/index.html)
-* * [Oven Roasted Asparagus]({{site.github.url}}/Sides/OvenRoastedAsparagus/index.html)
+* [Oven Roasted Asparagus]({{site.github.url}}/Sides/OvenRoastedAsparagus/index.html)
 
 #### May 21st, 2019
 * [Instant Pot Chicken Wings]({{site.github.url}}/AppetizerDips/InstantPotChickenWings/index.html)

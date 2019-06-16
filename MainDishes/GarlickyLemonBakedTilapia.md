@@ -5,6 +5,8 @@ tags: fish,tilapia,lemon,garlicky,bake,main,course,dinner,patty,franklin
 ---
 # Garlicky Lemon Baked Tilapia
 
+### This recipe is really good paired with [Oven Roasted Asparagus]({{site.github.url}}/Sides/OvenRoastedAsparagus/index.html)...
+
 #### Ingredients:
 - 4 TILAPIA
 - KOSHER SALT
