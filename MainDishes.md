@@ -13,6 +13,7 @@ tags: dinner,main,course,dish
 - [Casseroles](#casseroles)
 - [Chicken](#chicken)
 - [Chilis](#chilis)
+- [Fish](#fish)
 - [Ghoulashes](#ghoulashes)
 - [Meatloafs](#meatloafs)
 - [Mexican](#mexican)
@@ -71,6 +72,9 @@ tags: dinner,main,course,dish
 * [Uncle Jim's White Chicken Chili]({{site.github.url}}/MainDishes/UncleJimsWhiteChickenChili/index.html)
 * [Instant Pot Chili]({{site.github.url}}/MainDishes/InstantPotChili/index.html)
 * [Slow Cooker Creamy White Chicken Chili]({{site.github.url}}/MainDishes/SlowCookerCreamyWhiteChickenChili/index.html)
+
+#### Fish
+* [Garlicky Lemon Baked Tilapia]({{site.github.url}}/MainDishes/GarlickyLemonBakedTilapia/index.html)
 
 #### Ghoulashes
 * [Crockpot Goulash]({{site.github.url}}/MainDishes/CrockpotGoulash/index.html)

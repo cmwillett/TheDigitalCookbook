@@ -25,6 +25,7 @@ tags: side,items,side,item,sides
 
 #### Asparagus Recipes
 * [Baked Asparagus]({{site.github.url}}/Sides/BakedAsparagus/index.html)
+* [Oven Roasted Asparagus]({{site.github.url}}/Sides/OvenRoastedAsparagus/index.html)
 
 #### Bread
 * [Amish Bread]({{site.github.url}}/Sides/AmishBread/index.html)
