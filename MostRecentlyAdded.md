@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### August 12th, 2019
+* [Jalepeno Corn Dip #2]({{site.github.url}}/AppetizerDips/JalapenoCornDip2/index.html)
+
 #### June 15th, 2019
 * [Garlicky Lemon Baked Tilapia]({{site.github.url}}/MainDishes/GarlickyLemonBakedTilapia/index.html)
 * [Oven Roasted Asparagus]({{site.github.url}}/Sides/OvenRoastedAsparagus/index.html)
