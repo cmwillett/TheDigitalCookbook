@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### September 17th, 2019
+* [Quick Chicken Piccata]({{site.github.url}}/MainDishes/QuickChickenPiccata/index.html)
+
 #### August 12th, 2019
 * [Jalepeno Corn Dip #2]({{site.github.url}}/AppetizerDips/JalapenoCornDip2/index.html)
 
