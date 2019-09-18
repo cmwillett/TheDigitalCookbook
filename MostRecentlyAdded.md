@@ -9,6 +9,7 @@ tags: recent,current,new,most,recently,added
 
 #### September 17th, 2019
 * [Quick Chicken Piccata]({{site.github.url}}/MainDishes/QuickChickenPiccata/index.html)
+* [Green Beans]({{site.github.url}}/Sides/GreenBeans/index.html)
 
 #### August 12th, 2019
 * [Jalepeno Corn Dip #2]({{site.github.url}}/AppetizerDips/JalapenoCornDip2/index.html)
