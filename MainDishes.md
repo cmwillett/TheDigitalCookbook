@@ -73,6 +73,7 @@ tags: dinner,main,course,dish
 * [Uncle Jim's White Chicken Chili]({{site.github.url}}/MainDishes/UncleJimsWhiteChickenChili/index.html)
 * [Instant Pot Chili]({{site.github.url}}/MainDishes/InstantPotChili/index.html)
 * [Slow Cooker Creamy White Chicken Chili]({{site.github.url}}/MainDishes/SlowCookerCreamyWhiteChickenChili/index.html)
+* [Chipotle Pork Chili]({{site.github.url}}/MainDishes/ChipotlePorkChili/index.html)
 
 #### Fish
 * [Garlicky Lemon Baked Tilapia]({{site.github.url}}/MainDishes/GarlickyLemonBakedTilapia/index.html)
