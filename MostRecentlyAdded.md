@@ -9,6 +9,7 @@ tags: recent,current,new,most,recently,added
 
 #### September 20th, 2019
 * [Chipotle Pork Chili]({{site.github.url}}/MainDishes/ChipotlePorkChili/index.html)
+* [Slow Cooker Pumpkin Apple Dessert]({{site.github.url}}/Desserts/SlowCookerPumpkinAppleDessert/index.html)
 
 #### September 17th, 2019
 * [Quick Chicken Piccata]({{site.github.url}}/MainDishes/QuickChickenPiccata/index.html)

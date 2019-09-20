@@ -15,6 +15,7 @@ tags: dessert,desserts
 - [Muffins](#muffins)
 - [Peanut Butter](#peanut-butter)
 - [Puddings](#puddings)
+- [Pumpkin](#pumpkin)
 - [Smores](#smores)
 - [Trifles](#Trifles)
 - [Truffles](#truffles)
@@ -42,6 +43,9 @@ tags: dessert,desserts
 
 #### Puddings
 * [Cocoa Vanilla Pudding]({{site.github.url}}/Desserts/CocoaVanillaPudding/index.html)
+
+#### Pumpkin
+* [Slow Cooker Pumpkin Apple Dessert]({{site.github.url}}/Desserts/SlowCookerPumpkinAppleDessert/index.html)
 
 #### Smores
 * [Sheet Pan S'mores]({{site.github.url}}/Desserts/SheetPanSmores/index.html)
