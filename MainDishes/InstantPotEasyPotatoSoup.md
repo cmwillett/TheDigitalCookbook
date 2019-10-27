@@ -3,7 +3,9 @@ layout: default
 title: "Instant Pot Easy Potato Soup"
 tags: instant pot,instant,pot,cooker,pressure,main,course,dinner,easy,potato,soup,craig,willett,kristen
 ---
-# Instant Pot Tuna Casserole!
+# Instant Pot Easy Potato Soup!
+
+### This was one of the easiest things we've ever made in the instant pot!  And delicious!
 
 #### Ingredients
 - 1/4 cup bacon bits

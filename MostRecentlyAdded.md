@@ -9,6 +9,7 @@ tags: recent,current,new,most,recently,added
 
 #### October 26th, 2019
 * [Instant Pot Easy Potato Soup]({{site.github.url}}/MainDishes/InstantPotEasyPotatoSoup/index.html)
+* [Instant Pot French Garlic Chicken]({{site.github.url}}/MainDishes/InstantPotFrenchGarlicChicken/index.html)
 
 #### September 20th, 2019
 * [Chipotle Pork Chili]({{site.github.url}}/MainDishes/ChipotlePorkChili/index.html)
