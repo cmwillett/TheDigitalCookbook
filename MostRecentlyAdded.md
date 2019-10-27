@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### October 26th, 2019
+* [Instant Pot Easy Potato Soup]({{site.github.url}}/MainDishes/InstantPotEasyPotatoSoup/index.html)
+
 #### September 20th, 2019
 * [Chipotle Pork Chili]({{site.github.url}}/MainDishes/ChipotlePorkChili/index.html)
 * [Slow Cooker Pumpkin Apple Dessert]({{site.github.url}}/Desserts/SlowCookerPumpkinAppleDessert/index.html)
