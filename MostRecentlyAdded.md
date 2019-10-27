@@ -11,6 +11,7 @@ tags: recent,current,new,most,recently,added
 * [Instant Pot Easy Potato Soup]({{site.github.url}}/MainDishes/InstantPotEasyPotatoSoup/index.html)
 * [Instant Pot French Garlic Chicken]({{site.github.url}}/MainDishes/InstantPotFrenchGarlicChicken/index.html)
 * [Peach Vidalia Onion Relish]({{site.github.url}}/AppetizerDips/PeachVidaliaOnionRelish/index.html)
+* [Peach Habanero Hot Sauce]({{site.github.url}}/Sauces/PeachHabaneroHotSauce/index.html)
 
 #### September 20th, 2019
 * [Chipotle Pork Chili]({{site.github.url}}/MainDishes/ChipotlePorkChili/index.html)
