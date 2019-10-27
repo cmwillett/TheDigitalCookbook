@@ -45,6 +45,7 @@ tags: finger,foods,appetizer,snack,dips,dip
 #### Salsas
 * [Instant Pot Salsa]({{site.github.url}}/AppetizerDips/InstantPotSalsa/index.html)
 * [The Best Blender Salsa Recipe]({{site.github.url}}/AppetizerDips/TheBestBlenderSalsa/index.html)
+* [Peach-Vidalia Onion Relish]({{site.github.url}}/AppetizerDips/PeachVidaliaOnionRelish/index.html)
 
 #### Sandwiches
 * [Baked Hammies]({{site.github.url}}/AppetizerDips/BakedHammies/index.html)
