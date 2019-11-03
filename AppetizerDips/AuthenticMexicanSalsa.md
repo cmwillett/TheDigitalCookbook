@@ -10,7 +10,7 @@ tags: appetizer,snack,mexican,salsa,guy,johns
 - 32 oz can of diced tomatoes
 - 1/2 teaspoon of salt (or more to your taste)
 - 1/4 teaspoon of crushed black pepper to taste
-- 4 to 6 closes of crushed fresh garlic
+- 4 to 6 large cloves of crushed fresh garlic
 - 1 large yellow or white onion, cut, chopped and diced finely
 - 2 bushels of green onion, cut and chopped finely.  Discard the top green sections.
 - 1 large handful of fresh cilantro leaves, cut and chopped finely.  Only use fresh!
