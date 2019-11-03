@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### November 3rd, 2019
+* [Authentic Mexican Salsa]({{site.github.url}}/AppetizerDips/AuthenticMexicanSalsa/index.htnml)
+
 #### October 26th, 2019
 * [Instant Pot Easy Potato Soup]({{site.github.url}}/MainDishes/InstantPotEasyPotatoSoup/index.html)
 * [Instant Pot French Garlic Chicken]({{site.github.url}}/MainDishes/InstantPotFrenchGarlicChicken/index.html)
