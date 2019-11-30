@@ -23,6 +23,7 @@ tags: breakfast
 #### Dogs and Brats
 * [Breakfast Hot Dog Special]({{site.github.url}}/Breakfast/BreakfastHotDogSpecial/index.html)
 * [Open Faced Brats and Eggs]({{site.github.url}}/Breakfast/OpenFaceBratsAndEggs/index.html)
+* [Breakfast Chili Dogs]({{site.github.url}}/Breakfast/BreakfastChiliDogs/index.html)
 
 #### Egg Based
 * [Maria's Breakfast Bites]({{site.github.url}}/Breakfast/MariasBreakfastBites/index.html)

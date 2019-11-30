@@ -9,6 +9,7 @@ tags: recent,current,new,most,recently,added
 
 #### November 29th, 2019
 * [The Best Sweet Potato Casserole]({{site.github.url}}/Sides/TheBestSweetPotatoCasserole/index.html)
+* [Breakfast Chili Dogs]({{site.github.url}}/Breakfast/BreakfastChiliDogs/index.html)
 
 #### November 3rd, 2019
 * [Authentic Mexican Salsa]({{site.github.url}}/AppetizerDips/AuthenticMexicanSalsa/index.html)
