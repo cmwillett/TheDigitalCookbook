@@ -35,5 +35,6 @@ tags: spaghetti,main,course,dinner,pot,pie,craig,willett,mike,lipp
 
 #### Instructions:
 1. Thaw and drain spinach
-2. Combine Cottage Cheese, cream cheese, beaten eggs, Parmesan cheese, and spinachAdd on top of meat
-3. bake at 350 for 20 – 25 min.
+2. Combine Cottage Cheese, cream cheese, beaten eggs, Parmesan cheese, and spinach
+3. Add on top of meat
+4. bake at 350 for 20 – 25 min.
