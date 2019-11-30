@@ -24,6 +24,7 @@ tags: dinner,main,course,dish
 - [Ribs](#ribs)
 - [Roasts](#roasts)
 - [Sandwiches](#sandwiches)
+- [Smoked Meats](#smoked-meats)
 - [Soups](#soups)
 - [Stews](#stews)
 - [Thai](#thai)
@@ -126,6 +127,8 @@ tags: dinner,main,course,dish
 
 #### Sandwiches
 * [Instant Pot Italian Beef Sandwiches]({{site.github.url}}/MainDishes/InstantPotItalianBeefSandwiches/index.html)
+
+#### Smoked Meats
 
 #### Soups
 * [Slow Cooker Creamy Tortellini Soup]({{site.github.url}}/MainDishes/CreamyTortelliniSoup/index.html)
