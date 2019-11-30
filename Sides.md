@@ -53,4 +53,4 @@ tags: side,items,side,item,sides
 * [Red Skinned Smashed Potatoes]({{site.github.url}}/Sides/RedSkinnedSmashedPotatoes/index.html)
 * [Instant Pot Lemon Red Potatoes]({{site.github.url}}/Sides/InstantPotLemonRedPotatoes/index.html)
 * [Golden Mashed Potatoes]({{site.github.url}}/Sides/GoldenMashedPotatoes/index.html)
-* [The Best Sweet Potato Casserole]({{site.github.url}}/TheBestSweetPotatoCasserole/index.html)
+* [The Best Sweet Potato Casserole]({{site.github.url}}/Sides/TheBestSweetPotatoCasserole/index.html)

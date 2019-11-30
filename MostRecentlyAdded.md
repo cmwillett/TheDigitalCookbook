@@ -8,7 +8,7 @@ tags: recent,current,new,most,recently,added
 ### The most recently added recipes that we've added to the site...
 
 #### November 29th, 2019
-* [The Best Sweet Potato Casserole]({{site.github.url}}/TheBestSweetPotatoCasserole/index.html)
+* [The Best Sweet Potato Casserole]({{site.github.url}}/Sides/TheBestSweetPotatoCasserole/index.html)
 
 #### November 3rd, 2019
 * [Authentic Mexican Salsa]({{site.github.url}}/AppetizerDips/AuthenticMexicanSalsa/index.html)
