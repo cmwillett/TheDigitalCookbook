@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### December 31st, 2019
+* [Katie's Homemade Vegetable Soup]({{site.github.url}}/MainDishes/KatiesHomemadeVegetableSoup/index.html)
+
 #### November 29th, 2019
 * [The Best Sweet Potato Casserole]({{site.github.url}}/Sides/TheBestSweetPotatoCasserole/index.html)
 * [Breakfast Chili Dogs]({{site.github.url}}/Breakfast/BreakfastChiliDogs/index.html)

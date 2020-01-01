@@ -141,6 +141,7 @@ tags: dinner,main,course,dish
 * [Crockpot Creamy Tortellini Soup]({{site.github.url}}/MainDishes/CrockpotCreamyTortelliniSoup/index.html)
 * [Lemony Turkey Rice Soup]({{site.github.url}}/MainDishes/LemonyTurkeyRiceSoup/index.html)
 * [Instant Pot Easy Potato Soup]({{site.github.url}}/MainDishes/InstantPotEasyPotatoSoup/index.html)
+* [Katie's Homemade Vegetable Soup]({{site.github.url}}/MainDishes/KatiesHomemadeVegetableSoup/index.html)
 
 #### Stews
 * [Instant Pot Vegetable Beef Stew]({{site.github.url}}/MainDishes/InstantPotVegetableBeefStew/index.html)
