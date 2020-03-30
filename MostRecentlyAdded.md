@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### March 29th, 2020
+* [Chunky Beef Vegetable Soup]({{site.github.url}}/MainDishes/ChunkyBeefVegetableSoup/index.html)
+
 #### January 20th, 2020
 * [Sweet Pepper Chili]({{site.github.url}}/MainDishes/SweetPepperChili/index.html)
 
