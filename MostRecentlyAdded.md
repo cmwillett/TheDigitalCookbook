@@ -10,6 +10,7 @@ tags: recent,current,new,most,recently,added
 #### March 29th, 2020
 * [Chunky Beef Vegetable Soup]({{site.github.url}}/MainDishes/ChunkyBeefVegetableSoup/index.html)
 * [Chicken Noodle Soup]({{site.github.url}}/MainDishes/ChickenNoodleSoup/index.html)
+* [Jason Brooks' Chili]({{site.github.url}}/MainDishes/JasonBrooksChili/index.hmtl)
 
 #### January 20th, 2020
 * [Sweet Pepper Chili]({{site.github.url}}/MainDishes/SweetPepperChili/index.html)
