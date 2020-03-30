@@ -77,7 +77,7 @@ tags: dinner,main,course,dish
 * [Slow Cooker Creamy White Chicken Chili]({{site.github.url}}/MainDishes/SlowCookerCreamyWhiteChickenChili/index.html)
 * [Chipotle Pork Chili]({{site.github.url}}/MainDishes/ChipotlePorkChili/index.html)
 * [Sweet Pepper Chili]({{site.github.url}}/MainDishes/SweetPepperChili/index.html)
-* [Jason Brooks' Chili]({{site.github.url}}/MainDishes/JasonBrooksChili/index.hmtl)
+* [Jason Brooks' Chili]({{site.github.url}}/MainDishes/JasonBrooksChili/index.html)
 
 #### Fish
 * [Garlicky Lemon Baked Tilapia]({{site.github.url}}/MainDishes/GarlickyLemonBakedTilapia/index.html)
