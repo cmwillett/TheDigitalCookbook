@@ -144,6 +144,7 @@ tags: dinner,main,course,dish
 * [Instant Pot Easy Potato Soup]({{site.github.url}}/MainDishes/InstantPotEasyPotatoSoup/index.html)
 * [Katie's Homemade Vegetable Soup]({{site.github.url}}/MainDishes/KatiesHomemadeVegetableSoup/index.html)
 * [Chunky Beef Vegetable Soup]({{site.github.url}}/MainDishes/ChunkyBeefVegetableSoup/index.html)
+* [Chicken Noodle Soup]({{site.github.url}}/MainDishes/ChickenNoodleSoup/index.html)
 
 #### Stews
 * [Instant Pot Vegetable Beef Stew]({{site.github.url}}/MainDishes/InstantPotVegetableBeefStew/index.html)
