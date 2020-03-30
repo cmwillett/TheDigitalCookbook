@@ -11,6 +11,7 @@ tags: recent,current,new,most,recently,added
 * [Chunky Beef Vegetable Soup]({{site.github.url}}/MainDishes/ChunkyBeefVegetableSoup/index.html)
 * [Chicken Noodle Soup]({{site.github.url}}/MainDishes/ChickenNoodleSoup/index.html)
 * [Jason Brooks' Chili]({{site.github.url}}/MainDishes/JasonBrooksChili/index.html)
+* [Cranberry Chicken]({{site.github.url}}/MainDishes/CranberryChicken/index.html)
 
 #### January 20th, 2020
 * [Sweet Pepper Chili]({{site.github.url}}/MainDishes/SweetPepperChili/index.html)

@@ -68,6 +68,7 @@ tags: dinner,main,course,dish
 * [Instant Pot Olive Garden Chicken]({{site.github.url}}/MainDishes/InstantPotOliveGardenChicken/index.html)
 * [Quick Chicken Piccata]({{site.github.url}}/MainDishes/QuickChickenPiccata/index.html)
 * [Instant Pot French Garlic Chicken]({{site.github.url}}/MainDishes/InstantPotFrenchGarlicChicken/index.html)
+* [Cranberry Chicken]({{site.github.url}}/MainDishes/CranberryChicken/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)
