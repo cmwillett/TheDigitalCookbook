@@ -7,16 +7,16 @@ tags: instant,pot,applesauce,sides,side,item,items,craig,kristen,willett
 
 ### Our kids love this applesauce (well, one of them at least)...
 
+### We doubled this recipe and it turned out better...
+
 #### INGREDIENTS
-- 2 pounds (4 large) [Granny Smith apples](https://www.tastingtable.com/cook/recipes/apple-cider-magic-cake-recipe)—peeled, cored and roughly chopped
-- 2 pounds (4 large) Honeycrisp apples—peeled, cored and roughly chopped
-- 1 cup water
-- 1 teaspoon lemon zest
-- ½ teaspoon ground cinnamon
-- ¼ teaspoon kosher salt
+- 3 lb. Granny Smith Apples, peeled, cored and chopped
+- 3/4 c. water
+- 2 tbsp. packed brown sugar
+- 1 tsp. ground cinnamon
+- 1/4 tsp. kosher salt
 
 #### DIRECTIONS
-1. In the bowl of an [Instant Pot](https://www.tastingtable.com/cook/national/instant-pot-facts-guide), combine all of the ingredients and toss to mix.
-2. Close your Instant Pot, setting according to the manufacturer's directions, and cook over high pressure for 8 minutes.
-3. Once the Instant Pot has completely cooking, transfer the applesauce to a bowl and let cool completely.
-4. Stir to combine, then serve or store in a sealable container in the refrigerator.
+1. Combine all ingredients in instant pot and stir to mix.
+2. Secure instant pot lid and pressure cook on high for 5 minutes.
+3. Let natural release for 10 minutes, then follow manufacturer's instructions for quick release for remaining steam. Remove lid, stir, and serve.
