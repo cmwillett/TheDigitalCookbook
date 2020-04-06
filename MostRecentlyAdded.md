@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### April 6th, 2020
+* [Chicken Parmesan Slider Bake]({{site.github.url}}/AppetizerDips/ChickenParmesanSliderBake/index.html)
+
 #### March 29th, 2020
 * [Chunky Beef Vegetable Soup]({{site.github.url}}/MainDishes/ChunkyBeefVegetableSoup/index.html)
 * [Chicken Noodle Soup]({{site.github.url}}/MainDishes/ChickenNoodleSoup/index.html)
