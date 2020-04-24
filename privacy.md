@@ -58,32 +58,32 @@ tags: privacy
 
 
 
-    <h3>Tracking Technologies and Cookies</h3>
-    <p>We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service.</p>
-    <p>You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service.</p>
-    <p>Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close your web browser. Learn more about cookies: <a href="https://www.termsfeed.com/blog/cookies/">All About Cookies</a>.</p>
-    <p>We use both session and persistent Cookies for the purposes set out below:</p>
-    <ul>
-        <li>
-            <p><strong>Necessary / Essential Cookies</strong>
-            <p>Type: Session Cookies</p>
-            <p>Administered by: Us</p>
-            <p>Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.</p>
-        </li>
-        <li>
-            <p><strong>Cookies Policy / Notice Acceptance Cookies</strong></p>
-            <p>Type: Persistent Cookies</p>
-            <p>Administered by: Us</p>
-            <p>Purpose: These Cookies identify if users have accepted the use of cookies on the Website.</p>
-        </li>
-        <li>
-            <p><strong>Functionality Cookies</strong></p>
-            <p>Type: Persistent Cookies</p>
-            <p>Administered by: Us</p>
-            <p>Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.</p>
-        </li>
-                </ul>
-    <p>For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy.</p>
+<h3>Tracking Technologies and Cookies</h3>
+<p>We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service.</p>
+<p>You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service.</p>
+<p>Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close your web browser. Learn more about cookies: <a href="https://www.termsfeed.com/blog/cookies/">All About Cookies</a>.</p>
+<p>We use both session and persistent Cookies for the purposes set out below:</p>
+<ul>
+    <li>
+        <p><strong>Necessary / Essential Cookies</strong>
+        <p>Type: Session Cookies</p>
+        <p>Administered by: Us</p>
+        <p>Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.</p>
+    </li>
+    <li>
+        <p><strong>Cookies Policy / Notice Acceptance Cookies</strong></p>
+        <p>Type: Persistent Cookies</p>
+        <p>Administered by: Us</p>
+        <p>Purpose: These Cookies identify if users have accepted the use of cookies on the Website.</p>
+    </li>
+    <li>
+        <p><strong>Functionality Cookies</strong></p>
+        <p>Type: Persistent Cookies</p>
+        <p>Administered by: Us</p>
+        <p>Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.</p>
+    </li>
+            </ul>
+<p>For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy.</p>
 
 <h2>Use of Your Personal Data</h2>
 <p>The Company may use Personal Data for the following purposes:</p>
