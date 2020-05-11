@@ -12,6 +12,7 @@ tags: recent,current,new,most,recently,added
 * [Air Fryer Pork Chops]({{site.github.url}}/MainDishes/AirFryerPorkChops/index.html)
 * [Classic Green Bean Casserole]({{site.github.url}}/Sides/ClassicGreenBeanCasserole/index.html)
 * [Spinach White Bean Soup]({{site.github.url}}/MainDishes/SpinachWhiteBeanSoup/index.html)
+* [Slow Cooker Stuffed Pepper Soup]({{site.github.url}}/MainDishes/SlowCookerStuffedPepperSoup/index.html)
 
 #### April 6th, 2020
 * [Chicken Parmesan Slider Bake]({{site.github.url}}/AppetizerDips/ChickenParmesanSliderBake/index.html)
