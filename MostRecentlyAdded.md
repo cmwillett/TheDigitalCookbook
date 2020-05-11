@@ -10,7 +10,7 @@ tags: recent,current,new,most,recently,added
 #### May 10th, 2020
 * [Cheesecake Danish]({{site.github.url}}/Breakfast/CheesecakeDanish/index.html)
 * [Air Fryer Pork Chops]({{site.github.url}}/MainDishes/AirFryerPorkChops/index.html)
-* [Classic Green Bean Casserole]({{site.github.url}}/ClassicGreenBeanCasserole/index.html)
+* [Classic Green Bean Casserole]({{site.github.url}}/Sides/ClassicGreenBeanCasserole/index.html)
 
 #### April 6th, 2020
 * [Chicken Parmesan Slider Bake]({{site.github.url}}/AppetizerDips/ChickenParmesanSliderBake/index.html)
