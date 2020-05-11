@@ -30,6 +30,7 @@ tags: side,items,side,item,sides
 
 #### Beans
 * [Green Beans]({{site.github.url}}/Sides/GreenBeans/index.html)
+* [Classic Green Bean Casserole]({{site.github.url}}/ClassicGreenBeanCasserole/index.html)
 
 #### Bread
 * [Amish Bread]({{site.github.url}}/Sides/AmishBread/index.html)
