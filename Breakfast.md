@@ -9,12 +9,16 @@ tags: breakfast
 ### Categories
 <!-- TOC depthFrom:4 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Danish](#danish)
 - [Goetta](#goetta)
 - [Dogs and Brats](#dogs-and-brats)
 - [Egg Based](#egg-based)
 - [Pancakes](#pancakes)
 
 <!-- /TOC -->
+
+#### Danish
+* [Cheesecake Danish]({{site.github.url}}/Breakfast/CheesecakeDanish/index.html)
 
 #### Goetta
 * [Goetta Quesadilla]({{site.github.url}}/Breakfast/GoettaQuesadilla/index.html)
