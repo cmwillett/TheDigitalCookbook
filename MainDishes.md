@@ -116,6 +116,7 @@ tags: dinner,main,course,dish
 * [Crockpot Ranch Pork Chops]({{site.github.url}}/MainDishes/CrockpotRanchPorkChops/index.html)
 * [Pork Chops Supreme]({{site.github.url}}/MainDishes/PorkChopsSupreme/index.html)
 * [Instant Pot Carnita and Green Beans]({{site.github.url}}/MainDishes/InstantPotCarnitaAndGreenBeans/index.html)
+* [Air Fryer Pork Chops]({{site.github.url}}/MainDishes/AirFryerPorkChops/index.html)
 
 #### Prime Rib
 * [Garlic Butter Herb Prime Rib]({{site.github.url}}/MainDishes/GarlicButterHerbPrimeRib/index.html)
