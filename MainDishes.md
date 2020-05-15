@@ -70,6 +70,7 @@ tags: dinner,main,course,dish
 * [Instant Pot French Garlic Chicken]({{site.github.url}}/MainDishes/InstantPotFrenchGarlicChicken/index.html)
 * [Cranberry Chicken]({{site.github.url}}/MainDishes/CranberryChicken/index.html)
 * [Slow-Cooker Chicken Bog]({{site.github.url}}/MainDishes/SlowCookerChickenBog/index.html)
+* [Air Fryer Whole Chicken - Rotisserie Style]({{site.github.url}}/MainDishes/AirFryerWholeChickenRotisserie/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)

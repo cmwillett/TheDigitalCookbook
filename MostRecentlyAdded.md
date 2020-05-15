@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### May 15th, 2020
+* [Air Fryer Whole Chicken - Rotisserie Style]({{site.github.url}}/MainDishes/AirFryerWholeChickenRotisserie/index.html)
+
 #### May 10th, 2020
 * [Cheesecake Danish]({{site.github.url}}/Breakfast/CheesecakeDanish/index.html)
 * [Air Fryer Pork Chops]({{site.github.url}}/MainDishes/AirFryerPorkChops/index.html)
