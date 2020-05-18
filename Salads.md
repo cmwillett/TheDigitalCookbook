@@ -22,6 +22,7 @@ tags: salad,salads
 
 #### Fruit
 * [Hawaiian Cheesecake Salad]({{site.github.url}}/Salads/HawaiianCheesecakeSalad/index.html)
+* [Grape Salad]({{site.github.url}}/Salads/GrapeSalad/index.html)
 
 #### Quinoa
 * [Quinoa Salad]({{site.github.url}}/Salads/QuinoaSalad/index.html)

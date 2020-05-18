@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### May 17th, 2020
+* [Grape Salad]({{site.github.url}}/Salads/GrapeSalad/index.html)
+
 #### May 15th, 2020
 * [Air Fryer Whole Chicken - Rotisserie Style]({{site.github.url}}/MainDishes/AirFryerWholeChickenRotisserie/index.html)
 
