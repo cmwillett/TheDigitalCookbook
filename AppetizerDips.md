@@ -38,7 +38,7 @@ tags: finger,foods,appetizer,snack,dips,dip
 * [Craig's Meatballs]({{site.github.url}}/AppetizerDips/TheCraigsMeatballs/index.html)
 
 #### Mozzarella Sticks
-* [Air Fryer Mozzarella Sticks]({{site.github.com}}/AppetizerDips/AirFryerMozzarellaSticks/index.html)
+* [Air Fryer Mozzarella Sticks]({{site.github.url}}/AppetizerDips/AirFryerMozzarellaSticks/index.html)
 
 #### Pot Pies
 * [Mini Shepherds Pot Pies]({{site.github.url}}/AppetizerDips/MiniShepherdsPotPies/index.html)

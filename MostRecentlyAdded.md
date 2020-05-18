@@ -9,7 +9,7 @@ tags: recent,current,new,most,recently,added
 
 #### May 17th, 2020
 * [Grape Salad]({{site.github.url}}/Salads/GrapeSalad/index.html)
-* [Air Fryer Mozzarella Sticks]({{site.github.com}}/AppetizerDips/AirFryerMozzarellaSticks/index.html)
+* [Air Fryer Mozzarella Sticks]({{site.github.url}}/AppetizerDips/AirFryerMozzarellaSticks/index.html)
 
 #### May 15th, 2020
 * [Air Fryer Whole Chicken - Rotisserie Style]({{site.github.url}}/MainDishes/AirFryerWholeChickenRotisserie/index.html)
