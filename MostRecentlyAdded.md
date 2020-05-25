@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### May 24th, 2020
+* [Amish Baked Oatmeal]({{site.github.url}}/Breakfast/AmishBakedOatmeal/index.html)
+
 #### May 17th, 2020
 * [Grape Salad]({{site.github.url}}/Salads/GrapeSalad/index.html)
 * [Air Fryer Mozzarella Sticks]({{site.github.url}}/AppetizerDips/AirFryerMozzarellaSticks/index.html)

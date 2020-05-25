@@ -13,6 +13,7 @@ tags: breakfast
 - [Goetta](#goetta)
 - [Dogs and Brats](#dogs-and-brats)
 - [Egg Based](#egg-based)
+- [Oatmeal](#oatmeal)
 - [Pancakes](#pancakes)
 
 <!-- /TOC -->
@@ -35,6 +36,9 @@ tags: breakfast
 * [The New Year's Omelet]({{site.github.url}}/Breakfast/TheNewYearsOmelet/index.html)
 * [Pulled Pork and Eggs]({{site.github.url}}/Breakfast/PulledPorkAndEggs/index.html)
 * [Air-Fryer Ham and Egg Pockets]({{site.github.url}}/Breakfast/AirFryerHamAndEggPockets/index.html)
+
+#### Oatmeal
+* [Amish Baked Oatmeal]({{site.github.url}}/Breakfast/AmishBakedOatmeal/index.html)
 
 #### Pancakes
 * [Instant Pot Giant Pancake]({{site.github.url}}/Breakfast/InstantPotGiantPancake/index.html)
