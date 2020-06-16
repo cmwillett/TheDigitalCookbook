@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### June 16th, 2020
+* [Yum Yum Sauce]({{site.github.url}}/Sauces/YumYumSauce/index.html)
+
 #### May 24th, 2020
 * [Amish Baked Oatmeal]({{site.github.url}}/Breakfast/AmishBakedOatmeal/index.html)
 

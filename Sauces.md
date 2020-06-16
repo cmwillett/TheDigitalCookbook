@@ -11,6 +11,7 @@ tags: sauce,sauces
 
 - [BBQ](#bbq)
 - [Hot Sauces](#hot-sauces)
+- [Japanese](#japanese)
 
 <!-- /TOC -->
 
@@ -19,3 +20,6 @@ tags: sauce,sauces
 
 #### Hot Sauces
 * [Peach Habanero Hot Sauce]({{site.github.url}}/Sauces/PeachHabaneroHotSauce/index.html)
+
+#### Japanese
+* [Yum Yum Sauce]({{site.github.url}}/Sauces/YumYumSauce/index.html)
