@@ -39,7 +39,6 @@ tags: dinner,main,course,dish
 
 #### Casseroles
 * [Tuna Casserole]({{site.github.url}}/MainDishes/TunaCasserole/index.html)
-* [Instant Pot Tuna Casserole]({{site.github.url}}/MainDishes/InstantPotTunaCasserole/index.html)
 * [Instant Pot Easy Cheesy Tuna Casserole]({{site.github.url}}/MainDishes/InstantPotEasyCheesyTunaCasserole/index.html)
 * [Crockpot Reuben Casserole]({{site.github.url}}/MainDishes/CrockpotReubenCasserole/index.html)
 * [Meat and Cheese Casserole]({{site.github.url}}/MainDishes/MeatAndCheeseCasserole/index.html)
