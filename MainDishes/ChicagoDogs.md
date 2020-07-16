@@ -15,9 +15,9 @@ tags: chicago,dog,dogs,hotdog,hot,main,course,dinner,craig,willett,kristen,rober
 - 1 tablespoon yellow mustard
 - 1 tablespoon sweet green pickle relish
 - 1 tablespoon chopped onion
-- 4 wedge (blank)s tomato wedges
+- 4 wedge tomato wedges
 - 1 dill pickle spear
-- 2 eaches sport peppers
+- 2 sport peppers
 - 1 dash celery salt
 
 #### Directions:
