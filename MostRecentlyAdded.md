@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### July 19th, 2020
+* [Homemade Hibachi]({{site.github.url}}/MainDishes/HomemadeHibachi/index.html)
+
 #### July 16th, 2020
 * [Chicago Dogs]({{site.github.url}}/MainDishes/ChicagoDogs/index.html)
 

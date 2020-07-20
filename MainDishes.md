@@ -15,6 +15,7 @@ tags: dinner,main,course,dish
 - [Chilis](#chilis)
 - [Fish](#fish)
 - [Ghoulashes](#ghoulashes)
+- [Hibachis](#hibachis)
 - [Hotdogs](#hotdogs)
 - [Meatloafs](#meatloafs)
 - [Mexican](#mexican)
@@ -87,6 +88,9 @@ tags: dinner,main,course,dish
 
 #### Ghoulashes
 * [Crockpot Goulash]({{site.github.url}}/MainDishes/CrockpotGoulash/index.html)
+
+#### Hibachis
+* [Homemade Hibachi]({{site.github.url}}/MainDishes/HomemadeHibachi/index.html)
 
 #### Hotdogs
 * [Chicago Dogs]({{site.github.url}}/MainDishes/ChicagoDogs/index.html)
