@@ -31,7 +31,7 @@ tags: homemade,hibachi,main,course,dinner,craig,willett,kristen
 6. Use spatulas to start chopping everything up; keeping the veggies and the chicken separated for now
 7. Once the chicken is getting close to being done, mix all together
 8. Add teriyaki sauce to taste while mixing all together
-9. Once chicken is cooked thru you are done
+9. Once chicken is cooked thru you are done1
 
 #### Pictures:
 ![]({{site.github.url}}/MainDishes/Images/HomemadeHibachi1.jpg){:height="600px" width="600px"}
