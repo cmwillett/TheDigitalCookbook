@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### August 23rd, 2020
+* [Craig's Easy Homemade Salsa]({{site.github.url}}/AppetizerDips/CraigsEasyHomemadeSalsa/index.html)
+
 #### July 19th, 2020
 * [Homemade Hibachi]({{site.github.url}}/MainDishes/HomemadeHibachi/index.html)
 
