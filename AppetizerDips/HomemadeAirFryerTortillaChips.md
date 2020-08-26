@@ -15,7 +15,7 @@ tags: appetizer,snack,mexican,salsa,easy,homemade,tortilla,chips,craig,willett,k
 2. Sprinkle salt on both sides
 3. Stack tortillas
 4. Use pizza cutter to cut into chip sizes
-5. Air Fry at 350 degrees for 13 minutes
+5. Air Fry at 370 degrees for 8 minutes (give or take a few minutes)
     * Check often and we find it best to flip them periodically during the frying process
 
 #### Pictures:
