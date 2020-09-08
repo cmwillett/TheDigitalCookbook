@@ -28,6 +28,7 @@ tags: chili,main,course,dinner,homemade,craig,willett
 #### Pepper Puree Instructions
 1. Combine roasted red bell peppers (could try using pablano peppers instead), 1 tsp salt, 1/2 tsp of pepper, and extra virgin olive oil in a food processor.
 2. Puree until smooth
+* Examples:  https://www.kroger.com/r/roasted-red-bell-pepper-puree-recipe/203584 or https://www.chilipeppermadness.com/recipes/poblano-cream-sauce/
 
 #### Chili Instructions
 1. Brown ground beef, drain.
