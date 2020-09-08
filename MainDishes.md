@@ -82,6 +82,7 @@ tags: dinner,main,course,dish
 * [Chipotle Pork Chili]({{site.github.url}}/MainDishes/ChipotlePorkChili/index.html)
 * [Sweet Pepper Chili]({{site.github.url}}/MainDishes/SweetPepperChili/index.html)
 * [Jason Brooks' Chili]({{site.github.url}}/MainDishes/JasonBrooksChili/index.html)
+* [Craig's Homemade Chili]({{site.github.url}}/MainDishes/CraigsHomemadeChili/index.html)
 
 #### Fish
 * [Garlicky Lemon Baked Tilapia]({{site.github.url}}/MainDishes/GarlickyLemonBakedTilapia/index.html)
