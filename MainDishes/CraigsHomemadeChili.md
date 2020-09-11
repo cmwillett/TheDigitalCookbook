@@ -9,15 +9,16 @@ tags: chili,main,course,dinner,homemade,craig,willett
 
 #### Ingredients
 - 1 lb ground Beef
-- 1 lb bacon
+- 1/3 lb bacon
 - 1/4 cup diced onions
 - 1/4 cup diced jalapeno
 - 12 oz jar of roasted red bell peppers, chopped
 - 1/3 cup diced banana peppers
-- 3 tbsp chili powder
+- large can of diced tomatoes, drained
+- 2.5 tbsp chili powder
 - 2 tsp cumin
 - 1.5 tsp pepper
-- 2 tsp salt
+- 1 tsp salt
 - 1 tsp sugar
 - 1/2 tsp oregano
 - 2 tsp garlic powder
@@ -32,6 +33,6 @@ tags: chili,main,course,dinner,homemade,craig,willett
 
 #### Chili Instructions
 1. Brown ground beef, drain.
-2. Cook bacon and save bacon grease.
-2. Put all ingredients, except water, in a large pot (including bacon grease and pepper puree).
+2. Cook bacon.
+2. Put all ingredients, except water, in a large pot (including pepper puree).
 3. Cook until desired thickness (adding water as needed). 
