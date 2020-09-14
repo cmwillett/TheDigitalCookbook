@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### September 13th, 2020
+* [Uncle Jim's Burgers]({{site.github.url}}/MainDishes/UncleJimsBurgers/index.html)
+
 #### September 8th, 2020
 * [Craig's Homemade Chili]({{site.github.url}}/MainDishes/CraigsHomemadeChili/index.html)
 
