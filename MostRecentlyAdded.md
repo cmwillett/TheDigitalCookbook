@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### September 15th, 2020
+* [Sweet Potato Black Bean Burgers]({{site.github.url}}/MainDishes/SweetPotatoBlackBeenBurgers/index.html)
+
 #### September 13th, 2020
 * [Uncle Jim's Burgers]({{site.github.url}}/MainDishes/UncleJimsBurgers/index.html)
 

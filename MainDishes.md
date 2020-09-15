@@ -10,6 +10,7 @@ tags: dinner,main,course,dish
 <!-- TOC depthFrom:4 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Beef](#beef)
+- [Burgers](#burgers)
 - [Casseroles](#casseroles)
 - [Chicken](#chicken)
 - [Chilis](#chilis)
@@ -38,7 +39,10 @@ tags: dinner,main,course,dish
 * [Shepherd's Pie]({{site.github.url}}/MainDishes/ShepherdsPie/index.html)
 * [Taco Bake]({{site.github.url}}/MainDishes/TacoBake/index.html)
 * [Crockpot Hamburger Dish]({{site.github.url}}/MainDishes/CrockpotHamburgerDish/index.html)
+
+#### Burgers
 * [Uncle Jim's Burgers]({{site.github.url}}/MainDishes/UncleJimsBurgers/index.html)
+* [Sweet Potato Black Bean Burgers]({{site.github.url}}/MainDishes/SweetPotatoBlackBeenBurgers/index.html)
 
 #### Casseroles
 * [Tuna Casserole]({{site.github.url}}/MainDishes/TunaCasserole/index.html)
