@@ -42,7 +42,7 @@ tags: dinner,main,course,dish
 
 #### Burgers
 * [Uncle Jim's Burgers]({{site.github.url}}/MainDishes/UncleJimsBurgers/index.html)
-* [Sweet Potato Black Bean Burgers]({{site.github.url}}/MainDishes/SweetPotatoBlackBeenBurgers/index.html)
+* [Sweet Potato Black Bean Burgers]({{site.github.url}}/MainDishes/SweetPotatoBlackBeanBurgers/index.html)
 
 #### Casseroles
 * [Tuna Casserole]({{site.github.url}}/MainDishes/TunaCasserole/index.html)
