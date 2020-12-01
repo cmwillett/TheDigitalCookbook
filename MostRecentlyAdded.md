@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### November 30th, 2020
+* [Crockpot Mac N Cheese]({{site.github.url}}/Sides/CrockpotMacNCheese/index.html)
+
 #### September 15th, 2020
 * [Sweet Potato Black Bean Burgers]({{site.github.url}}/MainDishes/SweetPotatoBlackBeanBurgers/index.html)
 
