@@ -1,24 +1,13 @@
 ---
 layout: default
-title: "Craig's Top 5's"
+title: "Superbowl"
 tags: top,most,popular,favorite,favorites
 ---
-# Craig's Top 5's
+# Superbowl Stuff
 
-### My Most Favoritest Recipes on the Site!
+[Link to Total Package](https://docs.google.com/spreadsheets/d/1rWIKbFzSg1lcXDlkT7hXQpUy9cSua2HVgdHYLxroFNQ/edit?usp=sharing)
+stuff
+### $1 Squares
+<!--![]({{site.github.url}}/Camping/Images/FireOnion.jpg){:height="600px" width="600px"}-->
 
-1. [Instant Pot Apple BBQ Ribs]({{site.github.url}}/MainDishes/InstantPotAppleBBQRibs/index.html)
-  * These ribs are seriously good!
-2. [Instant Pot Italian Beef Sandwiches]({{site.github.url}}/MainDishes/InstantPotItalianBeefSandwiches/index.html)
-  * I don't know how to explain these.  I just love them.  Must have the pepperoncinis though!
-3. [Uncle Jim's White Chicken Chili]({{site.github.url}}/MainDishes/UncleJimsWhiteChickenChili/index.html)
-  * He's been making this for our campouts for years.  It's always a big hit!
-4. [Fire Onion]({{site.github.url}}/Camping/FireOnion/index.html)
-  * An old friend taught me this on a camping trip.  I've been hooked ever since!
-5. [Chicken Pot Pie]({{site.github.url}}/MainDishes/ChickenPotPie/index.html)
-  * My wife made this one time and it was instantly something the whole family could eat!
-
-#### Runner ups
-1. [Chocolate Eclair Cake]({{site.github.url}}/Desserts/ChocolateEclairCake/index.html)
-2. [Easy Crock Pot Potato Soup]({{site.github.url}}/MainDishes/EasyCrockPotPotatoSoup/index.html)
-3. [Craig's Homemade Vegetable Soup]({{site.github.url}}/MainDishes/CraigsHomemadeVegetableSoup/index.html)
+### $5 Squares
