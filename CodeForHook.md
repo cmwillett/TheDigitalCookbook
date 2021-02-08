@@ -6,7 +6,7 @@ tags: sauce,sauces,stuff
 # Code for Captain Hook
 
 ### waitForDocumentCheckCompletion
-    This checks and waits for the html to return that it has fully loaded...
+### This checks and waits for the html to return that it has fully loaded...
 ```java
 private void waitForDocumentCheckCompletion(WebDriver driver, DriverManager driverManager) {
 		if (ThreadContext.get("DOCUMENT_CHECK").toLowerCase().equals("true")) {
@@ -43,7 +43,7 @@ private void waitForDocumentCheckCompletion(WebDriver driver, DriverManager driv
 
 
 ### waitForAjaxCheckCompletion
-    This waits for any ajax/javascript to complete before moving on...
+### This waits for any ajax/javascript to complete before moving on...
 ```java
 	private void waitForAjaxCheckCompletion(WebDriver driver) {
 		if (ThreadContext.get("SYNC_AJAX").toLowerCase().equals("true")) {
