@@ -7,8 +7,7 @@ tags: sauce,sauces,stuff
 
 # waitForDocumentCheckCompletion
 ### This checks and waits for the html to return that it has fully loaded...
-### If you remove all the GAI fluff, you could just do the simple one below.  That will wait up to 
-### 30 seconds for the page to load...
+### If you remove all the GAI fluff, you could just do the simple one below.  That will wait up to 30 seconds for the page to load...
 ```java
 void waitForLoad(WebDriver driver) {
     new WebDriverWait(driver, 30).until((ExpectedCondition<Boolean>) wd ->
