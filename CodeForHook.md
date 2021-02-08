@@ -5,7 +5,7 @@ tags: sauce,sauces,stuff
 ---
 # Code for Captain Hook
 
-### waitForDocumentCheckCompletion
+# waitForDocumentCheckCompletion
 ### This checks and waits for the html to return that it has fully loaded...
 ### If you remove all the GAI fluff, you could just do the simple one below.  That will wait up to 
 ### 30 seconds for the page to load...
@@ -53,7 +53,7 @@ private void waitForDocumentCheckCompletion(WebDriver driver, DriverManager driv
 ```
 
 
-### waitForAjaxCheckCompletion
+# waitForAjaxCheckCompletion
 ### This waits for any ajax/javascript to complete before moving on...
 ### If you remove all the GAI fluff, you get:
 ```java
