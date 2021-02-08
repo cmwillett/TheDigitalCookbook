@@ -7,6 +7,17 @@ tags: sauce,sauces,stuff
 
 ### waitForDocumentCheckCompletion
 ### This checks and waits for the html to return that it has fully loaded...
+### If you remove all the GAI fluff, you could just do the simple one below.  That will wait up to 
+### 30 seconds for the page to load...
+```java
+void waitForLoad(WebDriver driver) {
+    new WebDriverWait(driver, 30).until((ExpectedCondition<Boolean>) wd ->
+            ((JavascriptExecutor) wd).executeScript("return document.readyState").equals("complete"));
+}
+```
+
+### But with the GAI fluff:
+
 ```java
 private void waitForDocumentCheckCompletion(WebDriver driver, DriverManager driverManager) {
 		if (ThreadContext.get("DOCUMENT_CHECK").toLowerCase().equals("true")) {
@@ -44,6 +55,29 @@ private void waitForDocumentCheckCompletion(WebDriver driver, DriverManager driv
 
 ### waitForAjaxCheckCompletion
 ### This waits for any ajax/javascript to complete before moving on...
+### If you remove all the GAI fluff, you get:
+```java
+public boolean waitForJSandJQueryToLoad() {
+
+    WebDriverWait wait = new WebDriverWait(driver, 30);
+
+    // wait for jQuery to load
+    ExpectedCondition<Boolean> jQueryLoad = new ExpectedCondition<Boolean>() {
+      @Override
+      public Boolean apply(WebDriver driver) {
+        try {
+          return ((Long)((JavascriptExecutor)getDriver()).executeScript("return jQuery.active") == 0);
+        }
+        catch (Exception e) {
+          // no jQuery present
+          return true;
+        }
+      }
+    };
+```
+
+### But with the GAI fluff:
+
 ```java
 	private void waitForAjaxCheckCompletion(WebDriver driver) {
 		if (ThreadContext.get("SYNC_AJAX").toLowerCase().equals("true")) {
