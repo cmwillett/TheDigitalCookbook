@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Code for Hook"
-tags: sauce,sauces
+tags: sauce,sauces,stuff
 ---
 # Code for Captain Hook
 
