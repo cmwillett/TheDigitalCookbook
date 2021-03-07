@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### March 7th, 2021
+* [Grilled Potatoes and Onions]({{site.github.url}}/Sides/GrilledPotatoesAndOnions/index.html)
+
 #### November 30th, 2020
 * [Crockpot Mac N Cheese]({{site.github.url}}/Sides/CrockpotMacNCheese/index.html)
 
