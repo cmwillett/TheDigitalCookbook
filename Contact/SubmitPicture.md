@@ -17,7 +17,7 @@ tags: submit,picture,contact,us
   </head>
   <body>
     <!--<h1>Submit an Issue</h1>-->
-    <form id="submitPicture" action="https://formspree.io/craig.willett+tdcnewpicture@gmail.com" method="POST">
+    <form id="submitPicture" action="https://formspree.io/craig.willett@gmail.com" method="POST">
       <!--<input type="hidden" name="_subject" id="_subject" value="TDC New Recipe">-->
       <b><h3>Name:</h3></b>
       <input type="text" name="Name" required><br/><br/>
