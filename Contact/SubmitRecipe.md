@@ -18,7 +18,7 @@ tags: submit,recipe,new,contact,us
   </head>
   <body>
     <!--<h1>Submit a Recipe</h1>-->
-    <form id="submitRecipe" action="https://formspree.io/craig.willett@gmail.com" method="POST">
+    <form id="submitRecipe" action="https://formspree.io/craig.willett+tdcnewrecipe@gmail.com" method="POST">
       <!--<input type="hidden" name="_subject" id="_subject" value="TDC New Recipe">-->
       <b><h3>**Name:</h3></b>
       <input type="text" name="Name" required><br/><br/>
