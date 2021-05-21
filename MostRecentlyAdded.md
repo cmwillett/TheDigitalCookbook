@@ -11,6 +11,7 @@ tags: recent,current,new,most,recently,added
 * [Mesquite Smoked Bacon Wrapped Meatloaf]({{site.github.url}}/MainDishes/MesquiteSmokedBaconWrappedMeatloaf/index.html)
 * [Slow Cooker Olive Garden Chicken Pasta]({{site.github.url}}/MainDishes/SlowCookerOliveGardenChickenPasta/index.html)
 * [Pulled Chicken (Crock Pot BBQ Chicken)]({{site.github.url}}/MainDishes/PulledChicken_CrockPotBBQChicken/index.html)
+* [Air Fryer Crispy Sweet Sesame Cauliflower]({{site.github.url}}Sides/AirFryerCrispySweetSesameCauliflower/index.html)
 
 #### March 7th, 2021
 * [Grilled Potatoes and Onions]({{site.github.url}}/Sides/GrilledPotatoesAndOnions/index.html)

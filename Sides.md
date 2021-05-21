@@ -14,6 +14,7 @@ tags: side,items,side,item,sides
 - [Beans](#beans)
 - [Bread](#bread)
 - [Carrots](#carrots)
+- [Cauliflower](#cauliflower)
 - [Corn](#corn)
 - [Mac n Cheese](#mac-n-cheese)
 - [Mushrooms](#mushrooms)
@@ -38,6 +39,9 @@ tags: side,items,side,item,sides
 
 #### Carrots
 * [Instant Pot Orange Spice Carrots]({{site.github.url}}/Sides/InstantPotOrangeSpiceCarrots/index.html)
+
+#### Cauliflower
+* [Air Fryer Crispy Sweet Sesame Cauliflower]({{site.github.url}}Sides/AirFryerCrispySweetSesameCauliflower/index.html)
 
 #### Corn
 * [Corn Casserole]({{site.github.url}}/Sides/CornCasserole/index.html)
