@@ -12,6 +12,7 @@ tags: recent,current,new,most,recently,added
 * [Slow Cooker Olive Garden Chicken Pasta]({{site.github.url}}/MainDishes/SlowCookerOliveGardenChickenPasta/index.html)
 * [Pulled Chicken (Crock Pot BBQ Chicken)]({{site.github.url}}/MainDishes/PulledChicken_CrockPotBBQChicken/index.html)
 * [Air Fryer Crispy Sweet Sesame Cauliflower]({{site.github.url}}Sides/AirFryerCrispySweetSesameCauliflower/index.html)
+* [Chicken Fajita Braid]({{site.github.url}}/MainDishes/ChickenFajitaBraid/index.html)
 
 #### March 7th, 2021
 * [Grilled Potatoes and Onions]({{site.github.url}}/Sides/GrilledPotatoesAndOnions/index.html)
