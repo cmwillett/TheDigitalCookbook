@@ -106,6 +106,7 @@ tags: dinner,main,course,dish
 * [Bacon Wrapped Philly Cheese Steak Meatloaf]({{site.github.url}}/MainDishes/BaconWrappedPhillyCheeseSteakMeatloaf/index.html)
 * [Mom's Meatloaf]({{site.github.url}}/MainDishes/MomsMeatloaf/index.html)
 * [BBQ Meatloaf]({{site.github.url}}/MainDishes/BBQMeatloaf/index.html)
+* [Mesquite Smoked Bacon Wrapped Meatloaf]({{site.github.url}}/MainDishes/MesquiteSmokedBaconWrappedMeatloaf/index.html)
 
 #### Mexican
 * [Willis's Taco Bake]({{site.github.url}}/MainDishes/WillisTacoBake/index.html)

@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### May 21st, 2021
+* [Mesquite Smoked Bacon Wrapped Meatloaf]({{site.github.url}}/MainDishes/MesquiteSmokedBaconWrappedMeatloaf/index.html)
+
 #### March 7th, 2021
 * [Grilled Potatoes and Onions]({{site.github.url}}/Sides/GrilledPotatoesAndOnions/index.html)
 
