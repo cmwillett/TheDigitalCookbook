@@ -16,6 +16,7 @@ tags: side,items,side,item,sides
 - [Carrots](#carrots)
 - [Cauliflower](#cauliflower)
 - [Corn](#corn)
+- [Eggs](#eggs)
 - [Mac n Cheese](#mac-n-cheese)
 - [Mushrooms](#mushrooms)
 - [Potatoes](#potatoes)
@@ -47,6 +48,9 @@ tags: side,items,side,item,sides
 * [Corn Casserole]({{site.github.url}}/Sides/CornCasserole/index.html)
 * [Instant Pot Corn on the Cob]({{site.github.url}}/Sides/InstantPotCornOnTheCob/index.html)
 * [Sweet Corn and Potato Gratin]({{site.github.url}}/Sides/SweetCornAndPotatoGratin/index.html)
+
+#### Eggs
+* [Microwave Scrambled Eggs]({{site.github.url}}/Sides/MicrowaveScrambledEggs/index.html)
 
 #### Mac n Cheese
 * [Instant Pot Mac N Cheese]({{site.github.url}}/Sides/InstantPotMacNCheese/index.html)

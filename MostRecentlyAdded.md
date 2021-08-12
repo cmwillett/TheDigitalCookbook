@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### August 11th, 2021
+* [Microwave Scrambled Eggs]({{site.github.url}}/Sides/MicrowaveScrambledEggs/index.html)
+
 #### May 21st, 2021
 * [Mesquite Smoked Bacon Wrapped Meatloaf]({{site.github.url}}/MainDishes/MesquiteSmokedBaconWrappedMeatloaf/index.html)
 * [Slow Cooker Olive Garden Chicken Pasta]({{site.github.url}}/MainDishes/SlowCookerOliveGardenChickenPasta/index.html)
