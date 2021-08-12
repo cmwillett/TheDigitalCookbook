@@ -9,6 +9,7 @@ tags: dessert,desserts
 ### Categories
 <!-- TOC depthFrom:4 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Breads](#breads)
 - [Cakes](#cakes)
 - [Cookies](#cookies)
 - [Healthy](#healthy)
@@ -21,6 +22,9 @@ tags: dessert,desserts
 - [Truffles](#truffles)
 
 <!-- /TOC -->
+
+#### Breads
+* [Ice Cream Bread]({{site.github.url}}/Desserts/IceCreamBread/index.html)
 
 #### Cakes
 * [Chocolate Eclair Cake]({{site.github.url}}/Desserts/ChocolateEclairCake/index.html)

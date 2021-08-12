@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### August 12th, 2021
+* [Ice Cream Bread]({{site.github.url}}/Desserts/IceCreamBread/index.html)
+
 #### August 11th, 2021
 * [Microwave Scrambled Eggs]({{site.github.url}}/Sides/MicrowaveScrambledEggs/index.html)
 
