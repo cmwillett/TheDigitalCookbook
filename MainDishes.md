@@ -16,6 +16,7 @@ tags: dinner,main,course,dish
 - [Chilis](#chilis)
 - [Fish](#fish)
 - [Ghoulashes](#ghoulashes)
+- [Grilled Cheese](#grilled-cheese)
 - [Hibachis](#hibachis)
 - [Hotdogs](#hotdogs)
 - [Meatloafs](#meatloafs)
@@ -96,6 +97,9 @@ tags: dinner,main,course,dish
 
 #### Ghoulashes
 * [Crockpot Goulash]({{site.github.url}}/MainDishes/CrockpotGoulash/index.html)
+
+#### Grilled Cheese
+* [Craig's Air Fryer Grilled Cheese]({{site.github.url}}/MainDishes/CraigsAirFryerGrilledCheese/index.html)
 
 #### Hibachis
 * [Homemade Hibachi]({{site.github.url}}/MainDishes/HomemadeHibachi/index.html)

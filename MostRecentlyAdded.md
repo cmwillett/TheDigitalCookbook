@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### August 14th, 2021
+* [Craig's Air Fryer Grilled Cheese]({{site.github.url}}/MainDishes/CraigsAirFryerGrilledCheese/index.html)
+
 #### August 12th, 2021
 * [Ice Cream Bread]({{site.github.url}}/Desserts/IceCreamBread/index.html)
 
