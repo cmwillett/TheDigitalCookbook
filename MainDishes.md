@@ -52,7 +52,7 @@ tags: dinner,main,course,dish
 * [Meat and Cheese Casserole]({{site.github.url}}/MainDishes/MeatAndCheeseCasserole/index.html)
 * [Keto Bacon Cheeseburger Casserole]({{site.github.url}}/MainDishes/KetoBaconCheeseburgerCasserole/index.html)
 * [Spicy Enchilada Casserole]({{site.github.url}}/MainDishes/SpicyEnchiladaCasserole/index.html)
-* [Craig Chicken Casserole]({{site.github.url}}/MainDishes/CrackChickenCasserole/index.html)
+* [Crack Chicken Casserole]({{site.github.url}}/MainDishes/CrackChickenCasserole/index.html)
 
 #### Chicken
 * [One Pan Garlic Herb Chicken and Asparagus]({{site.github.url}}/MainDishes/OnePanGarlicHerbChickenAndAsparagus/index.html)
