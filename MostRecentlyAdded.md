@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### August 29th, 2021
+* [Craig Chicken Casserole]({{site.github.url}}/MainDishes/CrackChickenCasserole/index.html)
+
 #### August 14th, 2021
 * [Craig's Air Fryer Grilled Cheese]({{site.github.url}}/MainDishes/CraigsAirFryerGrilledCheese/index.html)
 
