@@ -23,3 +23,6 @@ tags: crack,chicken,casserole,main,course,dinner,craig,willett,kristen
 4. Add the cream of chicken soup and sour cream. Stir to combine.
 5. Add the chicken breast and black pepper. Remove from heat.
 6. Pour contents into your prepared baking dish. Sprinkle cheese overtop. Bake in preheated oven for 30 minutes and serve immediately.
+
+#### Pictures
+![]({{site.github.url}}/MainDishes/Images/CrackChickenCasserole.jpg){:height="600px" width="600px"}
