@@ -32,5 +32,5 @@ tags: chili,main,course,dinner,homemade,craig,willett
 #### Chili Instructions
 1. Brown ground beef, drain.
 2. Cook bacon.  Crumble/Break into small chunks/pieces.
-2. Put all ingredients, except water, in a large pot (including pepper puree).
-3. Cook until desired thickness (adding water as needed). 
+3. Put all ingredients, except water, in a large pot (including pepper puree).
+4. Cook until desired thickness (adding water as needed). 
