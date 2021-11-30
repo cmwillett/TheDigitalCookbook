@@ -81,6 +81,7 @@ tags: dinner,main,course,dish
 * [Air Fryer Whole Chicken - Rotisserie Style]({{site.github.url}}/MainDishes/AirFryerWholeChickenRotisserie/index.html)
 * [Pulled Chicken (Crock Pot BBQ Chicken)]({{site.github.url}}/MainDishes/PulledChicken_CrockPotBBQChicken/index.html)
 * [Chicken Fajita Braid]({{site.github.url}}/MainDishes/ChickenFajitaBraid/index.html)
+* [French Onion Chicken Bake]({{site.github.url}}/MainDishes/FrenchOnionChickenBake/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)

@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### November 30th, 2021
+* [French Onion Chicken Bake]({{site.github.url}}/MainDishes/FrenchOnionChickenBake/index.html)
+
 #### August 29th, 2021
 * [Crack Chicken Casserole]({{site.github.url}}/MainDishes/CrackChickenCasserole/index.html)
 
