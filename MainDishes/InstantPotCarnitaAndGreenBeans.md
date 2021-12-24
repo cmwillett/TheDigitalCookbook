@@ -24,4 +24,4 @@ tags: instant,pot,pressure,cooker,carnita,green,beans,main,course,dinner,kristi,
 6. Pour brown sugar on top of pork
 7. Add butter on top of brown sugar
 8. Add spices on top of butter
-9. Set Instant Pot click 'manual' and set timer for 3 minutes, do quick release when done
+9. Set Instant Pot to high pressure and cook for 3 minutes, quick release when finished
