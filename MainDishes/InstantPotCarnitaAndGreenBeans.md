@@ -16,13 +16,12 @@ tags: instant,pot,pressure,cooker,carnita,green,beans,main,course,dinner,kristi,
 - one stick of butter (yeah, i know)
 
 #### Directions
-1. Wash Green Beans, please in pressure cooker
-2. Carnitas
-a. partially warm canitas in microwave
-b. use two forks to break apart meat
-c. place in pressure cooker
-3. Add 2 cups of water
-4. Pour brown sugar on top of pork
-5. Add butter on top of brown sugar
-6. Add spices on top of butter
-7. Set Instant Pot click 'manual' and set timer for 3 minutes, do quick release when done
+1. Wash Green Beans, place in pressure cooker
+2. Partially warm carnitas in the microwave
+3. Use two forks to break apart meat
+4. Place in pressure cooker
+5. Add 2 cups of water
+6. Pour brown sugar on top of pork
+7. Add butter on top of brown sugar
+8. Add spices on top of butter
+9. Set Instant Pot click 'manual' and set timer for 3 minutes, do quick release when done
