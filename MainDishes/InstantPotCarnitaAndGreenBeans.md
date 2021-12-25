@@ -7,7 +7,7 @@ tags: instant,pot,pressure,cooker,carnita,green,beans,main,course,dinner,kristi,
 
 #### Ingredients
 - 1 pkg fresh green beans
-- 1lb Kroger Seasoned Pork Carnitas (i actually did 2 lbs)
+- 1lb Kroger Seasoned Pork Carnitas (i actually did 2 packages of [these](https://www.kroger.com/p/kroger-seasoned-pork-carnitas/0001111096713))
 - 2 cups water
 - 1 tsp kosher salt
 - 1 tsp black pepper
@@ -17,7 +17,7 @@ tags: instant,pot,pressure,cooker,carnita,green,beans,main,course,dinner,kristi,
 
 #### Directions
 1. Wash Green Beans, place in pressure cooker
-2. Partially warm carnitas in the microwave
+2. Partially warm carnitas in the microwave (i just followed the instructions on the package)
 3. Use two forks to break apart meat
 4. Place in pressure cooker
 5. Add 2 cups of water
