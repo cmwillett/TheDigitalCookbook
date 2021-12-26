@@ -167,7 +167,7 @@ tags: recent,current,new,most,recently,added
 * [Blueberry Kuchen]({{site.github.url}}/Desserts/BlueberryKuchen/index.html)
 
 #### February 7th, 2019
-* [Instant Pot Tuna Casserole]({{site.github.url}}/MainDishes/InstantPotTunaCasserole/index.html)
+* [Instant Pot Easy Cheesy Tuna Casserole]({{site.github.url}}/MainDishes/InstantPotEasyCheesyTunaCasserole/index.html)
 * [Instant Pot Marinated Mushrooms]({{site.github.url}}/Sides/InstantPotMarinatedMushrooms/index.html)
 * [Instant Pot Orange Spice Carrots]({{site.github.url}}/Sides/InstantPotOrangeSpiceCarrots/index.html)
 * [Instant Pot Lemon Red Potatoes]({{site.github.url}}/Sides/InstantPotLemonRedPotatoes/index.html)
