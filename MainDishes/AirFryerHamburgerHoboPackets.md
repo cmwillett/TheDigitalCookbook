@@ -22,4 +22,4 @@ tags: main,course,dinner,hamburger,air,fryer,hobo,packets
 5. Seal foil and place in the air fryer seam side up. Cook for 20 - 25 mins.
 
 #### Pictures
-![]({{site.github.url}}/MainDishes/Images/AirFryerHamburgerHoboPackets.jpg){:height="600px" width="600px"}
+![]({{site.github.url}}/MainDishes/Images/AirFryerHamburgerHoboPackets.jpeg){:height="600px" width="600px"}
