@@ -16,6 +16,7 @@ tags: recent,current,new,most,recently,added
 * [Quiche]({{site.github.url}}/Breakfast/Quiche/index.html)
 * [Air Fryer Hamburger HOBO Packets]({{site.github.url}}/MainDishes/AirFryerHamburgerHoboPackets/index.html)
 * [Key Lime Cream Pie]({{site.github.url}}/Desserts/KeyLimeCreamPie/index.html)
+* [French Onion Baked Chicken]({{site.github.url}}/MainDishes/FrenchOnionBakedChicken/index.html)
 
 #### November 30th, 2021
 * [French Onion Chicken Bake]({{site.github.url}}/MainDishes/FrenchOnionChickenBake/index.html)

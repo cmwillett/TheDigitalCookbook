@@ -84,6 +84,7 @@ tags: dinner,main,course,dish
 * [Pulled Chicken (Crock Pot BBQ Chicken)]({{site.github.url}}/MainDishes/PulledChicken_CrockPotBBQChicken/index.html)
 * [Chicken Fajita Braid]({{site.github.url}}/MainDishes/ChickenFajitaBraid/index.html)
 * [French Onion Chicken Bake]({{site.github.url}}/MainDishes/FrenchOnionChickenBake/index.html)
+* [French Onion Baked Chicken]({{site.github.url}}/MainDishes/FrenchOnionBakedChicken/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)
