@@ -15,6 +15,7 @@ tags: dessert,desserts
 - [Healthy](#healthy)
 - [Muffins](#muffins)
 - [Peanut Butter](#peanut-butter)
+- [Pies](#pies)
 - [Puddings](#puddings)
 - [Pumpkin](#pumpkin)
 - [Smores](#smores)
@@ -44,6 +45,9 @@ tags: dessert,desserts
 
 #### Peanut Butter
 * [Peanut Butter Snowballs]({{site.github.url}}/Desserts/PeanutButterSnowballs/index.html)
+
+#### Pies
+* [Key Lime Cream Pie]({{site.github.url}}/Desserts/KeyLimeCreamPie/index.html)
 
 #### Puddings
 * [Cocoa Vanilla Pudding]({{site.github.url}}/Desserts/CocoaVanillaPudding/index.html)
