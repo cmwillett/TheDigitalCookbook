@@ -65,5 +65,8 @@ tags: finger,foods,appetizer,snack,dips,dip
 * [Baked Hammies]({{site.github.url}}/AppetizerDips/BakedHammies/index.html)
 * [Chicken Parmesan Slider Bake]({{site.github.url}}/AppetizerDips/ChickenParmesanSliderBake/index.html)
 
+#### Sausage
+* [Sausage Balls]({{site.github.url}}/AppetizerDips/SausageBalls/index.html)
+
 #### Wings
 * [Instant Pot Chicken Wings]({{site.github.url}}/AppetizerDips/InstantPotChickenWings/index.html)
