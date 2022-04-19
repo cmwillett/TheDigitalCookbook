@@ -13,6 +13,7 @@ tags: recent,current,new,most,recently,added
 * [Fried Mashed Potato Balls]({{site.github.url}}/Sides/FriedMashedPotatoBalls/index.html)
 * [World's Best Mashed Potatoes]({{site.github.url}}/Sides/WorldsBestMashedPotatoes/index.html)
 * [Sausage Balls]({{site.github.url}}/AppetizerDips/SausageBalls/index.html)
+* [Quiche]({{site.github.url}}/Breakfast/Quiche/index.html)
 
 #### November 30th, 2021
 * [French Onion Chicken Bake]({{site.github.url}}/MainDishes/FrenchOnionChickenBake/index.html)
