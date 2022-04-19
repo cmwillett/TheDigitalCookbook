@@ -42,3 +42,4 @@ tags: breakfast
 
 #### Pancakes
 * [Instant Pot Giant Pancake]({{site.github.url}}/Breakfast/InstantPotGiantPancake/index.html)
+* [German Pancakes]({{site.github.url}}/Breakfast/GermanPancakes/index.html)
