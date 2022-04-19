@@ -66,3 +66,4 @@ tags: side,items,side,item,sides
 * [The Best Sweet Potato Casserole]({{site.github.url}}/Sides/TheBestSweetPotatoCasserole/index.html)
 * [Grilled Potatoes and Onions]({{site.github.url}}/Sides/GrilledPotatoesAndOnions/index.html)
 * [Fried Mashed Potato Balls]({{site.github.url}}/Sides/FriedMashedPotatoBalls/index.html)
+* [World's Best Mashed Potatoes]({{site.github.url}}/Sides/WorldsBestMashedPotatoes/index.html)
