@@ -9,7 +9,7 @@ tags: sausage,balls,appetizer,sides,side,item,items,craig,kristen,willett
 - 1 pound sausage, uncooked
 - 1 cup cheddar cheese, shredded
 - 2 1/2 cups baking mix (such as Bisquick)
-- dipping sauce of your choice, optional, for serving
+- dipping sauce of your choice, optional, for serving (syrup sounds good)
 
 #### DIRECTIONS
 1. Preheat your oven to 325 degrees F.
