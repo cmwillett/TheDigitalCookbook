@@ -41,6 +41,7 @@ tags: dinner,main,course,dish
 * [Taco Bake]({{site.github.url}}/MainDishes/TacoBake/index.html)
 * [Crockpot Hamburger Dish]({{site.github.url}}/MainDishes/CrockpotHamburgerDish/index.html)
 * [Slow Cooker Swiss Steak]({{site.github.url}}/MainDishes/SlowCookerSwissSteak/index.html)
+* [Air Fryer Hamburger HOBO Packets]({{site.github.url}}/MainDishes/AirFryerHamburgerHoboPackets/index.html)
 
 #### Burgers
 * [Uncle Jim's Burgers]({{site.github.url}}/MainDishes/UncleJimsBurgers/index.html)
