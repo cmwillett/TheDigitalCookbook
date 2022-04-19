@@ -28,3 +28,6 @@ tags: fried,mashed,potatoes,sides,side,item,items,craig,kristen,willett
 8. In small batches, fry the mashed potato balls until golden brown, for about 2-3 minutes. Frying in small batches keeps the oil from becoming too cold and thus ruining the cooking process.
 9. Once done, remove the mashed balls with a slotted spoon and drain them on paper towels.
 10. Season with salt and pepper and serve immediately.
+
+#### Pictures
+![]({{site.github.url}}/Sides/Images/FriedMashedPotatoBalls.jpeg){:height="600px" width="600px"}
