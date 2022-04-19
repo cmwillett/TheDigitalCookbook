@@ -40,6 +40,7 @@ tags: dinner,main,course,dish
 * [Shepherd's Pie]({{site.github.url}}/MainDishes/ShepherdsPie/index.html)
 * [Taco Bake]({{site.github.url}}/MainDishes/TacoBake/index.html)
 * [Crockpot Hamburger Dish]({{site.github.url}}/MainDishes/CrockpotHamburgerDish/index.html)
+* [Slow Cooker Swiss Steak]({{site.github.url}}/MainDishes/SlowCookerSwissSteak/index.html)
 
 #### Burgers
 * [Uncle Jim's Burgers]({{site.github.url}}/MainDishes/UncleJimsBurgers/index.html)

@@ -9,6 +9,7 @@ tags: recent,current,new,most,recently,added
 
 #### April 19th, 2022
 * [German Pancakes]({{site.github.url}}/Breakfast/GermanPancakes/index.html)
+* [Slow Cooker Swiss Steak]({{site.github.url}}/MainDishes/SlowCookerSwissSteak/index.html)
 
 #### November 30th, 2021
 * [French Onion Chicken Bake]({{site.github.url}}/MainDishes/FrenchOnionChickenBake/index.html)
