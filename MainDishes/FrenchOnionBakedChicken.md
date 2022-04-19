@@ -3,7 +3,7 @@ layout: default
 title: "French Onion Baked Chicken"
 tags: dinner,main,dish,french,onion,baked,chicken,craig,willett
 ---
-# French Onion Backed Chicken
+# French Onion Baked Chicken
 
 #### Ingredients:
 - 3 tablespoons butter
