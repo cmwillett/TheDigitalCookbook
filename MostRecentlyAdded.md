@@ -8,7 +8,7 @@ tags: recent,current,new,most,recently,added
 ### The most recently added recipes that we've added to the site...
 
 #### July 3rd, 2022
-* [Muffin Pan Cheesy Eggs]({{site.github.url}}/MuffinPanCheesyEggs/index.html)
+* [Muffin Pan Cheesy Eggs]({{site.github.url}}/Breakfast/MuffinPanCheesyEggs/index.html)
 
 #### April 19th, 2022
 * [German Pancakes]({{site.github.url}}/Breakfast/GermanPancakes/index.html)

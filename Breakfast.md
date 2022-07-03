@@ -36,7 +36,7 @@ tags: breakfast
 * [The New Year's Omelet]({{site.github.url}}/Breakfast/TheNewYearsOmelet/index.html)
 * [Pulled Pork and Eggs]({{site.github.url}}/Breakfast/PulledPorkAndEggs/index.html)
 * [Air-Fryer Ham and Egg Pockets]({{site.github.url}}/Breakfast/AirFryerHamAndEggPockets/index.html)
-* [Muffin Pan Cheesy Eggs]({{site.github.url}}/MuffinPanCheesyEggs/index.html)
+* [Muffin Pan Cheesy Eggs]({{site.github.url}}/Breakfast/MuffinPanCheesyEggs/index.html)
 
 #### Oatmeal
 * [Amish Baked Oatmeal]({{site.github.url}}/Breakfast/AmishBakedOatmeal/index.html)
