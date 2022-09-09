@@ -10,18 +10,21 @@ tags: breakfast,cheesecake,danish,kristen,craig,willett
 #### Ingredients
 - 2 cans of Pillsbury Crescent Rolls
 - 2 8.0 oz packages of cream cheese, softened
-- 1.5 tsp vanilla
-- 1/4 cup butter, melted
-- cinnamon
-- sugar
+- 1 tsp vanilla
+- 1 egg
+- 1 egg white
+- 1 cup sugar
+
+#### Glaze (optional)
+1. Mix together until smooth:  1/2 cup powdered sugar, 2 tbs of milk, 1/2 tsp vanilla extract.
 
 #### Directions
-1. Unroll and spread 1 of the cans of crescent rolls on the bottom of a 9 x 13 baking dish (or 8 x 8 if you want to cut the recipe in half).
-2. Combine softened cream cheese, 1 cup of sugar, and vanilla.
-3. Spread over crescent roll layer.
-4. Unroll and layer remaining crescent rolls over cream cheese layer.
-5. Melt your butter and spread over top of crescent rolls.
-6. Sprinkle generously with cinnamon and sugar.
-7. Bake for 20 - 30 minutes in 350F oven until bubbly and slightly browned.
-8. Drizzle with a little honey if you like.
-9. Let cool a bit, slice and eat.
+1. Preheat oven to 350
+2. Grease a 13 x 9 inch baking pan
+3. Lay a pack of crescent rolls in the pan and pinch the openings together.
+4. Beat the cream cheese, sugar, vanilla, and egg together until smooth.
+5. Spread the mixture over the crescent rolls evenly and then lay the second pack of crescent rolls on top of the cheese mixture.
+6. Brush with egg white
+7. Bake for 35 - 45 minutes until the top is golden brown
+8. Let cool for 20 minutes
+9. Top with glaze (optional)
