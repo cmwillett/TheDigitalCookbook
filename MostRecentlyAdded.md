@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### September 15th, 2022
+* [Craig's Beef Jerky]({{site.github.url}}/Snacks/CraigsBeefJerky/index.html)
+
 #### July 3rd, 2022
 * [Muffin Pan Cheesy Eggs]({{site.github.url}}/Breakfast/MuffinPanCheesyEggs/index.html)
 

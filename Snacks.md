@@ -9,12 +9,16 @@ tags: snacks
 ### Snacks
 <!-- TOC depthFrom:4 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Beef Jerky](#beef-jerky)
 - [Party Mixes](#party-mixes)
 - [Popcorns](#popcorns)
 - [Sandwiches](#sandwiches)
 - [Toasts](#toasts)
 
 <!-- /TOC -->
+
+#### Beef Jerky
+- [Craig's Beef Jerky]({{site.github.url}}/Snacks/CraigsBeefJerky/index.html)
 
 #### Party Mixes
 * [Chex Party Mix]({{site.github.url}}/Snacks/ChexPartyMix/index.html)
