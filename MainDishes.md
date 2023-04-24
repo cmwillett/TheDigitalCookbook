@@ -183,6 +183,7 @@ tags: dinner,main,course,dish
 * [Chicken Noodle Soup]({{site.github.url}}/MainDishes/ChickenNoodleSoup/index.html)
 * [Spinach White Bean Soup]({{site.github.url}}/MainDishes/SpinachWhiteBeanSoup/index.html)
 * [Slow Cooker Stuffed Pepper Soup]({{site.github.url}}/MainDishes/SlowCookerStuffedPepperSoup/index.html)
+* [7 Can Soup]({{site.github.url}}/MainDishes/SevenCanSoup/index.html)
 
 #### Stews
 * [Instant Pot Vegetable Beef Stew]({{site.github.url}}/MainDishes/InstantPotVegetableBeefStew/index.html)

@@ -13,6 +13,7 @@ tags: recent,current,new,most,recently,added
 * [Quick Chicken Noodle Casserole]({{site.github.url}}/MainDishes/QuickChickenNoodleCasserole/index.html)
 * [Pot Roast Meatballs]({{site.github.url}}/MainDishes/PotRoastMeatballs/index.html)
 * [Texas Cowboy Stew]({{site.github.url}}/MainDishes/TexasCowboyStew/index.html)
+* [7 Can Soup]({{site.github.url}}/MainDishes/SevenCanSoup/index.html)
 
 #### September 15th, 2022
 * [Craig's Beef Jerky]({{site.github.url}}/Snacks/CraigsBeefJerky/index.html)
