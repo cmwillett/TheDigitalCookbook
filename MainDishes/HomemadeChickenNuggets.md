@@ -24,4 +24,3 @@ tags: chicken,nuggets,nugget,homemade,main,course,dinner,craig,willett,kristen,r
 
 #### Video:
 [Homemade Chicke Nuggets](https://www.facebook.com/reel/713925660507550?mibextid=9drbnH&s=yWDuG2&fs=e)
-test
