@@ -10,6 +10,7 @@ tags: recent,current,new,most,recently,added
 #### April 24th, 2023
 * [Homemade Chicken Nuggets]({{site.github.url}}/MainDishes/HomemadeChickenNuggets/index.html)
 * [Loaded Cheesy Pocket Tacos]({{site.github.url}}/MainDishes/LoadedCheesyPocketTacos/index.html)
+* [Quick Chicken Noodle Casserole]({{site.github.url}}/MainDishes/QuickChickenNoodleCasserole/index.html)
 
 #### September 15th, 2022
 * [Craig's Beef Jerky]({{site.github.url}}/Snacks/CraigsBeefJerky/index.html)
