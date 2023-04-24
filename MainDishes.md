@@ -188,6 +188,7 @@ tags: dinner,main,course,dish
 * [Instant Pot Vegetable Beef Stew]({{site.github.url}}/MainDishes/InstantPotVegetableBeefStew/index.html)
 * [Instant Pot 5 Spice Beef Stew]({{site.github.url}}/MainDishes/InstantPotFiveSpiceBeefStew/index.html)
 * [No Peek Beef Stew]({{site.github.url}}/MainDishes/NoPeekBeefStew/index.html)
+* [Texas Cowboy Stew]({{site.github.url}}/MainDishes/TexasCowboyStew/index.html)
 
 #### Thai
 * [Turkey Thai Curry]({{site.github.url}}/MainDishes/TurkeyThaiCurry/index.html)
