@@ -42,6 +42,7 @@ tags: dinner,main,course,dish
 * [Crockpot Hamburger Dish]({{site.github.url}}/MainDishes/CrockpotHamburgerDish/index.html)
 * [Slow Cooker Swiss Steak]({{site.github.url}}/MainDishes/SlowCookerSwissSteak/index.html)
 * [Air Fryer Hamburger HOBO Packets]({{site.github.url}}/MainDishes/AirFryerHamburgerHoboPackets/index.html)
+* [Loaded Cheesy Pocket Tacos]({{site.github.url}}/MainDishes/LoadedCheesyPocketTacos/index.html)
 
 #### Burgers
 * [Uncle Jim's Burgers]({{site.github.url}}/MainDishes/UncleJimsBurgers/index.html)
@@ -86,6 +87,7 @@ tags: dinner,main,course,dish
 * [French Onion Chicken Bake]({{site.github.url}}/MainDishes/FrenchOnionChickenBake/index.html)
 * [French Onion Baked Chicken]({{site.github.url}}/MainDishes/FrenchOnionBakedChicken/index.html)
 * [Sticky Finger Wraps]({{site.github.url}}/MainDishes/StickyFingerWraps/index.html)
+* [Homemade Chicken Nuggets]({{site.github.url}}/MainDishes/HomemadeChickenNuggets/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)
