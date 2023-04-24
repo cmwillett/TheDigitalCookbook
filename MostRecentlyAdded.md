@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+### April 24th, 2023
+* [Homemade Chicken Nuggets]({{site.github.url}}/MainDishes/HomemadeChickenNuggets/index.html)
+
 #### September 15th, 2022
 * [Craig's Beef Jerky]({{site.github.url}}/Snacks/CraigsBeefJerky/index.html)
 

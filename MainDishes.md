@@ -86,6 +86,7 @@ tags: dinner,main,course,dish
 * [French Onion Chicken Bake]({{site.github.url}}/MainDishes/FrenchOnionChickenBake/index.html)
 * [French Onion Baked Chicken]({{site.github.url}}/MainDishes/FrenchOnionBakedChicken/index.html)
 * [Sticky Finger Wraps]({{site.github.url}}/MainDishes/StickyFingerWraps/index.html)
+* [Homemade Chicken Nuggets]({{site.github.url}}/MainDishes/HomemadeChickenNuggets/index.html)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)
