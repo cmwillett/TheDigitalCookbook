@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### April 27th, 2023
+* [Tennessee Onions]({{site.github.url}}/AppetizerDips/TennesseeOnions/index.html)
+
 #### April 24th, 2023
 * [Homemade Chicken Nuggets]({{site.github.url}}/MainDishes/HomemadeChickenNuggets/index.html)
 * [Loaded Cheesy Pocket Tacos]({{site.github.url}}/MainDishes/LoadedCheesyPocketTacos/index.html)

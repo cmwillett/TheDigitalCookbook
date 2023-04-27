@@ -15,6 +15,7 @@ tags: finger,foods,appetizer,snack,dips,dip
 - [Egg Rolls](#egg-rolls)
 - [Meatballs](#meatballs)
 - [Mozzarella Sticks](#mozzarella-sticks)
+- [Onions](#onions)
 - [Potatoes](#potatoes)
 - [Pot Pies](#pot-pies)
 - [Rollups](#rollups)
@@ -44,6 +45,9 @@ tags: finger,foods,appetizer,snack,dips,dip
 
 #### Mozzarella Sticks
 * [Air Fryer Mozzarella Sticks]({{site.github.url}}/AppetizerDips/AirFryerMozzarellaSticks/index.html)
+
+#### Onions
+* [Tennessee Onions]({{site.github.url}}/AppetizerDips/TennesseeOnions/index.html)
 
 #### Potatoes
 * [Fried Mashed Potato Balls]({{site.github.url}}/Sides/FriedMashedPotatoBalls/index.html)
