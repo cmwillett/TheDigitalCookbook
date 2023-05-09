@@ -58,6 +58,7 @@ tags: dinner,main,course,dish
 * [Spicy Enchilada Casserole]({{site.github.url}}/MainDishes/SpicyEnchiladaCasserole/index.html)
 * [Crack Chicken Casserole]({{site.github.url}}/MainDishes/CrackChickenCasserole/index.html)
 * [Quick Chicken Noodle Casserole]({{site.github.url}}/MainDishes/QuickChickenNoodleCasserole/index.html)
+* [Mixed Vegetable Casserole]({{site.github.url}}/MainDishes/MixedVegetableCasserole/index.html)
 
 #### Chicken
 * [One Pan Garlic Herb Chicken and Asparagus]({{site.github.url}}/MainDishes/OnePanGarlicHerbChickenAndAsparagus/index.html)

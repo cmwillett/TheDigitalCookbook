@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### May 9th, 2023
+* [Mixed Vegetable Casserole]({{site.github.url}}/MainDishes/MixedVegetableCasserole/index.html)
+
 #### April 27th, 2023
 * [Tennessee Onions]({{site.github.url}}/AppetizerDips/TennesseeOnions/index.html)
 
