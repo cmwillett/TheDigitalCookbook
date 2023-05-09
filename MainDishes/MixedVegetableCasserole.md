@@ -5,8 +5,9 @@ tags: mixed,vegetable,casserole,instant,pot,easy,main,course,dinner,homemade,cra
 ---
 # Mixed Vegetable Casserole
 
+### The veggies can obviously vary - just be wary of using things like zucchini and/or tomatoes.  I used Italian style green beans, peas & carrots, corn, and cauliflower...
+
 #### Vegetables
-These can obviously vary - just be wary of using things like zucchini and/or tomatoes.  I used Italian style green beans, peas & carrots, corn, and cauliflower...
 - 1 cup Green beans (100 grams, chopped)
 - 1 cup Carrots (100 grams, diced)
 - 1 cup Corn kernels (Frozen or fresh)
