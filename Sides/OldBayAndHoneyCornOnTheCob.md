@@ -20,3 +20,6 @@ tags: corn,honey,old,bay,cob,sides,side,item,items,craig,kristen,willett
 6. Pour some honey over the corn
 7. Wrap the corn with aluminimun foil
 8. Put on the grill and cook 
+
+#### Video Link
+[Old Bay and Honey Corn on the Cob](https://www.tiktok.com/@pistol2214/video/7243112709556899115?_r=1&_t=8d5lneSDm1O)
