@@ -48,6 +48,7 @@ tags: side,items,side,item,sides
 * [Corn Casserole]({{site.github.url}}/Sides/CornCasserole/index.html)
 * [Instant Pot Corn on the Cob]({{site.github.url}}/Sides/InstantPotCornOnTheCob/index.html)
 * [Sweet Corn and Potato Gratin]({{site.github.url}}/Sides/SweetCornAndPotatoGratin/index.html)
+* [Old Bay and Honey Corn on the Cob]({{site.github.url}}/Sides/OldBayAndHoneyCornOnTheCob/index.html)
 
 #### Eggs
 * [Microwave Scrambled Eggs]({{site.github.url}}/Sides/MicrowaveScrambledEggs/index.html)
