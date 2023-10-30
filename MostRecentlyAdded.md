@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### October 29th, 2023
+* [Snickers Salad]({{site.github.url}}/Desserts/SnickersSalad/index.html)
+
 #### June 19th, 2023
 * [Old Bay and Honey Corn on the Cob]({{site.github.url}}/Sides/OldBayAndHoneyCornOnTheCob/index.html)
 

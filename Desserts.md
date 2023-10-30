@@ -18,6 +18,7 @@ tags: dessert,desserts
 - [Pies](#pies)
 - [Puddings](#puddings)
 - [Pumpkin](#pumpkin)
+- [Salads](#salads)
 - [Smores](#smores)
 - [Trifles](#Trifles)
 - [Truffles](#truffles)
@@ -54,6 +55,9 @@ tags: dessert,desserts
 
 #### Pumpkin
 * [Slow Cooker Pumpkin Apple Dessert]({{site.github.url}}/Desserts/SlowCookerPumpkinAppleDessert/index.html)
+
+#### Salads
+* [Snickers Salad]({{site.github.url}}/Desserts/SnickersSalad/index.html)
 
 #### Smores
 * [Sheet Pan S'mores]({{site.github.url}}/Desserts/SheetPanSmores/index.html)
