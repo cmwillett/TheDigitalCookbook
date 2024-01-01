@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### December 31st, 2023
+* [Italian Meatloaf]({{site.github.url}}/MainDishes/ItalianMeatloaf/index.html)
+
 #### October 29th, 2023
 * [Snickers Salad]({{site.github.url}}/Desserts/SnickersSalad/index.html)
 
