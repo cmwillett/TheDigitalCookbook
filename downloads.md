@@ -1,1 +1,1 @@
-[Download CBK](./CBK.apk "download")
+[Download CBK](CBK.apk "download")
