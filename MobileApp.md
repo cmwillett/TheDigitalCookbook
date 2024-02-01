@@ -7,7 +7,7 @@ tags: android,app,download
 
 [Download the TDC app here and follow the instructions below...]({{site.github.url}}/TDC.apk "download")
 
-1. Click the link above
+1. Click the link above - you will be warned that the file can be harmful ->  this is just because the app isn't coming from the official google play store...
 
 2. Choose Download/Install
 
