@@ -3,7 +3,7 @@ layout: default
 title: "Android App"
 tags: android,app,download
 ---
-### Want the app for your phone?  Sorry, all I have is Android.  But it's coming soon!
+### Want the app for your phone?  Sorry, all I have is Android.  If anyone out there is an Apple Developer and wants to build me an iOS app, let me know!  I already have the code...
 
 [Download the TDC app here and follow the instructions below...]({{site.github.url}}/TDC.apk "download")
 
