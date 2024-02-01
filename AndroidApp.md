@@ -7,17 +7,17 @@ tags: android,app,download
 
 [Download the TDC app here and follow the instructions below...]({{site.github.url}}/TDC.apk "download")
 
-* Click the link above
+1. Click the link above
 
-* Choose Download/Install
+2. Choose Download/Install
 
     ![]({{site.github.url}}/tdcInstall1.jpg){:height="600px" width="400px"}
 
-* Probably have to click on the "More..." option if the "Unsafe app blocked" window comes up.  Then click "Install anyway"
+3. Probably have to click on the "More..." option if the "Unsafe app blocked" window comes up.  Then click "Install anyway"
 
     ![]({{site.github.url}}/tdcInstall2.jpg){:height="600px" width="400px"}
 
-* App should install just fine and then click open/done
+4. App should install just fine and then click open/done
 
     ![]({{site.github.url}}/tdcInstall3.jpg){:height="600px" width="400px"}
 
