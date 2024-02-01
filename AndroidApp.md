@@ -8,6 +8,7 @@ tags: android,app,download
 [Download the TDC app here and follow the instructions below...]({{site.github.url}}/TDC.apk "download")
 
 * Click the link above
+
 * Choose Download/Install
 
         ![]({{site.github.url}}/tdcInstall1.jpg){:height="600px" width="400px"}
