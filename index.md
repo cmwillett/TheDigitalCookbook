@@ -1,6 +1,6 @@
 ---
 layout:         default
-title:          "Home Page"
+title:          "HomePage"
 tags: home
 ---
 ### Welcome to The Digital Cookbook
