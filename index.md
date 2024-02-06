@@ -1,6 +1,6 @@
 ---
 layout:         default
-title:          "HomePage"
+title:          "Home Page"
 tags: home
 ---
 ### Welcome to The Digital Cookbook
@@ -21,5 +21,3 @@ Here I will store all recipes I come across - well, not all, but the ones that a
   * If you have a recipe for me to try and/or want one added to the site!
   * Or you found a broken link, misspelled word, etc., don't hesitate to let us know!
   * Or if you just want to give some feedback about something!
-
-<div id='downloads'>...</div>
