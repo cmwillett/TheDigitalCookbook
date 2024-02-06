@@ -21,3 +21,5 @@ Here I will store all recipes I come across - well, not all, but the ones that a
   * If you have a recipe for me to try and/or want one added to the site!
   * Or you found a broken link, misspelled word, etc., don't hesitate to let us know!
   * Or if you just want to give some feedback about something!
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcmwillett.github.io%2FTheDigitalCookbook%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

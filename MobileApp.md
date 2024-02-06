@@ -21,6 +21,8 @@ tags: android,app,download
 
     ![]({{site.github.url}}/tdcInstall3.jpg){:height="600px" width="400px"}
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcmwillett.github.io%2FTheDigitalCookbook%2FMobileApp%2Findex.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--If any of the links below don't work for you, just email me at:  craig.willett@gmail.com
 
 * [Submit a Recipe]({{site.github.url}}/Contact/SubmitRecipe/index.html)
