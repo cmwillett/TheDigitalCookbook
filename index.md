@@ -22,4 +22,4 @@ Here I will store all recipes I come across - well, not all, but the ones that a
   * Or you found a broken link, misspelled word, etc., don't hesitate to let us know!
   * Or if you just want to give some feedback about something!
 
-<div id='visits'>...</div>
+<div id='downloads'>...</div>
