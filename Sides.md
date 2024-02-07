@@ -8,7 +8,7 @@ tags: side,items,side,item,sides
         document.getElementById('visits').innerText = response.value;
     }
 </script>
-<script async src="https://api.countapi.xyz/hit/cmwillett.github.io/TheDigitalCookbookSides/visits??callback=cb"></script>
+<script async src="https://api.countapi.xyz/hit/cmwillett.github.io/TheDigitalCookbookSides/visits?callback=cb"></script>
 <div id="visits"></div>
 # Side Items
 * We love side items - usually more than the main course!
