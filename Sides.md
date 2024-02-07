@@ -4,7 +4,7 @@ title: "Side Items"
 tags: side,items,side,item,sides
 ---
 <div id="visits"></div>
-<button onclick="clicked()">Press Me!</button>
+<button onclick="clicked()" src="https://api.countapi.xyz/hit/cwillett.github.io/TheDigitalCookbookSides?callback=cb">Press Me!</button>
 <script>
 function clicked() {
     const para = document.createElement("p");
@@ -12,6 +12,9 @@ function clicked() {
     para.appendChild(node);
     const element = document.getElementById("visits");
     element.appendChild(para);
+}
+function cb(response) {
+    document.getElementById("visits").innerText=response.value;
 }
 </script>
 
