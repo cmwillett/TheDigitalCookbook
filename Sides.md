@@ -7,17 +7,11 @@ tags: side,items,side,item,sides
 <button onclick="clicked()">Press Me!</button>
 <script>
 function clicked() {
-    var xhr = new XMLHttpRequest();
-    xhr.open("GET", "https://api.countapi.xyz/hit/cmwillett.github.ioTheDigitalCookbook/awesomeclick");
-    xhr.responseType = "json";
-    xhr.onload = function() {
-        const para = document.createElement("p");
-        const node = document.createTextNode("Hello there");
-        para.appendChild(node);
-        const element = document.getElementById("visits");
-        element.appendChild(para);
-    }
-    xhr.send();
+    const para = document.createElement("p");
+    const node = document.createTextNode("Hello there");
+    para.appendChild(node);
+    const element = document.getElementById("visits");
+    element.appendChild(para);
 }
 </script>
 
