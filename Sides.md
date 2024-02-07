@@ -3,8 +3,13 @@ layout: default
 title: "Side Items"
 tags: side,items,side,item,sides
 ---
- <a href='http://www.freevisitorcounters.com'>http://freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=9c624a81ad2fbf9c9741665b48b76698450ce4b8'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1138782/t/2"></script>
+<div id='visits'>...</div>
+<script type="text/javascript">
+    function cb(response) {
+        document.getElementById("visits").innerText=response.value;
+    }
+</script>
+<script async src="https://api.countapi.xyz/hit/cmwillett.github.io/TheDigitalCookbook/visits?callback=cb"></script>
 
 # Side Items
 * We love side items - usually more than the main course!
