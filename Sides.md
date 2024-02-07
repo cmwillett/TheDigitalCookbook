@@ -3,7 +3,13 @@ layout: default
 title: "Side Items"
 tags: side,items,side,item,sides
 ---
-<div id="visits"></div>
+<div id="visits">...</div>
+<script>
+    function cb(response) {
+        document.getElementById("visits").innerText=response.value;
+    }
+</script>
+<script async src="https://api.countapi.xyz/hit/cmwillett.github.io/TheDigitalCookbook?callback=cb"></script>
 <button onclick="cb()" src="https://api.countapi.xyz/hit/cwillett.github.io/TheDigitalCookbookSides?callback=cb">Press Me!</button>
 <script>
 function clicked() {
