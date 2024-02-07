@@ -24,6 +24,8 @@ tags: android,app,download
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={{site.github.url}}%2FMobileApp%2Findex.html&count_bg=%2379C83D&title_bg=%23AE1212&icon=ifood.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Total](https://hits.seeyoufarm.com/api/count/keep/badge.svg?url={{site.github.url}}%2FMobileApp%2Findex.html)](https://hits.seeyoufarm.com)
+
 <!--If any of the links below don't work for you, just email me at:  craig.willett@gmail.com
 
 * [Submit a Recipe]({{site.github.url}}/Contact/SubmitRecipe/index.html)
