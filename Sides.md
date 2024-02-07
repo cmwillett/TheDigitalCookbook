@@ -3,6 +3,7 @@ layout: default
 title: "Side Items"
 tags: side,items,side,item,sides
 ---
+<div id="visits"></div>
 <button onclick="clicked()">Press Me!</button>
 <script>
 function clicked() {
@@ -10,7 +11,11 @@ function clicked() {
     xhr.open("GET", "https://api.countapi.xyz/hit/cmwillett.github.ioTheDigitalCookbook/awesomeclick");
     xhr.responseType = "json";
     xhr.onload = function() {
-        alert(`This button has been clicked ${this.response.value} times!`);
+        const para = document.createElement("p");
+        const node = document.createTextNode("Hello there");
+        para.appendChild(node);
+        const element = document.getElementById("visits");
+        element.appendChild(para);
     }
     xhr.send();
 }
