@@ -3,13 +3,18 @@ layout: default
 title: "Side Items"
 tags: side,items,side,item,sides
 ---
-<div id='visits'>...</div>
-<script type="text/javascript">
-    function cb(response) {
-        document.getElementById("visits").innerText=response.value;
+<button onclick="clicked()">Press Me!</button>
+<script>
+function clicked() {
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", "https://api.countapi.xyz/hit/cmwillett.github.ioTheDigitalCookbook/awesomeclick");
+    xhr.responseType = "json";
+    xhr.onload = function() {
+        alert(`This button has been clicked ${this.response.value} times!`);
     }
+    xhr.send();
+}
 </script>
-<script type="text/javascript" async src="https://api.countapi.xyz/hit/cmwillett.github.io/TheDigitalCookbook/visits?callback=cb"></script>
 
 # Side Items
 * We love side items - usually more than the main course!
