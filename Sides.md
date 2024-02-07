@@ -9,7 +9,7 @@ tags: side,items,side,item,sides
         document.getElementById("visits").innerText=response.value;
     }
 </script>
-<script async src="https://api.countapi.xyz/hit/cmwillett.github.io/TheDigitalCookbook/visits?callback=cb"></script>
+<script type="text/javascript" async src="https://api.countapi.xyz/hit/cmwillett.github.io/TheDigitalCookbook/visits?callback=cb"></script>
 
 # Side Items
 * We love side items - usually more than the main course!
