@@ -6,6 +6,12 @@ tipue_search_active: true
 <html lang="en" ng-app="app">
     <head>
         <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script>
+          function cb(response) {
+            document.getElementById('TheDigitalCookbookSides').innerText = response.value;
+          }
+        </script>
+        <script async src="https://api.countapi.xyz/hit/cmwillett.github.io/TheDigitalCookbookSides?callback=cb"></script>
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137908761-1"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
