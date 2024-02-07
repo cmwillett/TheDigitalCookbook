@@ -22,7 +22,7 @@ tags: android,app,download
 
     ![]({{site.github.url}}/tdcInstall3.jpg){:height="600px" width="400px"}
 
-[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={{site.github.url}}%2FMobileApp%2Findex.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={{site.github.url}}%2FMobileApp%2Findex.html&count_bg=%2379C83D&title_bg=%23AE1212&icon=ifood.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--If any of the links below don't work for you, just email me at:  craig.willett@gmail.com
 
