@@ -4,7 +4,7 @@ title: "Side Items"
 tags: side,items,side,item,sides
 ---
 <div id="visits"></div>
-<button onclick="clicked()" src="https://api.countapi.xyz/hit/cwillett.github.io/TheDigitalCookbookSides?callback=cb">Press Me!</button>
+<button onclick="cb()" src="https://api.countapi.xyz/hit/cwillett.github.io/TheDigitalCookbookSides?callback=cb">Press Me!</button>
 <script>
 function clicked() {
     const para = document.createElement("p");
