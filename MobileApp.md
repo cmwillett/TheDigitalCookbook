@@ -4,9 +4,8 @@ title: "Android App"
 tags: android,app,download
 ---
 <div align="center">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={{site.github.url}}%2FMobileApp%2Findex.html&count_bg=%2379C83D&title_bg=%23AE1212&icon=ifood.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false"></a>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={{site.github.url}}%2FMobileApp%2Findex.html&count_bg=%2379C83D&title_bg=%23AE1212&icon=ifood.svg&icon_color=%23E7E7E7&title=visits+%28daily%2Ftotal%29&edge_flat=false"></a>
 </div>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={{site.github.url}}%2FMobileApp%2Findex.html&count_bg=%2379C83D&title_bg=%23AE1212&icon=ifood.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Want the app for your phone?  Sorry, all I have is Android.  If anyone out there is an Apple Developer and wants to build me an iOS app, let me know!  I already have the code...
 
