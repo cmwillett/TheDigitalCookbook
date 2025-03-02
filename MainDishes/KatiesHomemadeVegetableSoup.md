@@ -14,10 +14,13 @@ tags: soup,homemade,vegetable,main,course,dinner,craig,willett,katie
 - 1 bag of frozen green bean cuts
 - 1 bag of frozen cauliflower
 - 1 small can of tomato paste
+- half stick of butter
 - black pepper to taste
 - 1/2 tsp cayenne pepper
 - 1/4 (heaping) tsp of turmeric
-- garlic powder to taste
+- garlic powder/salt to taste
+- onion powder to taste
+- a few squirts of ketchup
 - 32 oz box of vegetable broth
 - v8 juice to thickness
 - optional:  orzo pasta
