@@ -8,20 +8,16 @@ tags: blackstone
 <!--### Categories-->
 <!-- TOC depthFrom:4 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-<!--- [Danish](#danish)
-- [Goetta](#goetta)
-- [Dogs and Brats](#dogs-and-brats)
-- [Egg Based](#egg-based)
-- [Oatmeal](#oatmeal)
-- [Pancakes](#pancakes)-->
+- [Breakfast](#breakfast)
+- [Dinners](#dinners)
 
 <!-- /TOC -->
 
-####Breakfast
+#### Breakfast
 * [Cinnamon Roll Pancakes](https://blackstoneproducts.com/blogs/recipes/cinnamon-roll-pancakes){:target="_blank"}
 * [Ham and Cheese Breakfast Sliders](https://blackstoneproducts.com/blogs/recipes/ham-cheese-breakfast-sliders){:target="_blank"}
 
-####Dinners
+#### Dinners
 * [Cheesy Chicken Quesadillas](https://blackstoneproducts.com/blogs/recipes/super-easy-mega-cheesy-quesadillas){:target="_blank"}
 * [Chicken Stir Fry](https://blackstoneproducts.com/blogs/recipes/chicken-stir-fry){:target="_blank"}
 * [Orange Teriyaki Chicken Skewers](https://blackstoneproducts.com/blogs/recipes/orange-teriyaki-chicken-skewers){:target="_blank"}
