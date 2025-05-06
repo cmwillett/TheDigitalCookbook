@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Breakfast Chili Dogs"
-tags: breakfast,hot,dog,chili,robert,riggs
+tags: breakfast,hot,dog,chili,robert,riggs,blackstone
 ---
 # Breakfast Chili Dogs
 

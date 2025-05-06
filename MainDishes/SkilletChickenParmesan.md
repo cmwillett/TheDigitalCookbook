@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Skillet Chicken Parmesan"
-tags: main,course,chicken,parmesan,skillet,dinner,janie,wilkey
+tags: main,course,chicken,parmesan,skillet,dinner,janie,wilkey,blackstone
 ---
 # Skillet Chicken Parmesan
 

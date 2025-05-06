@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Pepperoni Pizza Omelet"
-tags: breakfast,omelet,pepporoni,pizza,robert,riggs
+tags: breakfast,omelet,pepporoni,pizza,robert,riggs,blackstone
 ---
 # Pepperoni Pizza Omelet
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Grilled Potatoes and Onions"
-tags: potatoes,sweet,potato,russet,sides,side,item,items,craig,kristen,willett
+tags: potatoes,sweet,potato,russet,sides,side,item,items,craig,kristen,willett,blackstone
 ---
 # Grilled Potatoes and Onions
 

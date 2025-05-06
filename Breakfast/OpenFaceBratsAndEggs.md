@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Open Faced Brats and Eggs"
-tags: breakfast,open,face,faced,brats,eggs,robert,riggs
+tags: breakfast,open,face,faced,brats,eggs,robert,riggs,blackstone
 ---
 # Open Faced Brats and Eggs
 

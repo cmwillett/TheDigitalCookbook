@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Homemade Hibachi"
-tags: homemade,hibachi,main,course,dinner,craig,willett,kristen
+tags: homemade,hibachi,main,course,dinner,craig,willett,kristen,blackstone
 ---
 # Homemade Hibachi
 

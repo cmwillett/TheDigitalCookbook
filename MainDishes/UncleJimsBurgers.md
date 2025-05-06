@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Uncle Jim's Burgers"
-tags: beef,burgers,hamburger,burger,main,course,dinner,jim,remmel
+tags: beef,burgers,hamburger,burger,main,course,dinner,jim,remmel,blackstone
 ---
 # Uncle Jim's Burgers
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Breakfast Hot Dog Special"
-tags: breakfast,hot,dog,special,robert,riggs
+tags: breakfast,hot,dog,special,robert,riggs,blackstone
 ---
 # Breakfast Hot Dog Special
 
