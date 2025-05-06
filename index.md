@@ -8,6 +8,7 @@ tags: home
 Here I will store all recipes I come across - well, not all, but the ones that are worthy!
 
 * [Appetizers / Dips]({{site.github.url}}/AppetizerDips/index.html)
+* [Blackstone]({{site.github.url}}/Blackstone/index.html)
 * [Breakfast]({{site.github.url}}/Breakfast/index.html)
 * [Camping Foods]({{site.github.url}}/Camping/index.html)
 * [Desserts]({{site.github.url}}/Desserts/index.html)
