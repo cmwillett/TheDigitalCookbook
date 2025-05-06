@@ -17,10 +17,10 @@ tags: blackstone
 
 <!-- /TOC -->
 
-[Chicken Stir Fry](https://blackstoneproducts.com/blogs/recipes/chicken-stir-fry){:target="_blank"}
-[Steak and Cheese Bagel Sandwiches](https://blackstoneproducts.com/blogs/recipes/steak-and-cheese-bagel-sandwiches){:target="_blank"}
-[Sweet and Spicy Buffalo Chicken Wraps](https://blackstoneproducts.com/blogs/recipes/sweet-and-spicy-buffalo-chicken-wraps){:target="_blank"}
-[Steak Quesadillas](https://blackstoneproducts.com/blogs/recipes/chimichurri-rojo-steak-quesadillas)(:target="_blank")
-[Orange Teriyaki Chicken Skewers](https://blackstoneproducts.com/blogs/recipes/orange-teriyaki-chicken-skewers){:target="_blank"}
-[Ham and Cheese Breakfast Sliders](https://blackstoneproducts.com/blogs/recipes/ham-cheese-breakfast-sliders){:target="_blank"}
-[Quick and Easy Cheesesteak](https://blackstoneproducts.com/blogs/recipes/quick-easy-cheesesteak){:target="_blank"}
+* [Chicken Stir Fry](https://blackstoneproducts.com/blogs/recipes/chicken-stir-fry){:target="_blank"}
+* [Steak and Cheese Bagel Sandwiches](https://blackstoneproducts.com/blogs/recipes/steak-and-cheese-bagel-sandwiches){:target="_blank"}
+* [Sweet and Spicy Buffalo Chicken Wraps](https://blackstoneproducts.com/blogs/recipes/sweet-and-spicy-buffalo-chicken-wraps){:target="_blank"}
+* [Steak Quesadillas](https://blackstoneproducts.com/blogs/recipes/chimichurri-rojo-steak-quesadillas)(:target="_blank")
+* [Orange Teriyaki Chicken Skewers](https://blackstoneproducts.com/blogs/recipes/orange-teriyaki-chicken-skewers){:target="_blank"}
+* [Ham and Cheese Breakfast Sliders](https://blackstoneproducts.com/blogs/recipes/ham-cheese-breakfast-sliders){:target="_blank"}
+* [Quick and Easy Cheesesteak](https://blackstoneproducts.com/blogs/recipes/quick-easy-cheesesteak){:target="_blank"}
