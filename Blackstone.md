@@ -5,7 +5,7 @@ tags: blackstone
 ---
 # Blackstone
 
-### Categories
+<!--### Categories-->
 <!-- TOC depthFrom:4 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 <!--- [Danish](#danish)
@@ -17,4 +17,4 @@ tags: blackstone
 
 <!-- /TOC -->
 
-[Chicken Stir Fry](https://blackstoneproducts.com/blogs/recipes/chicken-stir-fry)
+[Chicken Stir Fry](https://blackstoneproducts.com/blogs/recipes/chicken-stir-fry){:target="_blank"}
