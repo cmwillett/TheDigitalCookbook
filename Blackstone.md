@@ -24,3 +24,5 @@ tags: blackstone
 * [Orange Teriyaki Chicken Skewers](https://blackstoneproducts.com/blogs/recipes/orange-teriyaki-chicken-skewers){:target="_blank"}
 * [Ham and Cheese Breakfast Sliders](https://blackstoneproducts.com/blogs/recipes/ham-cheese-breakfast-sliders){:target="_blank"}
 * [Quick and Easy Cheesesteak](https://blackstoneproducts.com/blogs/recipes/quick-easy-cheesesteak){:target="_blank"}
+* [Cinnamon Roll Pancakes](https://blackstoneproducts.com/blogs/recipes/cinnamon-roll-pancakes){:target="_blank"}
+* [Cheesy Chicken Quesadillas](https://blackstoneproducts.com/blogs/recipes/super-easy-mega-cheesy-quesadillas){:target="_blank"}
