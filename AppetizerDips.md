@@ -14,6 +14,7 @@ tags: finger,foods,appetizer,snack,dips,dip
 - [Dips](#dips)
 - [Egg Rolls](#egg-rolls)
 - [Meatballs](#meatballs)
+- [Hawaiian Rolls](#hawaiian-rolls)
 - [Mozzarella Sticks](#mozzarella-sticks)
 - [Onions](#onions)
 - [Potatoes](#potatoes)
@@ -39,6 +40,9 @@ tags: finger,foods,appetizer,snack,dips,dip
 
 #### Egg Rolls
 * [Skyline Chili Egg Rolls]({{site.github.url}}/AppetizerDips/SkylineChiliEggRolls/index.html)
+
+#### Hawaiian Rolls
+* [Hawaiian Rolls](https://www.allrecipes.com/hawaiian-roll-recipes-11828517)
 
 #### Meatballs
 * [Craig's Meatballs]({{site.github.url}}/AppetizerDips/TheCraigsMeatballs/index.html)
