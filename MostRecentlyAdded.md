@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### October 15th, 2025
+* [Hawaiian Rolls Recipes](https://www.allrecipes.com/hawaiian-roll-recipes-11828517)
+
 #### December 31st, 2023
 * [Italian Meatloaf]({{site.github.url}}/MainDishes/ItalianMeatloaf/index.html)
 
