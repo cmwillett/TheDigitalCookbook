@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+### October 26th, 2025
+* [Crockpot Chicken Tacos](https://www.spendwithpennies.com/crockpot-chicken-tacos/)
+
 #### October 15th, 2025
 * [Hawaiian Rolls Recipes](https://www.allrecipes.com/hawaiian-roll-recipes-11828517)
 

@@ -31,6 +31,7 @@ tags: dinner,main,course,dish
 - [Smoked Meats](#smoked-meats)
 - [Soups](#soups)
 - [Stews](#stews)
+- [Tacos](#tacos)
 - [Thai](#thai)
 
 <!-- /TOC -->
@@ -91,6 +92,7 @@ tags: dinner,main,course,dish
 * [French Onion Baked Chicken]({{site.github.url}}/MainDishes/FrenchOnionBakedChicken/index.html)
 * [Sticky Finger Wraps]({{site.github.url}}/MainDishes/StickyFingerWraps/index.html)
 * [Homemade Chicken Nuggets]({{site.github.url}}/MainDishes/HomemadeChickenNuggets/index.html)
+* [Crockpot Chicken Tacos](https://www.spendwithpennies.com/crockpot-chicken-tacos/)
 
 #### Chilis
 * [Glenna's Cincinnati Chili]({{site.github.url}}/MainDishes/GlennasCincinnatiChili/index.html)
@@ -192,6 +194,9 @@ tags: dinner,main,course,dish
 * [Instant Pot 5 Spice Beef Stew]({{site.github.url}}/MainDishes/InstantPotFiveSpiceBeefStew/index.html)
 * [No Peek Beef Stew]({{site.github.url}}/MainDishes/NoPeekBeefStew/index.html)
 * [Texas Cowboy Stew]({{site.github.url}}/MainDishes/TexasCowboyStew/index.html)
+
+#### Tacos
+* [Crockpot Chicken Tacos](https://www.spendwithpennies.com/crockpot-chicken-tacos/)
 
 #### Thai
 * [Turkey Thai Curry]({{site.github.url}}/MainDishes/TurkeyThaiCurry/index.html)
