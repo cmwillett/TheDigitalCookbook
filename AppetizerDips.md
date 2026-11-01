@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Appetizer / Dips"
-tags: finger,foods,appetizer,snack,dips,dip
+tags: finger,foods,appetizer,snack,dips,dip,meatballs,appetizers
 ---
 # Ahhh, who doesn't love appetizers and dips!
 * Here we'll add as many appetizer/dip recipes as we can (some may even have pictures)...
@@ -46,6 +46,7 @@ tags: finger,foods,appetizer,snack,dips,dip
 
 #### Meatballs
 * [Craig's Meatballs]({{site.github.url}}/AppetizerDips/TheCraigsMeatballs/index.html)
+* [Cranberry Sauerkraut Meatballs](https://www.tasteofhome.com/recipes/cranberry-sauerkraut-meatballs/)
 
 #### Mozzarella Sticks
 * [Air Fryer Mozzarella Sticks]({{site.github.url}}/AppetizerDips/AirFryerMozzarellaSticks/index.html)

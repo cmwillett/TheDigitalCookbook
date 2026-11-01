@@ -9,6 +9,7 @@ tags: recent,current,new,most,recently,added
 
 #### November 1st, 2026
 * [Slow Cooker Mexican Lasagna](https://www.kroger.com/r/slow-cooker-mexican-lasagna-recipe/202768)
+* [Cranberry Sauerkraut Meatballs](https://www.tasteofhome.com/recipes/cranberry-sauerkraut-meatballs/)
 
 #### October 26th, 2025
 * [Crockpot Chicken Tacos](https://www.spendwithpennies.com/crockpot-chicken-tacos/)
