@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "MainDishes"
-tags: dinner,main,course,dish
+tags: dinner,main,course,dish,mexican,lasagna
 ---
 # Main Dishes
 * Some main course dishes...
@@ -134,6 +134,7 @@ tags: dinner,main,course,dish
 * [Oven Baked Spicy Chicken Tacos]({{site.github.url}}/MainDishes/OvenBakedSpicyChickenTacos/index.html)
 * [Sour Cream Chicken Enchilada Casserole]({{site.github.url}}/MainDishes/SourCreamChickenEnchiladaCasserole/index.html)
 * [Mexican Lasagna]({{site.github.url}}/MainDishes/MexicanLasagna/index.html)
+* [Slow Cooker Mexican Lasagna](https://www.kroger.com/r/slow-cooker-mexican-lasagna-recipe/202768)
 
 #### Pastas
 * [Linguini with White Clam Sauce]({{site.github.url}}/MainDishes/LinguiniWhiteClamSauce/index.html)

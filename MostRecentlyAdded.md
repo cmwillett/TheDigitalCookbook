@@ -7,6 +7,9 @@ tags: recent,current,new,most,recently,added
 
 ### The most recently added recipes that we've added to the site...
 
+#### November 1st, 2026
+* [Slow Cooker Mexican Lasagna](https://www.kroger.com/r/slow-cooker-mexican-lasagna-recipe/202768)
+
 #### October 26th, 2025
 * [Crockpot Chicken Tacos](https://www.spendwithpennies.com/crockpot-chicken-tacos/)
 
